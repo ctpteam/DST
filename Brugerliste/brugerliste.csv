@@ -1,1018 +1,1018 @@
-﻿The SAS System;;;;;;;;
-;;;;;;;;
-Obs;Projektnummer;NAVN;FORSKER_IDENT;PROJEKT_IDENT;MAIL;KONTAKT_TELEFON;MAA_HJEMSENDE;Seneste logondato
-1;702561;Mikkel Porsborg Andersen;FBXJ;FBXJ2561;mikkel.porsborg.andersen@regionh.dk;;J;
-2;702831;Mikkel Porsborg Andersen;FBXJ;FBXJ2831;mikkel.porsborg.andersen@regionh.dk;;J;
-3;702831;Christian Torp-Pedersen;ZYP;ZYP2831;CTP@HEART.DK;24453790;J;
-4;702911;Mikkel Porsborg Andersen;FBXJ;FBXJ2911;mikkel.porsborg.andersen@regionh.dk;;J;
-5;702911;Christian Torp-Pedersen;ZYP;ZYP2911;CTP@HEART.DK;24453790;J;20091006
-6;702969;Mikkel Porsborg Andersen;FBXJ;FBXJ2969;mikkel.porsborg.andersen@regionh.dk;;J;
-7;702969;Christian Torp-Pedersen;ZYP;ZYP2969;CTP@HEART.DK;24453790;J;20110811
-8;703308;Mikkel Porsborg Andersen;FBXJ;FBXJ3308;mikkel.porsborg.andersen@regionh.dk;;J;
-9;703308;Gunnar H. Gislason;ZYQ;ZYQ3308;gg@heart.dk;;J;20101220
-10;703421;Mikkel Porsborg Andersen;FBXJ;FBXJ3421;mikkel.porsborg.andersen@regionh.dk;;J;
-11;703421;Jon Trærup Andersen;QAW;QAW3421;jon.thor.traerup.andersen@regionh.dk;29721508;J;20110919
-12;703421;Charlotte Andersson;QJP;QJP3421;ca@heart.dk;;J;20140320
-13;703421;Ole Ahlehoff;QLQ;QLQ3421;olahha01@geh.regionh.dk;;N;20161219
-14;703421;Morten Lamberts;WCI;WCI3421;mortenlamberts@gmail.com;;J;20130409
-15;703421;Aksel Karl Georg Jensen;WIZ;WIZ3421;akje@sund.ku.dk;;N;20140108
-16;703421;Thomas Alexander Gerds;WJA;WJA3421;tag@biostat.ku.dk;;J;20130405
-17;703421;Mads Wissenberg Jørgensen;WKO;WKO3421;wissenberg@gmail.com;;J;20111003
-18;703421;Kristian Aasbjerg Andersen;WON;WON3421;kristian@aasbjerg.dk;40726210;J;20130926
-19;703421;Ulrik Madvig Mogensen;XZD;XZD3421;ulrik_mogensen@hotmail.com;29252637;J;20130717
-20;703421;Rikke Sørensen;YBF;YBF3421;rs@heart.dk;;J;20120110
-21;703421;Emil Loldrup Fosbøl;YBI;YBI3421;elf@heart.dk;26845552;J;20141213
-22;703421;Peter Weeke;YET;YET3421;pw@heart.dk;;J;20130327
-23;703421;Jonas Bjerring Olesen;YPI;YPI3421;jonasolesen@hotmail.com;;J;20141001
-24;703421;Christian Torp-Pedersen;ZYP;ZYP3421;CTP@HEART.DK;24453790;J;20130507
-25;703421;Gunnar H. Gislason;ZYQ;ZYQ3421;gg@heart.dk;;J;20131008
-26;703573;Mikkel Porsborg Andersen;FBXJ;FBXJ3573;mikkel.porsborg.andersen@regionh.dk;;N;20190703
-27;703573;Thomas Alexander Gerds;WJA;WJA3573;tag@biostat.ku.dk;;N;20161128
-28;703573;Christian Torp-Pedersen;ZYP;ZYP3573;CTP@HEART.DK;24453790;N;20190703
-29;703657;Louise Bruun Østergaard;FAHX;FAHX3657;l_bruun@hotmail.com;28726461;N;20190625
-30;703657;Anne Christine Huth Ruwald;FAHZ;FAHZ3657;annechristinehuth@hotmail.com;40177181;J;20190304
-31;703657;Nicholas Carlson;FAVM;FAVM3657;doc.mumbles@gmail.com;53636226;N;20190401
-32;703657;Kristian Hay Kragholm;FAWN;FAWN3657;kdks@rn.dk;20942675;J;20190224
-33;703657;Anna Gundlund Lorentzen;FBAQ;FBAQ3657;annagundlund@gmail.com;50907117;N;20190605
-34;703657;Linda Ejlskov Jeppesen;FBJF;FBJF3657;lej@econ.au.dk;26116549;N;20190704
-35;703657;Line Rosenkilde Berg Ullits Christensen;FBPP;FBPP3657;line@mmid.dk;23492325;N;20171128
-36;703657;Mikkel Porsborg Andersen;FBXJ;FBXJ3657;mikkel.porsborg.andersen@regionh.dk;;J;20171211
-37;703657;Alexander Egeberg;FBYN;FBYN3657;alexander.egeberg@gmail.com;;J;20190703
-38;703657;Caroline Sindet-Pedersen;FCBR;FCBR3657;carolinesindet@gmail.com;24230883;N;20160511
-39;703657;Ann Banke;FCCU;FCCU3657;Ann.Banke@rsyd.dk;26278303;N;
-40;703657;Jawad Haider Butt;FCUG;FCUG3657;jawad_butt91@hotmail.com;;N;20190608
-41;703657;Maria D Souza;FCXZ;FCXZ3657;mari.dsouz@gmail.com;28349132;N;20190525
-42;703657;Liis Starkopf;FDAE;FDAE3657;list@sund.ku.dk;93919311;N;20190103
-43;703657;Carlo Alberto Barcella;FDBB;FDBB3657;carloalbertobarcella@libero.it;;N;20181106
-44;703657;Lauge Klement Moltke Østergaard;FDRX;FDRX3657;laugeoestergaard@gmail.com;;N;20181217
-45;703657;Charlotte Glinge;FEFQ;FEFQ3657;cglinge@gmail.com;;N;20190204
-46;703657;Anna Axelsson Raja;FEWR;FEWR3657;anna.axelsson@dadlnet.dk;;N;20190512
-47;703657;Jeanette Halskou Hesselvig;FFLA;FFLA3657;jeanettehalskou@gmail.com;;N;20170704
-48;703657;Amani Meaidi;FFPY;FFPY3657;amani.meaidi@regionh.dk;;N;20190322
-49;703657;Mathias Ottosen;FGAB;FGAB3657;mathias.ottosen@gmail.com;;N;20171029
-50;703657;Pia Egerup;FGTC;FGTC3657;piaegerup@hotmail.com;;N;20190701
-51;703657;Emilie Hjermitslev Jonsen;FHCO;FHCO3657;emiliejonsen@gmail.com;;N;20190507
-52;703657;Frederik Nybye Ågesen;FHHT;FHHT3657;frederik.nybye.aagesen@regionh.dk;;N;20190604
-53;703657;Marcella Broccia;FIOK;FIOK3657;marcellabroccia@hotmail.com;;N;20190323
-54;703657;Camilla Nordheim Solli;FISM;FISM3657;cnos@regionsjaelland.dk;;N;20190606
-55;703657;Oliver S. Wennervaldt Larsen;FIXE;FIXE3657;oswlarsen@gmail.com;;N;20190508
-56;703657;Charlotte Helene Wichmand;FJCG;FJCG3657;chwichmand@gmail.com;;N;20190701
-57;703657;Magnus Ebbesen;FJII;FJII3657;magnus.niels.ebbesen@gmail.com;;N;
-58;703657;Jon Trærup Andersen;QAW;QAW3657;jon.thor.traerup.andersen@regionh.dk;29721508;J;
-59;703657;Charlotte Andersson;QJP;QJP3657;ca@heart.dk;;J;20190603
-60;703657;Michelle Schmiegelow;QNZ;QNZ3657;mdschmiegelow@gmail.com;;N;20190703
-61;703657;Thomas Alexander Gerds;WJA;WJA3657;tag@biostat.ku.dk;;N;20190627
-62;703657;Kristian Aasbjerg Andersen;WON;WON3657;kristian@aasbjerg.dk;40726210;J;20190121
-63;703657;Mia Nielsen;WTW;WTW3657;mia_nielsen7@hotmail.com;22162824;N;20190624
-64;703657;Emil Loldrup Fosbøl;YBI;YBI3657;elf@heart.dk;26845552;J;20190504
-65;703657;Peter Weeke;YET;YET3657;pw@heart.dk;;J;20181123
-66;703657;Ane Lilleøre Rom;YKG;YKG3657;ane.lilleoere.rom@regionh.dk;;N;20190322
-67;703657;Jonas Bjerring Olesen;YPI;YPI3657;jonasolesen@hotmail.com;;J;20190510
-68;703657;Christian Torp-Pedersen;ZYP;ZYP3657;CTP@HEART.DK;24453790;J;20170623
-69;703657;Gunnar H. Gislason;ZYQ;ZYQ3657;gg@heart.dk;;J;20141202
-70;703661;Lena Karlsson;FAFZ;FAFZ3661;limkarlsson@gmail.com;60278085;N;20181118
-71;703661;Shahzleen Rajan;FALC;FALC3661;shahzleen@gmail.com;29711165;N;20190530
-72;703661;Rikke Nørmark Mortensen;FAVA;FAVA3661;rnm@hst.aau.dk;22633831;J;20170817
-73;703661;Kristian Hay Kragholm;FAWN;FAWN3661;kdks@rn.dk;20942675;J;20190311
-74;703661;Kathrine Bach Søndergaard;FAXG;FAXG3661;kbsondergaard@gmail.com;22401364;N;20190426
-75;703661;Steen Møller Hansen;FBCG;FBCG3661;steen.hansen@rn.dk;25394360;J;20181003
-76;703661;Christina Ji-Young Lee;FBDE;FBDE3661;cjilee@outlook.com;60633595;N;
-77;703661;Bjarke Risgaard;FBDM;FBDM3661;bjarkerisgaard@gmail.com;29264388;N;20140123
-78;703661;Maria Lukacs;FBGH;FBGH3661;maria.krogager@rn.dk;53148824;N;20180930
-79;703661;Rasmus Rørth;FBMR;FBMR3661;rasmusroerth@hotmail.com;30229115;N;20141117
-80;703661;Sidsel Møller;FBPS;FBPS3661;sidselgm@gmail.com;;N;20190701
-81;703661;Paul Blanche;FBVQ;FBVQ3661;pabl@sund.ku.dk;;N;20180710
-82;703661;Kristian Bundgaard;FBVZ;FBVZ3661;kristian.bundgaard@rn.dk;22852667;J;20190527
-83;703661;Mikkel Porsborg Andersen;FBXJ;FBXJ3661;mikkel.porsborg.andersen@regionh.dk;;J;20171222
-84;703661;Nicolai Lohse;FCGB;FCGB3661;niclohse@gmail.com;22443309;N;20160517
-85;703661;Asger Granfeldt;FCLM;FCLM3661;granfeldt@gmail.com;29720155;N;20190607
-86;703661;Christoffer Polcwiartek;FCXB;FCXB3661;c.polcwiartek@gmail.com;30259831;N;20180725
-87;703661;Mathilde Winther-Jensen;FCZC;FCZC3661;mwin0034@regionh.dk;21256894;N;20190228
-88;703661;Liis Starkopf;FDAE;FDAE3661;list@sund.ku.dk;93919311;N;20190702
-89;703661;Carlo Alberto Barcella;FDBB;FDBB3661;carloalbertobarcella@libero.it;;N;20190701
-90;703661;Marianne Søndergaard Pape;FDRD;FDRD3661;misspape@gmail.com;;N;20190610
-91;703661;Grimur Høgnason Mohr;FEIO;FEIO3661;hbz241@alumni.ku.dk;;N;20190418
-92;703661;Signe Riddersholm;FEKO;FEKO3661;signeriddersholm@gmail.com;;J;20180613
-93;703661;Lucas Malta Westergaard;FGWB;FGWB3661;lucaswestergaard@gmail.com;;N;
-94;703661;Daniel Ooi Christensen;FHAE;FHAE3661;rwz992@alumni.ku.dk;;N;20190610
-95;703661;Nertila Zylyftari;FHST;FHST3661;nertila.zylyftari@gmail.com;;N;20180605
-96;703661;Harman Gailan Hassan Yonis;FIAI;FIAI3661;harman@live.dk;;N;20190331
-97;703661;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ3661;jehm@sund.ku.dk;;N;
-98;703661;Shaun Theodor Sødergren;FJAZ;FJAZ3661;shaun@si-folkesundhed.dk;;J;20190506
-99;703661;Anne Juul Jørgensen;FJIH;FJIH3661;anne.j.juul@gmail.com;;N;20190703
-100;703661;Christian Snitkjær;FJTQ;FJTQ3661;Christian_snit@hotmail.com;;N;
-101;703661;Annette Kjær Ersbøll;QVS;QVS3661;ake@si-folkesundhed.dk;;N;20190513
-102;703661;Aksel Karl Georg Jensen;WIZ;WIZ3661;akje@sund.ku.dk;;N;20170807
-103;703661;Thomas Alexander Gerds;WJA;WJA3661;tag@biostat.ku.dk;;J;20190703
-104;703661;Mads Wissenberg Jørgensen;WKO;WKO3661;wissenberg@gmail.com;;J;20180829
-105;703661;Emil Loldrup Fosbøl;YBI;YBI3661;elf@heart.dk;26845552;J;20130517
-106;703661;Peter Weeke;YET;YET3661;pw@heart.dk;;J;20190613
-107;703661;Jonas Bjerring Olesen;YPI;YPI3661;jonasolesen@hotmail.com;;J;20120605
-108;703661;Christian Torp-Pedersen;ZYP;ZYP3661;CTP@HEART.DK;24453790;J;20190509
-109;703661;Gunnar H. Gislason;ZYQ;ZYQ3661;gg@heart.dk;;J;20171102
-110;703662;Kristian Hay Kragholm;FAWN;FAWN3662;kdks@rn.dk;20942675;J;20170926
-111;703662;Mikkel Porsborg Andersen;FBXJ;FBXJ3662;mikkel.porsborg.andersen@regionh.dk;;J;20171006
-112;703662;Amalie Lykkemark Møller;FIAM;FIAM3662;amalielykkemark@live.dk;;N;20190325
-113;703662;Thomas Alexander Gerds;WJA;WJA3662;tag@biostat.ku.dk;;J;20190325
-114;703662;Kristian Aasbjerg Andersen;WON;WON3662;kristian@aasbjerg.dk;40726210;J;20170615
-115;703662;Christian Torp-Pedersen;ZYP;ZYP3662;CTP@HEART.DK;24453790;J;20181101
-116;703662;Gunnar H. Gislason;ZYQ;ZYQ3662;gg@heart.dk;;J;20130217
-117;703664;Sadaf Kamil;FALM;FALM3664;sadafkamil88@gmail.com;27347893;N;20170602
-118;703664;Mikkel Porsborg Andersen;FBXJ;FBXJ3664;mikkel.porsborg.andersen@regionh.dk;;J;
-119;703664;Alexander Egeberg;FBYN;FBYN3664;alexander.egeberg@gmail.com;;J;20190308
-120;703664;Yuri Maria Fukuda Andersen;FCRD;FCRD3664;yuki.maria.fukuda.andersen.01@regionh.dk;60161860;J;20181031
-121;703664;Maria D Souza;FCXZ;FCXZ3664;mari.dsouz@gmail.com;28349132;J;20161012
-122;703664;Laura Kofoed Kjær;FDWH;FDWH3664;laura.kofoed.kjaer@regionh.dk;;N;
-123;703664;Jeanette Halskou Hesselvig;FFLA;FFLA3664;jeanettehalskou@gmail.com;;N;20170612
-124;703664;Mathias Ottosen;FGAB;FGAB3664;mathias.ottosen@gmail.com;;N;20170915
-125;703664;Niklas Alexander Worm Andersson;FIYD;FIYD3664;niklas.alexander.worm.andersson.01@regionh.dk;;N;20190701
-126;703664;Jon Trærup Andersen;QAW;QAW3664;jon.thor.traerup.andersen@regionh.dk;29721508;J;20190625
-127;703664;Charlotte Andersson;QJP;QJP3664;ca@heart.dk;;J;20160910
-128;703664;Espen Jimenez Solem;QKZ;QKZ3664;espen.jimenez.solem@regionh.dk;24820576;N;20190126
-129;703664;Michelle Schmiegelow;QNZ;QNZ3664;mdschmiegelow@gmail.com;;N;20180226
-130;703664;Henrik Enghusen Poulsen;YJD;YJD3664;hepo@rh.regionh.dk;40683911;J;20150831
-131;703664;Jonas Bjerring Olesen;YPI;YPI3664;jonasolesen@hotmail.com;;J;20121129
-132;703664;Christian Torp-Pedersen;ZYP;ZYP3664;CTP@HEART.DK;24453790;J;20150716
-133;703664;Gunnar H. Gislason;ZYQ;ZYQ3664;gg@heart.dk;;J;20130528
-134;703678;Usman Khalid;FADC;FADC3678;usman.khalid@regionh.dk;27830081;N;20180401
-135;703678;Louise Bruun Østergaard;FAHX;FAHX3678;l_bruun@hotmail.com;28726461;N;20150109
-136;703678;Cengiz Özcan;FAKO;FAKO3678;cengizoezcan@gmail.com;24202415;N;20190704
-137;703678;Mads Emil Jørgensen;FAKQ;FAKQ3678;mads.emil.joergensen@regionh.dk;51940781;N;20151231
-138;703678;Karl Emil Kristensen;FAPJ;FAPJ3678;karlemil@dadlnet.dk;26858717;N;20181024
-139;703678;Anders Nissen Bonde;FBAW;FBAW3678;andersnissenbonde@gmail.com;40837539;N;20171113
-140;703678;Ida Biering-Sørensen;FBGG;FBGG3678;idabs86@gmail.com;25750222;N;20180130
-141;703678;Christian Madelaire Rasmussen;FBLG;FBLG3678;christian.madelaire.rasmussen@regionh.dk;;N;20180820
-142;703678;Paul Blanche;FBVQ;FBVQ3678;pabl@sund.ku.dk;;N;20180524
-143;703678;Mikkel Porsborg Andersen;FBXJ;FBXJ3678;mikkel.porsborg.andersen@regionh.dk;;J;
-144;703678;Thomas Steen Gyldenstierne Sehested;FBXS;FBXS3678;tsg.sehested@gmail.com;20836010;N;20190527
-145;703678;Lærke Smedegaard Petersen;FCAS;FCAS3678;laerkesmedegaard@gmail.com;26141457;N;20160911
-146;703678;Majbritt Svendsen;FCAZ;FCAZ3678;majbritt.svendsen@rn.dk;30343647;N;20171003
-147;703678;Maurizio Sessa;FCVB;FCVB3678;maurizio.sessa@sund.ku.dk;52755467;N;
-148;703678;Maria D Souza;FCXZ;FCXZ3678;mari.dsouz@gmail.com;28349132;J;20161012
-149;703678;Jesper Krogh;FEPB;FEPB3678;jesper.krogh@dadlnet.dk;;N;
-150;703678;Hafsah Nabi;FEXM;FEXM3678;hafsah.nabi@sund.ku.dk;51953203;N;20190607
-151;703678;Charlotte Andreasen;FEXT;FEXT3678;andreasencharlotte7@gmail.com;;N;20180313
-152;703678;Tor Biering-Sørensen;FFRN;FFRN3678;tor.biering@gmail.com;;N;
-153;703678;Daniel Henrik Tajchman;FGHR;FGHR3678;smf681@alumni.ku.dk;;N;20190520
-154;703678;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ3678;jehm@sund.ku.dk;;N;
-155;703678;Christine Benn Christiansen;QIT;QIT3678;christinebenn@hotmail.com;27179616;N;20190221
-156;703678;Charlotte Andersson;QJP;QJP3678;ca@heart.dk;;J;20190411
-157;703678;Michelle Schmiegelow;QNZ;QNZ3678;mdschmiegelow@gmail.com;;N;20150109
-158;703678;Christian Selmer;QTB;QTB3678;cselmer@gmail.com;;N;20190501
-159;703678;Thomas Alexander Gerds;WJA;WJA3678;tag@biostat.ku.dk;;J;20190627
-160;703678;Rikke Sørensen;YBF;YBF3678;rs@heart.dk;;J;20190626
-161;703678;Jonas Bjerring Olesen;YPI;YPI3678;jonasolesen@hotmail.com;;J;20160215
-162;703678;Kristine Hommel;YYS;YYS3678;khommel@dadlnet.dk;;N;20160122
-163;703678;Christian Torp-Pedersen;ZYP;ZYP3678;CTP@HEART.DK;24453790;J;20180918
-164;703678;Gunnar H. Gislason;ZYQ;ZYQ3678;gg@heart.dk;;J;20180415
-165;703679;Anders Mikkelsen;FAIV;FAIV3679;andersmik87@gmail.com;61335545;N;20181001
-166;703679;Cengiz Özcan;FAKO;FAKO3679;cengizoezcan@gmail.com;24202415;N;20161129
-167;703679;Kristian Hay Kragholm;FAWN;FAWN3679;kdks@rn.dk;20942675;J;20190617
-168;703679;Anders Nissen Bonde;FBAW;FBAW3679;andersnissenbonde@gmail.com;40837539;N;20180823
-169;703679;Christina Ji-Young Lee;FBDE;FBDE3679;cjilee@outlook.com;60633595;J;20171219
-170;703679;Laila Jensen stærk;FBGN;FBGN3679;lailastaerk@gmail.com;30220429;N;20160709
-171;703679;Christian Madelaire Rasmussen;FBLG;FBLG3679;christian.madelaire.rasmussen@regionh.dk;;N;20180315
-172;703679;Peter Wæde Hansen;FBUB;FBUB3679;waede.sci@gmail.com;27148894;N;20181023
-173;703679;Paul Blanche;FBVQ;FBVQ3679;pabl@sund.ku.dk;;N;
-174;703679;Mikkel Porsborg Andersen;FBXJ;FBXJ3679;mikkel.porsborg.andersen@regionh.dk;;J;
-175;703679;Louise Hagengaard;FCKJ;FCKJ3679;l.hagengaard@rn.dk;61466861;N;20170320
-176;703679;Jawad Haider Butt;FCUG;FCUG3679;jawad_butt91@hotmail.com;;N;20181022
-177;703679;Maurizio Sessa;FCVB;FCVB3679;maurizio.sessa@sund.ku.dk;52755467;J;
-178;703679;Frederik Dalgaard;FEJC;FEJC3679;rendesten@gmail.com;;N;20180507
-179;703679;Naja Emborg Vinding;FEMV;FEMV3679;naja_vinding@msn.com;;J;20190704
-180;703679;Zishan Yaqub;FFAF;FFAF3679;zishanyaqub@hotmail.com;;N;20190704
-181;703679;Bochra Zareini;FFGN;FFGN3679;bochrazareini@gmail.com;;N;20170522
-182;703679;Eva Borgersen;FGGW;FGGW3679;evaborgersen@gmail.com;;N;20181219
-183;703679;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ3679;jehm@sund.ku.dk;;N;
-184;703679;Morten Lamberts;WCI;WCI3679;mortenlamberts@gmail.com;;J;20170804
-185;703679;Thomas Alexander Gerds;WJA;WJA3679;tag@biostat.ku.dk;;J;20170823
-186;703679;Emil Loldrup Fosbøl;YBI;YBI3679;elf@heart.dk;26845552;J;20181205
-187;703679;Peter Weeke;YET;YET3679;pw@heart.dk;;J;20160515
-188;703679;Jonas Bjerring Olesen;YPI;YPI3679;jonasolesen@hotmail.com;;J;20170508
-189;703679;Christian Torp-Pedersen;ZYP;ZYP3679;CTP@HEART.DK;24453790;J;20170811
-190;703679;Gunnar H. Gislason;ZYQ;ZYQ3679;gg@heart.dk;;J;20170612
-191;703716;Anne Christine Huth Ruwald;FAHZ;FAHZ3716;annechristinehuth@hotmail.com;40177181;J;20190624
-192;703716;Mads Emil Jørgensen;FAKQ;FAKQ3716;mads.emil.joergensen@regionh.dk;51940781;J;20121010
-193;703716;Rikke Nørmark Mortensen;FAVA;FAVA3716;rnm@hst.aau.dk;22633831;N;20180312
-194;703716;Kristian Hay Kragholm;FAWN;FAWN3716;kdks@rn.dk;20942675;J;20190703
-195;703716;Mavish Safdar Chaudry;FAXS;FAXS3716;mavish89@hotmail.com;28112786;N;20190701
-196;703716;Anna Gundlund Lorentzen;FBAQ;FBAQ3716;annagundlund@gmail.com;50907117;N;20170306
-197;703716;Steen Møller Hansen;FBCG;FBCG3716;steen.hansen@rn.dk;25394360;J;20180514
-198;703716;Christina Ji-Young Lee;FBDE;FBDE3716;cjilee@outlook.com;60633595;J;20181129
-199;703716;Maria Lukacs;FBGH;FBGH3716;maria.krogager@rn.dk;53148824;N;20190702
-200;703716;Rasmus Rørth;FBMR;FBMR3716;rasmusroerth@hotmail.com;30229115;N;20190510
-201;703716;Paul Blanche;FBVQ;FBVQ3716;pabl@sund.ku.dk;;N;20181217
-202;703716;Mikkel Porsborg Andersen;FBXJ;FBXJ3716;mikkel.porsborg.andersen@regionh.dk;;J;20171212
-203;703716;Morten Malmborg;FBXM;FBXM3716;mortenmalmborg@gmail.com;30543158;J;
-204;703716;Lærke Smedegaard Petersen;FCAS;FCAS3716;laerkesmedegaard@gmail.com;26141457;N;20170321
-205;703716;Mette Aldahl Nielsen;FCKF;FCKF3716;mani12@student.aau.dk;60210195;N;20190604
-206;703716;Line Davidsen;FCKI;FCKI3716;ldavid12@student.aau.dk;60372271;N;20190606
-207;703716;Julie Andersen;FCUE;FCUE3716;juliea@hjerteforeningen.dk;;N;20180320
-208;703716;Jawad Haider Butt;FCUG;FCUG3716;jawad_butt91@hotmail.com;;N;20190629
-209;703716;Maurizio Sessa;FCVB;FCVB3716;maurizio.sessa@sund.ku.dk;52755467;J;20190508
-210;703716;Christoffer Polcwiartek;FCXB;FCXB3716;c.polcwiartek@gmail.com;30259831;N;20190406
-211;703716;Maria D Souza;FCXZ;FCXZ3716;mari.dsouz@gmail.com;28349132;N;20190215
-212;703716;Lauge Klement Moltke Østergaard;FDRX;FDRX3716;laugeoestergaard@gmail.com;;N;20190408
-213;703716;Jenny Bjerre;FEBE;FEBE3716;jennybjerre@gmail.com;;N;20170705
-214;703716;Viinu Manoharan;FEGL;FEGL3716;vmanoh12@student.aau.dk;;N;
-215;703716;Anne Mielke;FEID;FEID3716;anne_m_94@live.dk;;N;20180918
-216;703716;Alexander Christian Falkentoft;FEWQ;FEWQ3716;a.falkentoft@gmail.com;;N;
-217;703716;Anna Axelsson Raja;FEWR;FEWR3716;anna.axelsson@dadlnet.dk;;N;20190411
-218;703716;Bochra Zareini;FFGN;FFGN3716;bochrazareini@gmail.com;;N;20190604
-219;703716;Johan Skov Bundgaard;FGGU;FGGU3716;johan.bundgaard@gmail.com;;N;20171212
-220;703716;David Nikolai Thein Aagaard;FGGV;FGGV3716;davidaagaard@gmail.com;;N;20180730
-221;703716;Eva Borgersen;FGGW;FGGW3716;evaborgersen@gmail.com;;J;20181022
-222;703716;Flora Sigvardt;FGJQ;FGJQ3716;flora.sigvardt@gmail.com;;N;20180629
-223;703716;Daniel Modin;FGXK;FGXK3716;danielmodin@live.dk;;N;20190117
-224;703716;Henrik Hovgaard;FGZY;FGZY3716;hnrkhvgrd@hotmail.com;;N;20180312
-225;703716;Mads-Holger Bang Jacobsen;FIGX;FIGX3716;madsholger23@live.dk;;N;20190204
-226;703716;Marie Dam Lauridsen;FIIL;FIIL3716;Mala_mdl@hotmail.com;;N;20190701
-227;703716;Mads Odgaard Mæng;FINI;FINI3716;madsmaeng@gmail.com;;N;20190624
-228;703716;Mikkel Kjeldgaard;FINJ;FINJ3716;mikkel.kj@outlook.dk;;N;20190624
-229;703716;Simone Hofman Rosenkranz;FIRP;FIRP3716;simonemoerk@gmail.com;;N;20190701
-230;703716;Sofie Nancy Glud Heiredal;FIRQ;FIRQ3716;sofie.g.heiredal@gmail.com;;N;20190704
-231;703716;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ3716;jehm@sund.ku.dk;;N;
-232;703716;Michael Thøgersen;FJOL;FJOL3716;tthoegersen@gmail.com;;N;
-233;703716;Ali Asaad Turky Al Kahwa;FJSA;FJSA3716;xwl764@alumni.ku.dk;;N;
-234;703716;Charlotte Andersson;QJP;QJP3716;ca@heart.dk;;J;20190425
-235;703716;Michelle Schmiegelow;QNZ;QNZ3716;mdschmiegelow@gmail.com;;N;20141002
-236;703716;Christian Selmer;QTB;QTB3716;cselmer@gmail.com;;N;20180213
-237;703716;Morten Lamberts;WCI;WCI3716;mortenlamberts@gmail.com;;J;20190510
-238;703716;Thomas Alexander Gerds;WJA;WJA3716;tag@biostat.ku.dk;;J;20190628
-239;703716;Søren Lund Kristensen;WTV;WTV3716;soerenlk@gmail.com;28694385;J;20190624
-240;703716;Mia Nielsen;WTW;WTW3716;mia_nielsen7@hotmail.com;22162824;N;20160304
-241;703716;Ulrik Madvig Mogensen;XZD;XZD3716;ulrik_mogensen@hotmail.com;29252637;J;20180313
-242;703716;Rikke Sørensen;YBF;YBF3716;rs@heart.dk;;J;20140428
-243;703716;Emil Loldrup Fosbøl;YBI;YBI3716;elf@heart.dk;26845552;J;20190701
-244;703716;Peter Weeke;YET;YET3716;pw@heart.dk;;J;
-245;703716;Jonas Bjerring Olesen;YPI;YPI3716;jonasolesen@hotmail.com;;J;20160601
-246;703716;Lene Mia von Kappelgaard;YYI;YYI3716;lmvk@si-folkesundhed.dk;51925860;N;20180118
-247;703716;Henrik Bøggild;ZJV;ZJV3716;boggild@hst.aau.dk;51417858;J;
-248;703716;Christian Torp-Pedersen;ZYP;ZYP3716;CTP@HEART.DK;24453790;J;20190625
-249;703716;Gunnar H. Gislason;ZYQ;ZYQ3716;gg@heart.dk;;J;20181208
-250;703740;Sadaf Kamil;FALM;FALM3740;sadafkamil88@gmail.com;27347893;N;20170531
-251;703740;Paul Blanche;FBVQ;FBVQ3740;pabl@sund.ku.dk;;J;20190627
-252;703740;Mikkel Porsborg Andersen;FBXJ;FBXJ3740;mikkel.porsborg.andersen@regionh.dk;;J;20170713
-253;703740;Morten Malmborg;FBXM;FBXM3740;mortenmalmborg@gmail.com;30543158;N;20190624
-254;703740;Steffen U. Thorsen;FCSI;FCSI3740;s.u.thorsen@gmail.com;;N;
-255;703740;Christoffer Polcwiartek;FCXB;FCXB3740;c.polcwiartek@gmail.com;30259831;J;
-256;703740;Carlo Alberto Barcella;FDBB;FDBB3740;carloalbertobarcella@libero.it;;N;20190701
-257;703740;Lauge Klement Moltke Østergaard;FDRX;FDRX3740;laugeoestergaard@gmail.com;;N;20151021
-258;703740;Laura Kofoed Kjær;FDWH;FDWH3740;laura.kofoed.kjaer@regionh.dk;;N;20190520
-259;703740;Grimur Høgnason Mohr;FEIO;FEIO3740;hbz241@alumni.ku.dk;;N;20180507
-260;703740;Daniel Bech Rasmussen;FEOI;FEOI3740;Daniel.rasmussen@live.dk;;N;20170804
-261;703740;Casper Bang;FETA;FETA3740;casperbang@hotmail.com;;N;20190311
-262;703740;Anders Munch;FFLR;FFLR3740;amnudn@gmail.com;;N;20190203
-263;703740;Mariam Elmegaard Malik;FFYY;FFYY3740;rasmussen.mariam@gmail.com;;N;20190627
-264;703740;David Nikolai Thein Aagaard;FGGV;FGGV3740;davidaagaard@gmail.com;;N;20180821
-265;703740;Mohamad Hassan El-Chouli;FGHW;FGHW3740;mohamad.hassan.el-chouli@regionh.dk;;N;20190614
-266;703740;Christina Ellervik;FGIE;FGIE3740;christina@ellervik.dk;;N;20190416
-267;703740;Martin Roest Christensen;FGSO;FGSO3740;Martin.Christensen@sund.ku.dk;;N;20181105
-268;703740;Matthew Phelps;FHBB;FHBB3740;mphelps@hjerteforeningen.dk;;J;20190513
-269;703740;Alisa Kjærgaard;FHMJ;FHMJ3740;alisa@devedzic.dk;;N;20180925
-270;703740;Anders Jørgensen;FHVB;FHVB3740;Anders.01.Joergensen@regionh.dk;;N;20190606
-271;703740;Sarah Friedrich;FIER;FIER3740;sarah.friedrich@uni-ulm.de;;N;20181210
-272;703740;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ3740;jehm@sund.ku.dk;;N;20190609
-273;703740;Emil List Larsen;FIYC;FIYC3740;emil.list.larsen.01@regionh.dk;;N;20190611
-274;703740;Mads Reinholdt;FJSQ;FJSQ3740;mads.rasmussen.02@regionh.dk;;N;
-275;703740;Jan Feifel;FJSY;FJSY3740;jan.feifel@uni-ulm.de;;N;
-276;703740;Charlotte Andersson;QJP;QJP3740;ca@heart.dk;;J;20190430
-277;703740;Michelle Schmiegelow;QNZ;QNZ3740;mdschmiegelow@gmail.com;;J;20190606
-278;703740;Thomas Alexander Gerds;WJA;WJA3740;tag@biostat.ku.dk;;J;20190618
-279;703740;Søren Lund Kristensen;WTV;WTV3740;soerenlk@gmail.com;28694385;N;20180423
-280;703740;Tina Ken Schramm;XFY;XFY3740;tks@heart.dk;;N;20140707
-281;703740;Ulrik Madvig Mogensen;XZD;XZD3740;ulrik_mogensen@hotmail.com;29252637;J;20180313
-282;703740;Emil Loldrup Fosbøl;YBI;YBI3740;elf@heart.dk;26845552;J;20160217
-283;703740;Peter Weeke;YET;YET3740;pw@heart.dk;;J;
-284;703740;Henrik Enghusen Poulsen;YJD;YJD3740;hepo@rh.regionh.dk;40683911;J;20190624
-285;703740;Jonas Bjerring Olesen;YPI;YPI3740;jonasolesen@hotmail.com;;J;20150812
-286;703740;Christian Torp-Pedersen;ZYP;ZYP3740;CTP@HEART.DK;24453790;J;20180830
-287;703740;Gunnar H. Gislason;ZYQ;ZYQ3740;gg@heart.dk;;J;20180704
-288;703757;Mikkel Porsborg Andersen;FBXJ;FBXJ3757;mikkel.porsborg.andersen@regionh.dk;;J;
-289;703757;Jeanette Halskou Hesselvig;FFLA;FFLA3757;jeanettehalskou@gmail.com;;N;20170612
-290;703757;Christian Torp-Pedersen;ZYP;ZYP3757;CTP@HEART.DK;24453790;J;
-291;703757;Gunnar H. Gislason;ZYQ;ZYQ3757;gg@heart.dk;;J;20120216
-292;703766;Usman Khalid;FADC;FADC3766;usman.khalid@regionh.dk;27830081;N;20180508
-293;703766;Louise Bruun Østergaard;FAHX;FAHX3766;l_bruun@hotmail.com;28726461;N;20151102
-294;703766;Cengiz Özcan;FAKO;FAKO3766;cengizoezcan@gmail.com;24202415;N;20160407
-295;703766;Sadaf Kamil;FALM;FALM3766;sadafkamil88@gmail.com;27347893;N;20190307
-296;703766;Anna-Karin Nume;FASQ;FASQ3766;annakarin.nume@gmail.com;50569759;N;20150414
-297;703766;Rikke Nørmark Mortensen;FAVA;FAVA3766;rnm@hst.aau.dk;22633831;N;20170606
-298;703766;Nicholas Carlson;FAVM;FAVM3766;doc.mumbles@gmail.com;53636226;J;20190620
-299;703766;Kristian Hay Kragholm;FAWN;FAWN3766;kdks@rn.dk;20942675;J;20171001
-300;703766;Christina Ji-Young Lee;FBDE;FBDE3766;cjilee@outlook.com;60633595;J;20180312
-301;703766;Mette Nygaard Andersen;FBDH;FBDH3766;mette.nygaard.andersen@gmail.com;60388285;N;20181205
-302;703766;Bjarke Risgaard;FBDM;FBDM3766;bjarkerisgaard@gmail.com;29264388;N;20150409
-303;703766;Anna Horwitz;FBEJ;FBEJ3766;horwitzen08@gmail.com;20650706;N;20180105
-304;703766;Rasmus Rørth;FBMR;FBMR3766;rasmusroerth@hotmail.com;30229115;N;20190308
-305;703766;Sidsel Møller;FBPS;FBPS3766;sidselgm@gmail.com;;N;20140310
-306;703766;Elisabeth Helen Anna Mills;FBUS;FBUS3766;elisabeth.mills@gmail.com;20875651;N;20160412
-307;703766;Mikkel Porsborg Andersen;FBXJ;FBXJ3766;mikkel.porsborg.andersen@regionh.dk;;J;20171006
-308;703766;Morten Malmborg;FBXM;FBXM3766;mortenmalmborg@gmail.com;30543158;N;20181008
-309;703766;Thomas Steen Gyldenstierne Sehested;FBXS;FBXS3766;tsg.sehested@gmail.com;20836010;N;20171222
-310;703766;Alexander Egeberg;FBYN;FBYN3766;alexander.egeberg@gmail.com;;J;20190615
-311;703766;Anne Pernille Toft-Petersen;FCAA;FCAA3766;aptp85@gmail.com;21730348;N;20171113
-312;703766;Majbritt Svendsen;FCAZ;FCAZ3766;majbritt.svendsen@rn.dk;30343647;N;20171003
-313;703766;Caroline Sindet-Pedersen;FCBR;FCBR3766;carolinesindet@gmail.com;24230883;N;20170913
-314;703766;Ann Banke;FCCU;FCCU3766;Ann.Banke@rsyd.dk;26278303;N;20170214
-315;703766;Christina Jacobsen;FCDM;FCDM3766;christinaboeghj@gmail.com;28518829;N;20190625
-316;703766;Yuri Maria Fukuda Andersen;FCRD;FCRD3766;yuki.maria.fukuda.andersen.01@regionh.dk;60161860;J;20190212
-317;703766;Jawad Haider Butt;FCUG;FCUG3766;jawad_butt91@hotmail.com;;N;
-318;703766;Maurizio Sessa;FCVB;FCVB3766;maurizio.sessa@sund.ku.dk;52755467;J;20181204
-319;703766;Christoffer Polcwiartek;FCXB;FCXB3766;c.polcwiartek@gmail.com;30259831;N;20190406
-320;703766;Maria D Souza;FCXZ;FCXZ3766;mari.dsouz@gmail.com;28349132;N;20170416
-321;703766;Carlo Alberto Barcella;FDBB;FDBB3766;carloalbertobarcella@libero.it;;N;20170706
-322;703766;Lauge Klement Moltke Østergaard;FDRX;FDRX3766;laugeoestergaard@gmail.com;;N;20170926
-323;703766;Nanna Vestergaard Jensen;FDWA;FDWA3766;nvje11@gmail.com;;N;20190703
-324;703766;Jesper Krogh;FEPB;FEPB3766;jesper.krogh@dadlnet.dk;;N;20170201
-325;703766;Annamaria Mascolo;FEQU;FEQU3766;amaria_89@hotmail.it;;N;20171004
-326;703766;Anders Holt;FEWM;FEWM3766;holt.anders@gmail.com;;N;20190220
-327;703766;Charlotte Andreasen;FEXT;FEXT3766;andreasencharlotte7@gmail.com;;N;20170602
-328;703766;Ann-Eva Christensen;FFAG;FFAG3766;anneva.christensen@rn.dk;;N;20180227
-329;703766;Peter Jacobsen;FFEM;FFEM3766;peter.jacobsen@rn.dk;;N;20170306
-330;703766;Jacob Bodilsen;FFKB;FFKB3766;jacob.bodilsen@rn.dk;;N;
-331;703766;Jeanette Halskou Hesselvig;FFLA;FFLA3766;jeanettehalskou@gmail.com;;N;20180312
-332;703766;Anders Munch;FFLR;FFLR3766;amnudn@gmail.com;;N;20190129
-333;703766;Amani Meaidi;FFPY;FFPY3766;amani.meaidi@regionh.dk;;N;
-334;703766;Mathias Ottosen;FGAB;FGAB3766;mathias.ottosen@gmail.com;;N;20171007
-335;703766;Ali Akil Al-Alak;FHEZ;FHEZ3766;ali.akil.al-alak.02@regionh.dk;;N;20190401
-336;703766;Christine Benn Christiansen;QIT;QIT3766;christinebenn@hotmail.com;27179616;N;20180319
-337;703766;Charlotte Andersson;QJP;QJP3766;ca@heart.dk;;J;20190412
-338;703766;Ole Ahlehoff;QLQ;QLQ3766;olahha01@geh.regionh.dk;;N;20170808
-339;703766;Jesper Lindhardsen;QNB;QNB3766;jesper.lindhardsen@regionh.dk;51808678;N;20190626
-340;703766;Michelle Schmiegelow;QNZ;QNZ3766;mdschmiegelow@gmail.com;;N;20181008
-341;703766;Sheraz Afzal Butt;QQP;QQP3766;sheraz.butt@regionh.dk;;N;20171025
-342;703766;Christian Selmer;QTB;QTB3766;cselmer@gmail.com;;N;20190204
-343;703766;Morten Lamberts;WCI;WCI3766;mortenlamberts@gmail.com;;J;20180515
-344;703766;Thomas Alexander Gerds;WJA;WJA3766;tag@biostat.ku.dk;;J;20170922
-345;703766;Mads Wissenberg Jørgensen;WKO;WKO3766;wissenberg@gmail.com;;J;20150808
-346;703766;Kristian Aasbjerg Andersen;WON;WON3766;kristian@aasbjerg.dk;40726210;J;20190322
-347;703766;Søren Lund Kristensen;WTV;WTV3766;soerenlk@gmail.com;28694385;N;20180221
-348;703766;Mia Nielsen;WTW;WTW3766;mia_nielsen7@hotmail.com;22162824;J;20190504
-349;703766;Emil Loldrup Fosbøl;YBI;YBI3766;elf@heart.dk;26845552;N;20190319
-350;703766;Lisbeth Bonde;YOC;YOC3766;lisbeth.bonde@dadlnet.dk;;N;
-351;703766;Jonas Bjerring Olesen;YPI;YPI3766;jonasolesen@hotmail.com;;J;20160906
-352;703766;Lene Mia von Kappelgaard;YYI;YYI3766;lmvk@si-folkesundhed.dk;51925860;N;20170214
-353;703766;Kristine Hommel;YYS;YYS3766;khommel@dadlnet.dk;;N;20170426
-354;703766;Christian Torp-Pedersen;ZYP;ZYP3766;CTP@HEART.DK;24453790;J;20180815
-355;703766;Gunnar H. Gislason;ZYQ;ZYQ3766;gg@heart.dk;;J;20170804
-356;703775;Anders Mikkelsen;FAIV;FAIV3775;andersmik87@gmail.com;61335545;N;
-357;703775;Henriette Strøm Kakr;FBER;FBER3775;hestje@rn.dk;40287211;N;20190318
-358;703775;Torill Rotevatn;FBTT;FBTT3775;Torill_rot@hotmail.com;61692007;N;20190701
-359;703775;Mikkel Porsborg Andersen;FBXJ;FBXJ3775;mikkel.porsborg.andersen@regionh.dk;;J;20171204
-360;703775;Annamaria Mascolo;FEQU;FEQU3775;amaria_89@hotmail.it;;N;20190117
-361;703775;Amani Meaidi;FFPY;FFPY3775;amani.meaidi@regionh.dk;;N;20190703
-362;703775;Ditte Nymark Hansen;FGID;FGID3775;ditte.h@rn.dk;;N;20190605
-363;703775;Morten Herlin;FICW;FICW3775;m.herlin@clin.au.dk;;N;20181113
-364;703775;Marcella Broccia;FIOK;FIOK3775;marcellabroccia@hotmail.com;;N;20190605
-365;703775;Jan Feifel;FJSY;FJSY3775;jan.feifel@uni-ulm.de;;N;
-366;703775;Charlotte Andersson;QJP;QJP3775;ca@heart.dk;;J;
-367;703775;Thomas Alexander Gerds;WJA;WJA3775;tag@biostat.ku.dk;;N;20190122
-368;703775;Ane Lilleøre Rom;YKG;YKG3775;ane.lilleoere.rom@regionh.dk;;N;20190311
-369;703775;Henrik Bøggild;ZJV;ZJV3775;boggild@hst.aau.dk;51417858;J;20190606
-370;703775;Christian Torp-Pedersen;ZYP;ZYP3775;CTP@HEART.DK;24453790;J;20190606
-371;703775;Gunnar H. Gislason;ZYQ;ZYQ3775;gg@heart.dk;;J;20130217
-372;703776;Mikkel Porsborg Andersen;FBXJ;FBXJ3776;mikkel.porsborg.andersen@regionh.dk;;J;
-373;703776;Jawad Haider Butt;FCUG;FCUG3776;jawad_butt91@hotmail.com;;N;
-374;703776;Charlotte Andersson;QJP;QJP3776;ca@heart.dk;;J;20120705
-375;703776;Emil Loldrup Fosbøl;YBI;YBI3776;elf@heart.dk;26845552;N;20181031
-376;703776;Peter Weeke;YET;YET3776;pw@heart.dk;;J;
-377;703776;Jonas Bjerring Olesen;YPI;YPI3776;jonasolesen@hotmail.com;;J;20160529
-378;703776;Christian Torp-Pedersen;ZYP;ZYP3776;CTP@HEART.DK;24453790;J;20120725
-379;703776;Gunnar H. Gislason;ZYQ;ZYQ3776;gg@heart.dk;;J;20130217
-380;703795;Mikkel Porsborg Andersen;FBXJ;FBXJ3795;mikkel.porsborg.andersen@regionh.dk;;J;
-381;703795;Christian Torp-Pedersen;ZYP;ZYP3795;CTP@HEART.DK;24453790;J;
-382;703796;Nicholas Carlson;FAVM;FAVM3796;doc.mumbles@gmail.com;53636226;J;20180927
-383;703796;Kristian Hay Kragholm;FAWN;FAWN3796;kdks@rn.dk;20942675;J;20190109
-384;703796;Anna Gundlund Lorentzen;FBAQ;FBAQ3796;annagundlund@gmail.com;50907117;N;20190610
-385;703796;Mikkel Porsborg Andersen;FBXJ;FBXJ3796;mikkel.porsborg.andersen@regionh.dk;;J;
-386;703796;Jawad Haider Butt;FCUG;FCUG3796;jawad_butt91@hotmail.com;;N;20190424
-387;703796;Naja Emborg Vinding;FEMV;FEMV3796;naja_vinding@msn.com;;N;20190701
-388;703796;Louise Feldborg Lyckhage;FGSN;FGSN3796;llyckhage@hotmail.com;;N;20180313
-389;703796;Line Haubjerg Nielsen;FHYP;FHYP3796;linehaubjerg@hotmail.com;;N;20181218
-390;703796;Adelina Karimovna Yafasova;FJDN;FJDN3796;adelinay@hotmail.com;;N;
-391;703796;Christine Benn Christiansen;QIT;QIT3796;christinebenn@hotmail.com;27179616;N;20180925
-392;703796;Emil Loldrup Fosbøl;YBI;YBI3796;elf@heart.dk;26845552;J;
-393;703796;Jonas Bjerring Olesen;YPI;YPI3796;jonasolesen@hotmail.com;;J;20130306
-394;703796;Christian Torp-Pedersen;ZYP;ZYP3796;CTP@HEART.DK;24453790;J;20120423
-395;703796;Gunnar H. Gislason;ZYQ;ZYQ3796;gg@heart.dk;;J;20130217
-396;703826;Mads Emil Jørgensen;FAKQ;FAKQ3826;mads.emil.joergensen@regionh.dk;51940781;J;20190415
-397;703826;Nicholas Carlson;FAVM;FAVM3826;doc.mumbles@gmail.com;53636226;N;20171215
-398;703826;Kristian Hay Kragholm;FAWN;FAWN3826;kdks@rn.dk;20942675;J;20190702
-399;703826;Steen Møller Hansen;FBCG;FBCG3826;steen.hansen@rn.dk;25394360;J;20180706
-400;703826;Christina Ji-Young Lee;FBDE;FBDE3826;cjilee@outlook.com;60633595;J;20190617
-401;703826;Henriette Strøm Kakr;FBER;FBER3826;hestje@rn.dk;40287211;N;20190613
-402;703826;Maria Lukacs;FBGH;FBGH3826;maria.krogager@rn.dk;53148824;N;
-403;703826;Torill Rotevatn;FBTT;FBTT3826;Torill_rot@hotmail.com;61692007;N;20170113
-404;703826;Peter Wæde Hansen;FBUB;FBUB3826;waede.sci@gmail.com;27148894;N;20160412
-405;703826;Mikkel Porsborg Andersen;FBXJ;FBXJ3826;mikkel.porsborg.andersen@regionh.dk;;J;20171221
-406;703826;Katja Leth-Møller;FCAH;FCAH3826;Katja.biering.leth-moeller@regionh.dk;26549308;N;20160809
-407;703826;Lærke Smedegaard Petersen;FCAS;FCAS3826;laerkesmedegaard@gmail.com;26141457;N;20190513
-408;703826;Dorthe Viemose Nielsen;FCLU;FCLU3826;dorthe.viemose.nielsen@skejby.rm.dk;24213002;N;20190624
-409;703826;Christoffer Polcwiartek;FCXB;FCXB3826;c.polcwiartek@gmail.com;30259831;N;20190118
-410;703826;Carlo Alberto Barcella;FDBB;FDBB3826;carloalbertobarcella@libero.it;;N;
-411;703826;Lasse Pedersen;FDRK;FDRK3826;lasse.pedersen@rn.dk;;J;20171030
-412;703826;Liv Riisager Wahlstén;FECN;FECN3826;liv.riisager.wahlsten@regionh.dk;;N;20190701
-413;703826;Sanne Ørnfeldt Larsen;FEGE;FEGE3826;sala11@student.aau.dk;;N;20180805
-414;703826;Viinu Manoharan;FEGL;FEGL3826;vmanoh12@student.aau.dk;;N;20180823
-415;703826;Signe Riddersholm;FEKO;FEKO3826;signeriddersholm@gmail.com;;J;20190625
-416;703826;Charlotte Andreasen;FEXT;FEXT3826;andreasencharlotte7@gmail.com;;N;20180621
-417;703826;Jesper Nielsen;FFHP;FFHP3826;jespernielsen1986@gmail.com;;N;
-418;703826;Bhupendar Tayal;FFOP;FFOP3826;bhupendar.tayal@gmail.com;;N;20190629
-419;703826;Maria Weinkouff Pedersen;FFRC;FFRC3826;mwp@rn.dk;;N;20190218
-420;703826;Melissa Hornbæk Pedersen;FGRC;FGRC3826;melissa.hornbaek.pedersen@regionh.dk;;N;20190125
-421;703826;Jacob Juel;FGRK;FGRK3826;jacob.juel@rn.dk;;N;
-422;703826;Inger Lise Gade;FGSF;FGSF3826;inlg@rn.dk;;N;
-423;703826;Hasan Göcker Tekin;FGUO;FGUO3826;h.tekin@rn.dk;;N;
-424;703826;Daniel Modin;FGXK;FGXK3826;danielmodin@live.dk;;N;20180813
-425;703826;Jannie Bisgaard Staehr;FHAU;FHAU3826;j.staehr@rn.dk;;N;20190702
-426;703826;Jan Walter Dhillon Shanmuganathan;FIEH;FIEH3826;jan.shanmuganathan@rn.dk;;N;20190630
-427;703826;Line Thorgaard;FILU;FILU3826;linetp91@gmail.com;;N;20190501
-428;703826;Marie Storebjerg Gissel;FINA;FINA3826;margis@rm.dk;;N;20190121
-429;703826;Johan Heiberg;FINB;FINB3826;Johan.Heiberg@clin.au.dk;;N;20190619
-430;703826;Hjördis Osk Atladottir;FINC;FINC3826;d017189@dadlnet.dk;;N;20190627
-431;703826;Kasper Bonnesen;FIND;FIND3826;Kasperbonnesen@gmail.com;;N;20190629
-432;703826;Nina Sørensen;FJJO;FJJO3826;ns@rn.dk;;N;
-433;703826;Sissel Johanne Godtfredsen;FJOP;FJOP3826;Sisselgodtfredsen@gmail.com;;N;
-434;703826;Camilla Lundahl;FJWC;FJWC3826;camilla_lundahl@hotmail.com;;N;
-435;703826;Jon Trærup Andersen;QAW;QAW3826;jon.thor.traerup.andersen@regionh.dk;29721508;J;20170227
-436;703826;Charlotte Andersson;QJP;QJP3826;ca@heart.dk;;J;20190411
-437;703826;Aksel Karl Georg Jensen;WIZ;WIZ3826;akje@sund.ku.dk;;N;20170510
-438;703826;Thomas Alexander Gerds;WJA;WJA3826;tag@biostat.ku.dk;;J;20190704
-439;703826;Mia Nielsen;WTW;WTW3826;mia_nielsen7@hotmail.com;22162824;N;20181026
-440;703826;Peter Weeke;YET;YET3826;pw@heart.dk;;J;20150831
-441;703826;Jonas Bjerring Olesen;YPI;YPI3826;jonasolesen@hotmail.com;;J;20190521
-442;703826;Lene Mia von Kappelgaard;YYI;YYI3826;lmvk@si-folkesundhed.dk;51925860;N;20190614
-443;703826;Christian Torp-Pedersen;ZYP;ZYP3826;CTP@HEART.DK;24453790;J;20190626
-444;703826;Gunnar H. Gislason;ZYQ;ZYQ3826;gg@heart.dk;;J;20190415
-445;703838;Mikkel Porsborg Andersen;FBXJ;FBXJ3838;mikkel.porsborg.andersen@regionh.dk;;J;
-446;703838;Jawad Haider Butt;FCUG;FCUG3838;jawad_butt91@hotmail.com;;N;20161025
-447;703838;Emil Loldrup Fosbøl;YBI;YBI3838;elf@heart.dk;26845552;J;20160929
-448;703838;Peter Weeke;YET;YET3838;pw@heart.dk;;J;
-449;703838;Jonas Bjerring Olesen;YPI;YPI3838;jonasolesen@hotmail.com;;J;20120606
-450;703838;Christian Torp-Pedersen;ZYP;ZYP3838;CTP@HEART.DK;24453790;J;
-451;703838;Gunnar H. Gislason;ZYQ;ZYQ3838;gg@heart.dk;;J;
-452;704025;Mikkel Porsborg Andersen;FBXJ;FBXJ4025;mikkel.porsborg.andersen@regionh.dk;;J;
-453;704025;Jonas Bjerring Olesen;YPI;YPI4025;jonasolesen@hotmail.com;;J;
-454;704025;Christian Torp-Pedersen;ZYP;ZYP4025;CTP@HEART.DK;24453790;J;
-455;704025;Gunnar H. Gislason;ZYQ;ZYQ4025;gg@heart.dk;;J;20130411
-456;704189;Mikkel Porsborg Andersen;FBXJ;FBXJ4189;mikkel.porsborg.andersen@regionh.dk;;J;
-457;704189;Christian Torp-Pedersen;ZYP;ZYP4189;CTP@HEART.DK;24453790;J;
-458;704189;Gunnar H. Gislason;ZYQ;ZYQ4189;gg@heart.dk;;J;
-459;704211;Rasmus Rørth;FBMR;FBMR4211;rasmusroerth@hotmail.com;30229115;N;20170329
-460;704211;Sofie Nicoline Aagaard Rerup;FBSO;FBSO4211;sofie_rerup@hotmail.com;22467797;N;20180118
-461;704211;Mikkel Porsborg Andersen;FBXJ;FBXJ4211;mikkel.porsborg.andersen@regionh.dk;;J;
-462;704211;Jawad Haider Butt;FCUG;FCUG4211;jawad_butt91@hotmail.com;;N;20170422
-463;704211;Lauge Klement Moltke Østergaard;FDRX;FDRX4211;laugeoestergaard@gmail.com;;N;20181109
-464;704211;Ulrik Madvig Mogensen;XZD;XZD4211;ulrik_mogensen@hotmail.com;29252637;J;20160721
-465;704211;Rikke Sørensen;YBF;YBF4211;rs@heart.dk;;N;
-466;704211;Emil Loldrup Fosbøl;YBI;YBI4211;elf@heart.dk;26845552;J;20170121
-467;704211;Gunnar H. Gislason;ZYQ;ZYQ4211;gg@heart.dk;;N;20151103
-468;704254;Kristian Hay Kragholm;FAWN;FAWN4254;kdks@rn.dk;20942675;J;20190319
-469;704254;Henrik Vardinghus-Nielsen;FBGW;FBGW4254;hvn@hst.aau.dk;21198676;N;20170517
-470;704254;Linda Ejlskov Jeppesen;FBJF;FBJF4254;lej@econ.au.dk;26116549;J;20171117
-471;704254;Line Rosenkilde Berg Ullits Christensen;FBPP;FBPP4254;line@mmid.dk;23492325;N;20190225
-472;704254;Sofie Nicoline Aagaard Rerup;FBSO;FBSO4254;sofie_rerup@hotmail.com;22467797;N;20180703
-473;704254;Torill Rotevatn;FBTT;FBTT4254;Torill_rot@hotmail.com;61692007;N;20180115
-474;704254;Elisabeth Helen Anna Mills;FBUS;FBUS4254;elisabeth.mills@gmail.com;20875651;N;20190604
-475;704254;Kristian Bundgaard;FBVZ;FBVZ4254;kristian.bundgaard@rn.dk;22852667;N;20190408
-476;704254;Mikkel Porsborg Andersen;FBXJ;FBXJ4254;mikkel.porsborg.andersen@regionh.dk;;J;20190522
-477;704254;Anne Pernille Toft-Petersen;FCAA;FCAA4254;aptp85@gmail.com;21730348;N;20150319
-478;704254;Katja Leth-Møller;FCAH;FCAH4254;Katja.biering.leth-moeller@regionh.dk;26549308;N;20180503
-479;704254;Christoffer Polcwiartek;FCXB;FCXB4254;c.polcwiartek@gmail.com;30259831;J;20190403
-480;704254;Ulrik Deding;FDBW;FDBW4254;Ulrikdeding@hotmail.com;24615794;N;20190403
-481;704254;Mathias Rothmann Pedersen;FEGD;FEGD4254;mrpe13@student.aau.dk;;N;20190114
-482;704254;Peter Jacobsen;FFEM;FFEM4254;peter.jacobsen@rn.dk;;N;20170807
-483;704254;Thomas Alexander Bjørnkær Vilhelmsen;FIFI;FIFI4254;t.vilhelmsen@rn.dk;;N;20190114
-484;704254;Thomas Alexander Gerds;WJA;WJA4254;tag@biostat.ku.dk;;N;
-485;704254;Kristian Aasbjerg Andersen;WON;WON4254;kristian@aasbjerg.dk;40726210;J;
-486;704254;Claus D. Hansen;XHZ;XHZ4254;clausdh@socsci.aau.dk;;N;20160205
-487;704254;Emil Loldrup Fosbøl;YBI;YBI4254;elf@heart.dk;26845552;J;20170224
-488;704254;Henrik Bøggild;ZJV;ZJV4254;boggild@hst.aau.dk;51417858;J;20190102
-489;704254;Christian Torp-Pedersen;ZYP;ZYP4254;CTP@HEART.DK;24453790;J;20161012
-490;704343;Bjarke Risgaard;FBDM;FBDM4343;bjarkerisgaard@gmail.com;29264388;N;20181027
-491;704343;Mikkel Porsborg Andersen;FBXJ;FBXJ4343;mikkel.porsborg.andersen@regionh.dk;;J;
-492;704343;Thomas Hadberg Lynge;FEJJ;FEJJ4343;thomashadberglynge@gmail.com;;N;20190703
-493;704343;Peter Weeke;YET;YET4343;pw@heart.dk;;J;20171119
-494;704343;Christian Torp-Pedersen;ZYP;ZYP4343;CTP@HEART.DK;24453790;J;
-495;704343;Gunnar H. Gislason;ZYQ;ZYQ4343;gg@heart.dk;;J;20140904
-496;704413;Kristian Hay Kragholm;FAWN;FAWN4413;kdks@rn.dk;20942675;J;20190617
-497;704413;Steen Møller Hansen;FBCG;FBCG4413;steen.hansen@rn.dk;25394360;J;20190308
-498;704413;Christina Ji-Young Lee;FBDE;FBDE4413;cjilee@outlook.com;60633595;J;20180606
-499;704413;Maria Lukacs;FBGH;FBGH4413;maria.krogager@rn.dk;53148824;J;20190603
-500;704413;Peter Wæde Hansen;FBUB;FBUB4413;waede.sci@gmail.com;27148894;N;20170620
-501;704413;Mikkel Porsborg Andersen;FBXJ;FBXJ4413;mikkel.porsborg.andersen@regionh.dk;;J;20171219
-502;704413;Louise Hagengaard;FCKJ;FCKJ4413;l.hagengaard@rn.dk;61466861;N;20151102
-503;704413;Christoffer Polcwiartek;FCXB;FCXB4413;c.polcwiartek@gmail.com;30259831;N;20190508
-504;704413;Casper Bang;FETA;FETA4413;casperbang@hotmail.com;;N;20190617
-505;704413;Johannes Riis Jensen;FFHO;FFHO4413;jje14@student.aau.dk;;N;20181115
-506;704413;Marc Meller Søndergaard;FFHQ;FFHQ4413;msande14@student.aau.dk;;N;20190220
-507;704413;Karoline Willum Bødker;FFHR;FFHR4413;k.boedker@rn.dk;;N;20190217
-508;704413;Lecia Brøns Dixen;FFKA;FFKA4413;ldixen14@student.aau.dk;;N;20190701
-509;704413;Karoline Højbjerg Janniche;FHEG;FHEG4413;kjanni15@student.aau.dk;;N;20180924
-510;704413;Catharina Lyng Laustsen;FHEQ;FHEQ4413;clla15@student.aau.dk;;N;20180816
-511;704413;Natasja Uldall;FHER;FHER4413;Nnun15@student.aau.dk;;N;20180618
-512;704413;Mette Louise Merrild Karer;FHES;FHES4413;mettelouisemk@gmail.com;;N;20180716
-513;704413;Lærke Riis Korup;FHFT;FHFT4413;lkorup15@student.aau.dk;;N;20190530
-514;704413;Saranda Haxha;FJIU;FJIU4413;Saranda.Haxha@gmail.com;;N;
-515;704413;Camilla Gøtzsche Frederiksen;FJUL;FJUL4413;Camillagfred@gmail.com;;N;
-516;704413;Christian Selmer;QTB;QTB4413;cselmer@gmail.com;;N;20141128
-517;704413;Kristian Aasbjerg Andersen;WON;WON4413;kristian@aasbjerg.dk;40726210;J;
-518;704413;Jonas Bille Nielsen;WUN;WUN4413;jonasbillenielsen@gmail.com;40892090;N;20140513
-519;704413;Christian Torp-Pedersen;ZYP;ZYP4413;CTP@HEART.DK;24453790;J;20180305
-520;704413;Gunnar H. Gislason;ZYQ;ZYQ4413;gg@heart.dk;;J;20160630
-521;704439;Kathrine Bach Søndergaard;FAXG;FAXG4439;kbsondergaard@gmail.com;22401364;N;20161207
-522;704439;Mikkel Porsborg Andersen;FBXJ;FBXJ4439;mikkel.porsborg.andersen@regionh.dk;;J;
-523;704439;Thomas Alexander Gerds;WJA;WJA4439;tag@biostat.ku.dk;;J;20161115
-524;704439;Christian Torp-Pedersen;ZYP;ZYP4439;CTP@HEART.DK;24453790;J;20140912
-525;704550;Mikkel Porsborg Andersen;FBXJ;FBXJ4550;mikkel.porsborg.andersen@regionh.dk;;J;
-526;704550;Christian Torp-Pedersen;ZYP;ZYP4550;CTP@HEART.DK;24453790;J;
-527;704791;Anders Mikkelsen;FAIV;FAIV4791;andersmik87@gmail.com;61335545;N;20190404
-528;704791;Peter Vibe Rasmussen;FAJY;FAJY4791;peter.vibe.rasmussen@gmail.com;;N;20190625
-529;704791;Kristian Hay Kragholm;FAWN;FAWN4791;kdks@rn.dk;20942675;J;20190322
-530;704791;Anna Gundlund Lorentzen;FBAQ;FBAQ4791;annagundlund@gmail.com;50907117;N;20190610
-531;704791;Anders Nissen Bonde;FBAW;FBAW4791;andersnissenbonde@gmail.com;40837539;N;20190624
-532;704791;Christina Ji-Young Lee;FBDE;FBDE4791;cjilee@outlook.com;60633595;J;20190529
-533;704791;Christian Madelaire Rasmussen;FBLG;FBLG4791;christian.madelaire.rasmussen@regionh.dk;;N;20170412
-534;704791;Peter Wæde Hansen;FBUB;FBUB4791;waede.sci@gmail.com;27148894;N;20181227
-535;704791;Paul Blanche;FBVQ;FBVQ4791;pabl@sund.ku.dk;;N;20181128
-536;704791;Mikkel Porsborg Andersen;FBXJ;FBXJ4791;mikkel.porsborg.andersen@regionh.dk;;N;20180705
-537;704791;Anne Pernille Toft-Petersen;FCAA;FCAA4791;aptp85@gmail.com;21730348;N;20190701
-538;704791;Louise Hagengaard;FCKJ;FCKJ4791;l.hagengaard@rn.dk;61466861;N;20190409
-539;704791;Jawad Haider Butt;FCUG;FCUG4791;jawad_butt91@hotmail.com;;N;20190306
-540;704791;Christoffer Polcwiartek;FCXB;FCXB4791;c.polcwiartek@gmail.com;30259831;N;20190515
-541;704791;Frederik Dalgaard;FEJC;FEJC4791;rendesten@gmail.com;;J;20190703
-542;704791;Naja Emborg Vinding;FEMV;FEMV4791;naja_vinding@msn.com;;N;20181101
-543;704791;Anders Munch;FFLR;FFLR4791;amnudn@gmail.com;;N;20190129
-544;704791;Sanam Nusrat Tahir;FGHQ;FGHQ4791;xtg135@alumni.ku.dk;;N;20190611
-545;704791;Mathias Aagaard Christensen;FGHS;FGHS4791;mathiasac@gmail.com;;N;20190529
-546;704791;Lucas Malta Westergaard;FGWB;FGWB4791;lucaswestergaard@gmail.com;;N;20190116
-547;704791;Matthew Phelps;FHBB;FHBB4791;mphelps@hjerteforeningen.dk;;N;20190701
-548;704791;Sarah Friedrich;FIER;FIER4791;sarah.friedrich@uni-ulm.de;;N;
-549;704791;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ4791;jehm@sund.ku.dk;;N;
-550;704791;Charlotte Andersson;QJP;QJP4791;ca@heart.dk;;J;20160925
-551;704791;Thomas Alexander Gerds;WJA;WJA4791;tag@biostat.ku.dk;;J;20190626
-552;704791;Emil Loldrup Fosbøl;YBI;YBI4791;elf@heart.dk;26845552;J;20190630
-553;704791;Christian Torp-Pedersen;ZYP;ZYP4791;CTP@HEART.DK;24453790;J;20180901
-554;704855;Anne Christine Huth Ruwald;FAHZ;FAHZ4855;annechristinehuth@hotmail.com;40177181;J;20190204
-555;704855;Anna-Karin Nume;FASQ;FASQ4855;annakarin.nume@gmail.com;50569759;N;20190521
-556;704855;Kristian Hay Kragholm;FAWN;FAWN4855;kdks@rn.dk;20942675;J;20181206
-557;704855;Mikkel Porsborg Andersen;FBXJ;FBXJ4855;mikkel.porsborg.andersen@regionh.dk;;J;20170628
-558;704855;Lærke Smedegaard Petersen;FCAS;FCAS4855;laerkesmedegaard@gmail.com;26141457;N;20190613
-559;704855;Magnus Thorsten Jensen;FCRI;FCRI4855;magnustjensen@gmail.com;26148148;N;
-560;704855;Ulrik Deding;FDBW;FDBW4855;Ulrikdeding@hotmail.com;24615794;N;20161205
-561;704855;Jenny Bjerre;FEBE;FEBE4855;jennybjerre@gmail.com;;N;20190701
-562;704855;Anne Mielke;FEID;FEID4855;anne_m_94@live.dk;;N;20160211
-563;704855;Charlotte Andersson;QJP;QJP4855;ca@heart.dk;;N;20190411
-564;704855;Christian Torp-Pedersen;ZYP;ZYP4855;CTP@HEART.DK;24453790;J;20161231
-565;704855;Gunnar H. Gislason;ZYQ;ZYQ4855;gg@heart.dk;;J;
-566;704895;Usman Khalid;FADC;FADC4895;usman.khalid@regionh.dk;27830081;N;20180401
-567;704895;Cengiz Özcan;FAKO;FAKO4895;cengizoezcan@gmail.com;24202415;J;20160331
-568;704895;Mads Emil Jørgensen;FAKQ;FAKQ4895;mads.emil.joergensen@regionh.dk;51940781;J;20170424
-569;704895;Mikkel Porsborg Andersen;FBXJ;FBXJ4895;mikkel.porsborg.andersen@regionh.dk;;J;
-570;704895;Lærke Smedegaard Petersen;FCAS;FCAS4895;laerkesmedegaard@gmail.com;26141457;J;20170509
-571;704895;Gunnar H. Gislason;ZYQ;ZYQ4895;gg@heart.dk;;J;20160530
-572;704907;Mikkel Porsborg Andersen;FBXJ;FBXJ4907;mikkel.porsborg.andersen@regionh.dk;;J;
-573;704907;Christian Torp-Pedersen;ZYP;ZYP4907;CTP@HEART.DK;24453790;J;
-574;704908;Mikkel Porsborg Andersen;FBXJ;FBXJ4908;mikkel.porsborg.andersen@regionh.dk;;J;
-575;704908;Christian Torp-Pedersen;ZYP;ZYP4908;CTP@HEART.DK;24453790;J;
-576;705839;Line Rosenkilde Berg Ullits Christensen;FBPP;FBPP5839;line@mmid.dk;23492325;N;20171128
-577;705839;Mikkel Porsborg Andersen;FBXJ;FBXJ5839;mikkel.porsborg.andersen@regionh.dk;;J;
-578;705839;Henrik Bøggild;ZJV;ZJV5839;boggild@hst.aau.dk;51417858;J;20180907
-579;705839;Christian Torp-Pedersen;ZYP;ZYP5839;CTP@HEART.DK;24453790;J;
-580;706011;Sisse Buch Johnsen;FAYN;FAYN6011;s.johnsen@rn.dk;29630108;N;20190703
-581;706011;Mikkel Porsborg Andersen;FBXJ;FBXJ6011;mikkel.porsborg.andersen@regionh.dk;;J;
-582;706011;Martin Mejlby;FIFK;FIFK6011;m.mejlby@rn.dk;;N;20190606
-583;706011;Anker Lund Vinding;ZEX;ZEX6011;a.vinding@rn.dk;;N;20190611
-584;706011;Henrik Bøggild;ZJV;ZJV6011;boggild@hst.aau.dk;51417858;J;20190529
-585;706011;Christian Torp-Pedersen;ZYP;ZYP6011;CTP@HEART.DK;24453790;J;
-586;706076;Lena Karlsson;FAFZ;FAFZ6076;limkarlsson@gmail.com;60278085;N;20181118
-587;706076;Shahzleen Rajan;FALC;FALC6076;shahzleen@gmail.com;29711165;N;20160712
-588;706076;Rikke Nørmark Mortensen;FAVA;FAVA6076;rnm@hst.aau.dk;22633831;N;20161128
-589;706076;Kristian Hay Kragholm;FAWN;FAWN6076;kdks@rn.dk;20942675;J;20180611
-590;706076;Kathrine Bach Søndergaard;FAXG;FAXG6076;kbsondergaard@gmail.com;22401364;N;20171030
-591;706076;Steen Møller Hansen;FBCG;FBCG6076;steen.hansen@rn.dk;25394360;J;20180110
-592;706076;Sidsel Møller;FBPS;FBPS6076;sidselgm@gmail.com;;N;20170318
-593;706076;Kristian Bundgaard;FBVZ;FBVZ6076;kristian.bundgaard@rn.dk;22852667;N;20160905
-594;706076;Mikkel Porsborg Andersen;FBXJ;FBXJ6076;mikkel.porsborg.andersen@regionh.dk;;J;20171002
-595;706076;Nicolai Lohse;FCGB;FCGB6076;niclohse@gmail.com;22443309;N;
-596;706076;Mathilde Winther-Jensen;FCZC;FCZC6076;mwin0034@regionh.dk;21256894;N;20181210
-597;706076;Signe Riddersholm;FEKO;FEKO6076;signeriddersholm@gmail.com;;N;20180516
-598;706076;Ole Møller Hansen;FFGP;FFGP6076;o.hansen@rn.dk;;N;20170105
-599;706076;Thomas Alexander Gerds;WJA;WJA6076;tag@biostat.ku.dk;;N;20180709
-600;706076;Mads Wissenberg Jørgensen;WKO;WKO6076;wissenberg@gmail.com;;N;
-601;706076;Christian Torp-Pedersen;ZYP;ZYP6076;CTP@HEART.DK;24453790;J;20160525
-602;706076;Gunnar H. Gislason;ZYQ;ZYQ6076;gg@heart.dk;;J;
-603;706103;Mikkel Porsborg Andersen;FBXJ;FBXJ6103;mikkel.porsborg.andersen@regionh.dk;;J;
-604;706103;Caroline Sindet-Pedersen;FCBR;FCBR6103;carolinesindet@gmail.com;24230883;J;20160425
-605;706103;Christian Torp-Pedersen;ZYP;ZYP6103;CTP@HEART.DK;24453790;J;
-606;706103;Gunnar H. Gislason;ZYQ;ZYQ6103;gg@heart.dk;;J;
-607;706104;Kristian Hay Kragholm;FAWN;FAWN6104;kdks@rn.dk;20942675;J;20170324
-608;706104;Mikkel Porsborg Andersen;FBXJ;FBXJ6104;mikkel.porsborg.andersen@regionh.dk;;J;
-609;706104;Charlotte Andersson;QJP;QJP6104;ca@heart.dk;;N;20190411
-610;706104;Christian Torp-Pedersen;ZYP;ZYP6104;CTP@HEART.DK;24453790;J;
-611;706104;Gunnar H. Gislason;ZYQ;ZYQ6104;gg@heart.dk;;J;
-612;706130;Peter Vibe Rasmussen;FAJY;FAJY6130;peter.vibe.rasmussen@gmail.com;;J;20190701
-613;706130;Kristian Hay Kragholm;FAWN;FAWN6130;kdks@rn.dk;20942675;J;20181008
-614;706130;Steen Møller Hansen;FBCG;FBCG6130;steen.hansen@rn.dk;25394360;N;20180308
-615;706130;Christina Ji-Young Lee;FBDE;FBDE6130;cjilee@outlook.com;60633595;J;20171207
-616;706130;Henriette Strøm Kakr;FBER;FBER6130;hestje@rn.dk;40287211;N;20190701
-617;706130;Line Rosenkilde Berg Ullits Christensen;FBPP;FBPP6130;line@mmid.dk;23492325;N;
-618;706130;Mikkel Porsborg Andersen;FBXJ;FBXJ6130;mikkel.porsborg.andersen@regionh.dk;;J;20171121
-619;706130;Ann Banke;FCCU;FCCU6130;Ann.Banke@rsyd.dk;26278303;N;20190607
-620;706130;Lasse Jakobsen;FCUF;FCUF6130;lasse.j@rn.dk;61388024;N;20190522
-621;706130;Maria D Souza;FCXZ;FCXZ6130;mari.dsouz@gmail.com;28349132;J;20190704
-622;706130;Ulrik Deding;FDBW;FDBW6130;Ulrikdeding@hotmail.com;24615794;N;20190702
-623;706130;Signe Riddersholm;FEKO;FEKO6130;signeriddersholm@gmail.com;;N;20190625
-624;706130;Joachim Bæch;FEWN;FEWN6130;j.baech@rn.dk;;N;20190624
-625;706130;Inger Lise Gade;FGSF;FGSF6130;inlg@rn.dk;;N;20190405
-626;706130;Andreas Kisbye Øvlisen;FHIH;FHIH6130;a.oevlisen@rn.dk;;N;20190702
-627;706130;Anna Winther Pedersen;FIIV;FIIV6130;anna.w@rn.dk;;N;20190627
-628;706130;Thomas Alexander Gerds;WJA;WJA6130;tag@biostat.ku.dk;;J;20190701
-629;706130;Henrik Bøggild;ZJV;ZJV6130;boggild@hst.aau.dk;51417858;J;20190603
-630;706130;Christian Torp-Pedersen;ZYP;ZYP6130;CTP@HEART.DK;24453790;J;20190701
-631;706130;Gunnar H. Gislason;ZYQ;ZYQ6130;gg@heart.dk;;J;20190625
-632;706131;Mikkel Porsborg Andersen;FBXJ;FBXJ6131;mikkel.porsborg.andersen@regionh.dk;;J;
-633;706131;Jon Bjarke Rasmussen;FFIG;FFIG6131;jon.bjarke.rasmussen@regionh.dk;;N;20190702
-634;706131;Christian Selmer;QTB;QTB6131;cselmer@gmail.com;;N;20190702
-635;706131;Christian Torp-Pedersen;ZYP;ZYP6131;CTP@HEART.DK;24453790;J;
-636;706131;Gunnar H. Gislason;ZYQ;ZYQ6131;gg@heart.dk;;J;
-637;706132;Line Rosenkilde Berg Ullits Christensen;FBPP;FBPP6132;line@mmid.dk;23492325;N;20190312
-638;706132;Mikkel Porsborg Andersen;FBXJ;FBXJ6132;mikkel.porsborg.andersen@regionh.dk;;J;
-639;706132;Nanna Vestergaard Jensen;FDWA;FDWA6132;nvje11@gmail.com;;N;20190703
-640;706132;Charlotte Glinge;FEFQ;FEFQ6132;cglinge@gmail.com;;N;20180419
-641;706132;Thomas Hadberg Lynge;FEJJ;FEJJ6132;thomashadberglynge@gmail.com;;N;20181211
-642;706132;Jacob Tfelt Hansen;FGXP;FGXP6132;jacob.tfelt@regionh.dk;;N;
-643;706132;Michelle Schmiegelow;QNZ;QNZ6132;mdschmiegelow@gmail.com;;N;20190703
-644;706132;Kristian Aasbjerg Andersen;WON;WON6132;kristian@aasbjerg.dk;40726210;J;20180206
-645;706132;Mia Nielsen;WTW;WTW6132;mia_nielsen7@hotmail.com;22162824;N;20180905
-646;706132;Christian Torp-Pedersen;ZYP;ZYP6132;CTP@HEART.DK;24453790;J;
-647;706132;Gunnar H. Gislason;ZYQ;ZYQ6132;gg@heart.dk;;J;20161026
-648;706306;Mikkel Porsborg Andersen;FBXJ;FBXJ6306;mikkel.porsborg.andersen@regionh.dk;;J;20181122
-649;706306;Christian Torp-Pedersen;ZYP;ZYP6306;CTP@HEART.DK;24453790;J;
-650;706319;Mikkel Porsborg Andersen;FBXJ;FBXJ6319;mikkel.porsborg.andersen@regionh.dk;;J;
-651;706319;Martin Schultz;FFCN;FFCN6319;martin.schultz@regionh.dk;;N;20180406
-652;706319;Christian Torp-Pedersen;ZYP;ZYP6319;CTP@HEART.DK;24453790;J;20170104
-653;706322;Nicholas Carlson;FAVM;FAVM6322;doc.mumbles@gmail.com;53636226;J;20170904
-654;706322;Mikkel Porsborg Andersen;FBXJ;FBXJ6322;mikkel.porsborg.andersen@regionh.dk;;J;
-655;706322;Majbritt Svendsen;FCAZ;FCAZ6322;majbritt.svendsen@rn.dk;30343647;N;20170706
-656;706322;Julie Andersen;FCUE;FCUE6322;juliea@hjerteforeningen.dk;;N;20190701
-657;706322;Matthew Phelps;FHBB;FHBB6322;mphelps@hjerteforeningen.dk;;J;20190701
-658;706322;Thomas Alexander Gerds;WJA;WJA6322;tag@biostat.ku.dk;;J;20190701
-659;706322;Emil Loldrup Fosbøl;YBI;YBI6322;elf@heart.dk;26845552;J;20170213
-660;706322;Christian Torp-Pedersen;ZYP;ZYP6322;CTP@HEART.DK;24453790;J;20190518
-661;706322;Gunnar H. Gislason;ZYQ;ZYQ6322;gg@heart.dk;;N;
-662;706336;Louise Bruun Østergaard;FAHX;FAHX6336;l_bruun@hotmail.com;28726461;N;20170731
-663;706336;Kristian Hay Kragholm;FAWN;FAWN6336;kdks@rn.dk;20942675;J;20180705
-664;706336;Anna Gundlund Lorentzen;FBAQ;FBAQ6336;annagundlund@gmail.com;50907117;N;20190702
-665;706336;Mikkel Porsborg Andersen;FBXJ;FBXJ6336;mikkel.porsborg.andersen@regionh.dk;;J;20171019
-666;706336;Thomas Steen Gyldenstierne Sehested;FBXS;FBXS6336;tsg.sehested@gmail.com;20836010;N;20171222
-667;706336;Jawad Haider Butt;FCUG;FCUG6336;jawad_butt91@hotmail.com;;N;20190704
-668;706336;Lauge Klement Moltke Østergaard;FDRX;FDRX6336;laugeoestergaard@gmail.com;;N;20190629
-669;706336;Naja Emborg Vinding;FEMV;FEMV6336;naja_vinding@msn.com;;N;20181018
-670;706336;David Nikolai Thein Aagaard;FGGV;FGGV6336;davidaagaard@gmail.com;;N;20180709
-671;706336;Eva Borgersen;FGGW;FGGW6336;evaborgersen@gmail.com;;N;20190319
-672;706336;Mohsin Aslam;FGGX;FGGX6336;mohsinasl@gmail.com;;N;20190620
-673;706336;Mathias Aagaard Christensen;FGHS;FGHS6336;mathiasac@gmail.com;;N;20180403
-674;706336;Oliver Juul Olesen;FIEG;FIEG6336;Oliver.j.o@hotmail.com;;N;20190603
-675;706336;Sandra Chamat;FIPF;FIPF6336;sangeeta.sandra.chamat@regionh.dk;;N;20190604
-676;706336;Mia Marie Pries-Heje;FJVU;FJVU6336;mia.marie.pries-heje@regionh.dk;;N;
-677;706336;Søren Lund Kristensen;WTV;WTV6336;soerenlk@gmail.com;28694385;N;20180628
-678;706336;Emil Loldrup Fosbøl;YBI;YBI6336;elf@heart.dk;26845552;J;20190701
-679;706336;Christian Torp-Pedersen;ZYP;ZYP6336;CTP@HEART.DK;24453790;J;20190107
-680;706336;Gunnar H. Gislason;ZYQ;ZYQ6336;gg@heart.dk;;J;20171019
-681;706338;Kristian Hay Kragholm;FAWN;FAWN6338;kdks@rn.dk;20942675;J;20190617
-682;706338;Steen Møller Hansen;FBCG;FBCG6338;steen.hansen@rn.dk;25394360;J;
-683;706338;Christina Ji-Young Lee;FBDE;FBDE6338;cjilee@outlook.com;60633595;J;20190421
-684;706338;Mikkel Porsborg Andersen;FBXJ;FBXJ6338;mikkel.porsborg.andersen@regionh.dk;;J;
-685;706338;Christoffer Polcwiartek;FCXB;FCXB6338;c.polcwiartek@gmail.com;30259831;J;20190607
-686;706338;Johannes Riis Jensen;FFHO;FFHO6338;jje14@student.aau.dk;;N;20190131
-687;706338;Benjamin Nyholm;FGBT;FGBT6338;benjaminnyholm@gmail.com;;N;20190404
-688;706338;Lucas Malta Westergaard;FGWB;FGWB6338;lucaswestergaard@gmail.com;;N;20190411
-689;706338;Henrik Hovgaard;FGZY;FGZY6338;hnrkhvgrd@hotmail.com;;N;
-690;706338;Catharina Lyng Laustsen;FHEQ;FHEQ6338;clla15@student.aau.dk;;N;20180925
-691;706338;Natasja Uldall;FHER;FHER6338;Nnun15@student.aau.dk;;N;20180528
-692;706338;Mette Louise Merrild Karer;FHES;FHES6338;mettelouisemk@gmail.com;;N;20180816
-693;706338;Dennis Christian Andersen;FILT;FILT6338;dennisandersen90@me.com;;N;20190102
-694;706338;Jonas Bille Nielsen;WUN;WUN6338;jonasbillenielsen@gmail.com;40892090;N;20180815
-695;706338;Peter Weeke;YET;YET6338;pw@heart.dk;;J;20190115
-696;706338;Christian Torp-Pedersen;ZYP;ZYP6338;CTP@HEART.DK;24453790;J;
-697;706359;Uffe Gang;FBMY;FBMY6359;dr.gang@dadlnet.dk;26716467;N;20190605
-698;706359;Mikkel Porsborg Andersen;FBXJ;FBXJ6359;mikkel.porsborg.andersen@regionh.dk;;J;
-699;706359;Thomas Steen Gyldenstierne Sehested;FBXS;FBXS6359;tsg.sehested@gmail.com;20836010;N;
-700;706359;Jawad Haider Butt;FCUG;FCUG6359;jawad_butt91@hotmail.com;;N;20190703
-701;706359;Mathilde Winther-Jensen;FCZC;FCZC6359;mwin0034@regionh.dk;21256894;N;
-702;706359;Lauge Klement Moltke Østergaard;FDRX;FDRX6359;laugeoestergaard@gmail.com;;N;20180416
-703;706359;Eva Borgersen;FGGW;FGGW6359;evaborgersen@gmail.com;;N;20180203
-704;706359;Daniel Henrik Tajchman;FGHR;FGHR6359;smf681@alumni.ku.dk;;N;20170804
-705;706359;Marie Dam Lauridsen;FIIL;FIIL6359;Mala_mdl@hotmail.com;;N;
-706;706359;Martina Chantal de Knegt;FJSL;FJSL6359;martina.chantal.de.knegt.01@regionh.dk;;N;
-707;706359;Emil Loldrup Fosbøl;YBI;YBI6359;elf@heart.dk;26845552;J;20190627
-708;706359;Christian Torp-Pedersen;ZYP;ZYP6359;CTP@HEART.DK;24453790;J;
-709;706469;Mikkel Porsborg Andersen;FBXJ;FBXJ6469;mikkel.porsborg.andersen@regionh.dk;;J;
-710;706469;Lauge Klement Moltke Østergaard;FDRX;FDRX6469;laugeoestergaard@gmail.com;;N;20181102
-711;706469;Emil Loldrup Fosbøl;YBI;YBI6469;elf@heart.dk;26845552;J;20180322
-712;706469;Lisbeth Bonde;YOC;YOC6469;lisbeth.bonde@dadlnet.dk;;N;20190312
-713;706469;Christian Torp-Pedersen;ZYP;ZYP6469;CTP@HEART.DK;24453790;J;
-714;706470;Mavish Safdar Chaudry;FAXS;FAXS6470;mavish89@hotmail.com;28112786;N;20181118
-715;706470;Mikkel Porsborg Andersen;FBXJ;FBXJ6470;mikkel.porsborg.andersen@regionh.dk;;J;
-716;706470;Kristine Hommel;YYS;YYS6470;khommel@dadlnet.dk;;N;20190610
-717;706470;Christian Torp-Pedersen;ZYP;ZYP6470;CTP@HEART.DK;24453790;J;
-718;706502;Rikke Nørmark Mortensen;FAVA;FAVA6502;rnm@hst.aau.dk;22633831;J;20180321
-719;706502;Kristian Hay Kragholm;FAWN;FAWN6502;kdks@rn.dk;20942675;J;20190313
-720;706502;Christian Madelaire Rasmussen;FBLG;FBLG6502;christian.madelaire.rasmussen@regionh.dk;;N;20190703
-721;706502;Rasmus Rørth;FBMR;FBMR6502;rasmusroerth@hotmail.com;30229115;N;20190515
-722;706502;Paul Blanche;FBVQ;FBVQ6502;pabl@sund.ku.dk;;J;20190528
-723;706502;Mikkel Porsborg Andersen;FBXJ;FBXJ6502;mikkel.porsborg.andersen@regionh.dk;;J;20180705
-724;706502;Thomas Steen Gyldenstierne Sehested;FBXS;FBXS6502;tsg.sehested@gmail.com;20836010;N;20171212
-725;706502;Lærke Smedegaard Petersen;FCAS;FCAS6502;laerkesmedegaard@gmail.com;26141457;N;20190613
-726;706502;Louise Hagengaard;FCKJ;FCKJ6502;l.hagengaard@rn.dk;61466861;N;20181219
-727;706502;Jawad Haider Butt;FCUG;FCUG6502;jawad_butt91@hotmail.com;;N;20190613
-728;706502;Thomas Hadberg Lynge;FEJJ;FEJJ6502;thomashadberglynge@gmail.com;;N;
-729;706502;Charlotte Andreasen;FEXT;FEXT6502;andreasencharlotte7@gmail.com;;N;
-730;706502;Maria Weinkouff Pedersen;FFRC;FFRC6502;mwp@rn.dk;;N;20190703
-731;706502;Eva Borgersen;FGGW;FGGW6502;evaborgersen@gmail.com;;N;20181110
-732;706502;Lucas Malta Westergaard;FGWB;FGWB6502;lucaswestergaard@gmail.com;;N;20190526
-733;706502;Martin Longhi Engelbrecht;FHZO;FHZO6502;martin_longhi@hotmail.com;;N;20190522
-734;706502;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ6502;jehm@sund.ku.dk;;N;
-735;706502;Camilla Helene Bang Jespersen;FIVQ;FIVQ6502;camilla.helene.bang.jespersen@regionh.dk;;N;20190627
-736;706502;Johanna Krøll;FIYX;FIYX6502;johanna.kroell@hotmail.com;;N;20190618
-737;706502;Asbjørn Ettrup-Christensen;FJBJ;FJBJ6502;bjorn@sir-vince.dk;;N;
-738;706502;Thomas Alexander Gerds;WJA;WJA6502;tag@biostat.ku.dk;;N;
-739;706502;Kristian Aasbjerg Andersen;WON;WON6502;kristian@aasbjerg.dk;40726210;J;20171010
-740;706502;Søren Lund Kristensen;WTV;WTV6502;soerenlk@gmail.com;28694385;J;20190618
-741;706502;Peter Weeke;YET;YET6502;pw@heart.dk;;J;20190701
-742;706502;Christian Torp-Pedersen;ZYP;ZYP6502;CTP@HEART.DK;24453790;J;20190531
-743;706502;Gunnar H. Gislason;ZYQ;ZYQ6502;gg@heart.dk;;J;20190613
-744;706543;Mikkel Porsborg Andersen;FBXJ;FBXJ6543;mikkel.porsborg.andersen@regionh.dk;;J;
-745;706550;Mavish Safdar Chaudry;FAXS;FAXS6550;mavish89@hotmail.com;28112786;N;20190507
-746;706550;Mikkel Porsborg Andersen;FBXJ;FBXJ6550;mikkel.porsborg.andersen@regionh.dk;;J;20171002
-747;706550;Lauge Klement Moltke Østergaard;FDRX;FDRX6550;laugeoestergaard@gmail.com;;N;20171013
-748;706550;Emil Loldrup Fosbøl;YBI;YBI6550;elf@heart.dk;26845552;N;
-749;706550;Christian Torp-Pedersen;ZYP;ZYP6550;CTP@HEART.DK;24453790;J;
-750;706550;Gunnar H. Gislason;ZYQ;ZYQ6550;gg@heart.dk;;J;
-751;706555;Mikkel Porsborg Andersen;FBXJ;FBXJ6555;mikkel.porsborg.andersen@regionh.dk;;J;
-752;706555;Kristian Aasbjerg Andersen;WON;WON6555;kristian@aasbjerg.dk;40726210;N;
-753;706555;Christian Torp-Pedersen;ZYP;ZYP6555;CTP@HEART.DK;24453790;J;
-754;706567;Mikkel Porsborg Andersen;FBXJ;FBXJ6567;mikkel.porsborg.andersen@regionh.dk;;J;
-755;706567;Majbritt Svendsen;FCAZ;FCAZ6567;majbritt.svendsen@rn.dk;30343647;N;20190703
-756;706567;Ulrik Deding;FDBW;FDBW6567;Ulrikdeding@hotmail.com;24615794;N;20180809
-757;706567;Signe Riddersholm;FEKO;FEKO6567;signeriddersholm@gmail.com;;N;20190428
-758;706567;Gabrielle Berg-Beckhoff;WMD;WMD6567;gbergbeckhoff@health.sdu.dk;;N;20190527
-759;706567;Mette Jørgine Kirkeby;WMT;WMT6567;joergine@hotmail.com;;N;20190613
-760;706567;Therese Koops Grønborg;YUI;YUI6567;therese@ph.au.dk;;N;20171006
-761;706567;Henrik Bøggild;ZJV;ZJV6567;boggild@hst.aau.dk;51417858;J;20190529
-762;706567;Christian Torp-Pedersen;ZYP;ZYP6567;CTP@HEART.DK;24453790;J;20190603
-763;706582;Usman Khalid;FADC;FADC6582;usman.khalid@regionh.dk;27830081;N;20181226
-764;706582;Peter Vibe Rasmussen;FAJY;FAJY6582;peter.vibe.rasmussen@gmail.com;;J;
-765;706582;Karl Emil Kristensen;FAPJ;FAPJ6582;karlemil@dadlnet.dk;26858717;N;20190604
-766;706582;Rikke Nørmark Mortensen;FAVA;FAVA6582;rnm@hst.aau.dk;22633831;J;20190214
-767;706582;Nicholas Carlson;FAVM;FAVM6582;doc.mumbles@gmail.com;53636226;J;20190704
-768;706582;Kristian Hay Kragholm;FAWN;FAWN6582;kdks@rn.dk;20942675;J;20190703
-769;706582;Kathrine Bach Søndergaard;FAXG;FAXG6582;kbsondergaard@gmail.com;22401364;N;
-770;706582;Mavish Safdar Chaudry;FAXS;FAXS6582;mavish89@hotmail.com;28112786;N;20190520
-771;706582;Gowsini Joseph;FAYE;FAYE6582;g.joseph@rn.dk;;N;
-772;706582;Anders Nissen Bonde;FBAW;FBAW6582;andersnissenbonde@gmail.com;40837539;N;20190701
-773;706582;Christina Ji-Young Lee;FBDE;FBDE6582;cjilee@outlook.com;60633595;J;20190607
-774;706582;Anna Horwitz;FBEJ;FBEJ6582;horwitzen08@gmail.com;20650706;N;20190618
-775;706582;Maria Lukacs;FBGH;FBGH6582;maria.krogager@rn.dk;53148824;N;20190701
-776;706582;Rasmus Rørth;FBMR;FBMR6582;rasmusroerth@hotmail.com;30229115;N;
-777;706582;Peter Wæde Hansen;FBUB;FBUB6582;waede.sci@gmail.com;27148894;N;20180109
-778;706582;Elisabeth Helen Anna Mills;FBUS;FBUS6582;elisabeth.mills@gmail.com;20875651;N;
-779;706582;Paul Blanche;FBVQ;FBVQ6582;pabl@sund.ku.dk;;J;20190701
-780;706582;Mikkel Porsborg Andersen;FBXJ;FBXJ6582;mikkel.porsborg.andersen@regionh.dk;;J;20171214
-781;706582;Morten Malmborg;FBXM;FBXM6582;mortenmalmborg@gmail.com;30543158;N;20190327
-782;706582;Thomas Steen Gyldenstierne Sehested;FBXS;FBXS6582;tsg.sehested@gmail.com;20836010;N;20190701
-783;706582;Alexander Egeberg;FBYN;FBYN6582;alexander.egeberg@gmail.com;;J;20190424
-784;706582;Anne Pernille Toft-Petersen;FCAA;FCAA6582;aptp85@gmail.com;21730348;N;20190124
-785;706582;Yuri Maria Fukuda Andersen;FCRD;FCRD6582;yuki.maria.fukuda.andersen.01@regionh.dk;60161860;J;20190506
-786;706582;Jawad Haider Butt;FCUG;FCUG6582;jawad_butt91@hotmail.com;;N;20190404
-787;706582;Maurizio Sessa;FCVB;FCVB6582;maurizio.sessa@sund.ku.dk;52755467;N;20190118
-788;706582;Jesper Qvist Thomassen;FCVI;FCVI6582;jesper.qvist.thomassen@regionh.dk;;N;20190312
-789;706582;Christoffer Polcwiartek;FCXB;FCXB6582;c.polcwiartek@gmail.com;30259831;J;20190701
-790;706582;Mathilde Winther-Jensen;FCZC;FCZC6582;mwin0034@regionh.dk;21256894;N;20190425
-791;706582;Liis Starkopf;FDAE;FDAE6582;list@sund.ku.dk;93919311;N;20190701
-792;706582;Carlo Alberto Barcella;FDBB;FDBB6582;carloalbertobarcella@libero.it;;N;20190624
-793;706582;Lauge Klement Moltke Østergaard;FDRX;FDRX6582;laugeoestergaard@gmail.com;;N;20190206
-794;706582;Grimur Høgnason Mohr;FEIO;FEIO6582;hbz241@alumni.ku.dk;;N;20190625
-795;706582;Signe Riddersholm;FEKO;FEKO6582;signeriddersholm@gmail.com;;N;20190205
-796;706582;Naja Emborg Vinding;FEMV;FEMV6582;naja_vinding@msn.com;;N;20190626
-797;706582;Philip Andreas Schytz;FERL;FERL6582;philip_schytz@hotmail.com;;N;20190701
-798;706582;Carsten Simonsen;FEUI;FEUI6582;carsten.simonsen@rn.dk;;N;20181213
-799;706582;Charlotte Andreasen;FEXT;FEXT6582;andreasencharlotte7@gmail.com;;N;20190701
-800;706582;Ann-Eva Christensen;FFAG;FFAG6582;anneva.christensen@rn.dk;;N;20180611
-801;706582;Martin Schultz;FFCN;FFCN6582;martin.schultz@regionh.dk;;N;
-802;706582;Johannes Riis Jensen;FFHO;FFHO6582;jje14@student.aau.dk;;N;20190528
-803;706582;Jeanette Halskou Hesselvig;FFLA;FFLA6582;jeanettehalskou@gmail.com;;N;20180709
-804;706582;Tor Biering-Sørensen;FFRN;FFRN6582;tor.biering@gmail.com;;N;
-805;706582;Mathias Ottosen;FGAB;FGAB6582;mathias.ottosen@gmail.com;;N;20180113
-806;706582;He Zhang;FGAF;FGAF6582;he.zhang04@gmail.com;;N;20190115
-807;706582;Flora Sigvardt;FGJQ;FGJQ6582;flora.sigvardt@gmail.com;;N;20190314
-808;706582;Caroline Holm Nørgaard;FGVZ;FGVZ6582;caroline.noergaard@rn.dk;40283420;N;20190610
-809;706582;Muzhda Ghanizada;FGWL;FGWL6582;muzhda.ghanizada@regionh.dk;;N;20190626
-810;706582;Daniel Modin;FGXK;FGXK6582;danielmodin@live.dk;;N;20190623
-811;706582;Henrik Hovgaard;FGZY;FGZY6582;hnrkhvgrd@hotmail.com;;N;20190210
-812;706582;Daniel Ooi Christensen;FHAE;FHAE6582;rwz992@alumni.ku.dk;;N;20190702
-813;706582;Ali Akil Al-Alak;FHEZ;FHEZ6582;ali.akil.al-alak.02@regionh.dk;;N;20190701
-814;706582;Lene Dreyer;FHFM;FHFM6582;l.dreyer@rn.dk;;N;20180618
-815;706582;René Cordtz;FHFN;FHFN6582;rcordtz@gmail.com;;N;20190701
-816;706582;Kristian Zobbe;FHFO;FHFO6582;kristian.zobbe.01@regionh.dk;;N;20190313
-817;706582;Jonathan Vela;FHFQ;FHFQ6582;j.vela@rn.dk;;N;20190625
-818;706582;Salome Kristensen;FHFR;FHFR6582;sakr@rn.dk;;N;20180912
-819;706582;Rubina Attar;FHRZ;FHRZ6582;r.attar@rn.dk;;N;20180703
-820;706582;Tobias Nissen;FHSS;FHSS6582;tphnissen@outlook.dk;;N;20190701
-821;706582;Nertila Zylyftari;FHST;FHST6582;nertila.zylyftari@gmail.com;;N;20190426
-822;706582;Line Haubjerg Nielsen;FHYP;FHYP6582;linehaubjerg@hotmail.com;;N;20190205
-823;706582;Ruby Charak;FHZD;FHZD6582;charakruby@gmail.com;;N;20190211
-824;706582;Amalie Lykkemark Møller;FIAM;FIAM6582;amalielykkemark@live.dk;;N;20190702
-825;706582;Philip Brainin;FIFH;FIFH6582;philip.henrik.brainin.jensen.02@regionh.dk;;N;
-826;706582;Anna Sekkelund;FIKD;FIKD6582;anna.kathrine.moelvig.sekkelund.01@regionh.dk;;N;20190422
-827;706582;Dennis Christian Andersen;FILT;FILT6582;dennisandersen90@me.com;;N;20190624
-828;706582;Mads Odgaard Mæng;FINI;FINI6582;madsmaeng@gmail.com;;N;
-829;706582;Mikkel Kjeldgaard;FINJ;FINJ6582;mikkel.kj@outlook.dk;;N;
-830;706582;Helle Collatz Christensen;FINY;FINY6582;helle.collatz.christensen.02@regionh.dk;;N;
-831;706582;Bolette Gylden Soussi;FIPK;FIPK6582;b.soussi@rn.dk;;N;20190702
-832;706582;Rasmus Westermann;FIPL;FIPL6582;westermann2@live.dk;;N;20190702
-833;706582;Erik Sören Halvard Hansen;FIQY;FIQY6582;erik.soeren.halvard.hansen@regionh.dk;;N;20190522
-834;706582;Niklas Alexander Worm Andersson;FIYD;FIYD6582;niklas.alexander.worm.andersson.01@regionh.dk;;N;
-835;706582;Martin Steen Frydland;FJCZ;FJCZ6582;martin.frydland@me.com;;N;
-836;706582;Helle Søholm;FJDA;FJDA6582;Helle.soholm@gmail.com;;N;20190403
-837;706582;Emily Beaman;FJDK;FJDK6582;emily.beaman@nru.dk;;N;20190701
-838;706582;Sebastian Holst;FJDL;FJDL6582;holst@nru.dk;;N;20190520
-839;706582;Adelina Karimovna Yafasova;FJDN;FJDN6582;adelinay@hotmail.com;;N;
-840;706582;Manan Pareek;FJIT;FJIT6582;mananpareek@dadlnet.dk;;N;20190627
-841;706582;Kamal Preet Kaur;FJOO;FJOO6582;kapk@regionsjaelland.dk;;N;
-842;706582;Filip Gnesin;FJQW;FJQW6582;filip.gnesin@gmail.com;31613565;N;
-843;706582;Marianna Meaidi;FJUJ;FJUJ6582;marianna-meaidi@hotmail.com;;N;
-844;706582;Kamilla Steensig;FJWK;FJWK6582;steensig@gmail.com;;N;
-845;706582;Sam Kafai;FJWU;FJWU6582;sam.kafai.yahyavi@regionh.dk;;N;
-846;706582;Jon Trærup Andersen;QAW;QAW6582;jon.thor.traerup.andersen@regionh.dk;29721508;N;
-847;706582;Charlotte Andersson;QJP;QJP6582;ca@heart.dk;;N;20190612
-848;706582;Jesper Lindhardsen;QNB;QNB6582;jesper.lindhardsen@regionh.dk;51808678;N;20190701
-849;706582;Sheraz Afzal Butt;QQP;QQP6582;sheraz.butt@regionh.dk;;N;20190322
-850;706582;Thomas Alexander Gerds;WJA;WJA6582;tag@biostat.ku.dk;;N;20190703
-851;706582;Kristian Aasbjerg Andersen;WON;WON6582;kristian@aasbjerg.dk;40726210;J;20180924
-852;706582;Søren Lund Kristensen;WTV;WTV6582;soerenlk@gmail.com;28694385;J;20190613
-853;706582;Mia Nielsen;WTW;WTW6582;mia_nielsen7@hotmail.com;22162824;N;20190701
-854;706582;Emil Loldrup Fosbøl;YBI;YBI6582;elf@heart.dk;26845552;J;
-855;706582;Christian Torp-Pedersen;ZYP;ZYP6582;CTP@HEART.DK;24453790;J;20190604
-856;706582;Gunnar H. Gislason;ZYQ;ZYQ6582;gg@heart.dk;;J;
-857;706673;Kristian Hay Kragholm;FAWN;FAWN6673;kdks@rn.dk;20942675;N;20190220
-858;706673;Mikkel Porsborg Andersen;FBXJ;FBXJ6673;mikkel.porsborg.andersen@regionh.dk;;J;
-859;706673;Daniel Bech Rasmussen;FEOI;FEOI6673;Daniel.rasmussen@live.dk;;N;20190430
-860;706673;Peter Jacobsen;FFEM;FFEM6673;peter.jacobsen@rn.dk;;N;20190624
-861;706673;Morten Lamberts;WCI;WCI6673;mortenlamberts@gmail.com;;N;20170627
-862;706673;Christian Torp-Pedersen;ZYP;ZYP6673;CTP@HEART.DK;24453790;J;
-863;706734;Christina Ji-Young Lee;FBDE;FBDE6734;cjilee@outlook.com;60633595;J;20181127
-864;706734;Maria Lukacs;FBGH;FBGH6734;maria.krogager@rn.dk;53148824;N;20181003
-865;706734;Peter Wæde Hansen;FBUB;FBUB6734;waede.sci@gmail.com;27148894;N;20181229
-866;706734;Mikkel Porsborg Andersen;FBXJ;FBXJ6734;mikkel.porsborg.andersen@regionh.dk;;J;20171221
-867;706734;Line Engelbrechtsen;FCTG;FCTG6734;line@sund.ku.dk;40837700;N;20180719
-868;706734;Maria D Souza;FCXZ;FCXZ6734;mari.dsouz@gmail.com;28349132;J;20190624
-869;706734;Regitze Kuhr Skals;FDWK;FDWK6734;r.skals@rn.dk;;N;20181212
-870;706734;Grimur Høgnason Mohr;FEIO;FEIO6734;hbz241@alumni.ku.dk;;N;20180926
-871;706734;Frederik Dalgaard;FEJC;FEJC6734;rendesten@gmail.com;;N;20180709
-872;706734;Morten Petersen;FGNB;FGNB6734;Morten.petersen@regionh.dk;;N;20190703
-873;706734;Mathies Braun Jepsen;FIEL;FIEL6734;mathies.braun.jepsen@dadlnet.dk;;N;20181121
-874;706734;Magnus Ebbesen;FJII;FJII6734;magnus.niels.ebbesen@gmail.com;;N;20190627
-875;706734;Charlotte Andersson;QJP;QJP6734;ca@heart.dk;;N;20190404
-876;706734;Thomas Alexander Gerds;WJA;WJA6734;tag@biostat.ku.dk;;J;20190204
-877;706734;Peter Weeke;YET;YET6734;pw@heart.dk;;N;20190701
-878;706734;Christian Torp-Pedersen;ZYP;ZYP6734;CTP@HEART.DK;24453790;J;20190627
-879;706734;Gunnar H. Gislason;ZYQ;ZYQ6734;gg@heart.dk;;J;
-880;706815;Mikkel Porsborg Andersen;FBXJ;FBXJ6815;mikkel.porsborg.andersen@regionh.dk;;J;20171011
-881;706815;Simon Ladefoged Rasmussen;FGTK;FGTK6815;simon.rasmussen@rn.dk;;N;20190613
-882;706815;Christian Torp-Pedersen;ZYP;ZYP6815;CTP@HEART.DK;24453790;J;20190215
-883;706816;Christina Ji-Young Lee;FBDE;FBDE6816;cjilee@outlook.com;60633595;N;20181121
-884;706816;Mikkel Porsborg Andersen;FBXJ;FBXJ6816;mikkel.porsborg.andersen@regionh.dk;;J;20171128
-885;706816;Maurizio Sessa;FCVB;FCVB6816;maurizio.sessa@sund.ku.dk;52755467;N;
-886;706816;Caroline Holm Nørgaard;FGVZ;FGVZ6816;caroline.noergaard@rn.dk;40283420;N;
-887;706816;Jesper Lindhardsen;QNB;QNB6816;jesper.lindhardsen@regionh.dk;51808678;N;20180512
-888;706816;Christian Torp-Pedersen;ZYP;ZYP6816;CTP@HEART.DK;24453790;J;
-889;706817;Mikkel Porsborg Andersen;FBXJ;FBXJ6817;mikkel.porsborg.andersen@regionh.dk;;J;20171128
-890;706817;Christian Torp-Pedersen;ZYP;ZYP6817;CTP@HEART.DK;24453790;J;
-891;706818;Jannik Pallisgaard;FAFG;FAFG6818;jannikjannik@gmail.com;29723117;J;20190604
-892;706818;Peter Vibe Rasmussen;FAJY;FAJY6818;peter.vibe.rasmussen@gmail.com;;N;20190604
-893;706818;Mads Emil Jørgensen;FAKQ;FAKQ6818;mads.emil.joergensen@regionh.dk;51940781;N;20190424
-894;706818;Sadaf Kamil;FALM;FALM6818;sadafkamil88@gmail.com;27347893;N;20190702
-895;706818;Nicholas Carlson;FAVM;FAVM6818;doc.mumbles@gmail.com;53636226;J;20190628
-896;706818;Kristian Hay Kragholm;FAWN;FAWN6818;kdks@rn.dk;20942675;J;20190130
-897;706818;Anna Gundlund Lorentzen;FBAQ;FBAQ6818;annagundlund@gmail.com;50907117;N;20190610
-898;706818;Anders Nissen Bonde;FBAW;FBAW6818;andersnissenbonde@gmail.com;40837539;N;20190625
-899;706818;Christina Ji-Young Lee;FBDE;FBDE6818;cjilee@outlook.com;60633595;J;20190507
-900;706818;Laila Jensen stærk;FBGN;FBGN6818;lailastaerk@gmail.com;30220429;N;20190703
-901;706818;Rasmus Rørth;FBMR;FBMR6818;rasmusroerth@hotmail.com;30229115;N;20190315
-902;706818;Sidsel Møller;FBPS;FBPS6818;sidselgm@gmail.com;;N;20190624
-903;706818;Peter Wæde Hansen;FBUB;FBUB6818;waede.sci@gmail.com;27148894;N;20190520
-904;706818;Paul Blanche;FBVQ;FBVQ6818;pabl@sund.ku.dk;;N;20181128
-905;706818;Kristian Bundgaard;FBVZ;FBVZ6818;kristian.bundgaard@rn.dk;22852667;N;20181101
-906;706818;Mikkel Porsborg Andersen;FBXJ;FBXJ6818;mikkel.porsborg.andersen@regionh.dk;;J;20171212
-907;706818;Thomas Steen Gyldenstierne Sehested;FBXS;FBXS6818;tsg.sehested@gmail.com;20836010;J;20190527
-908;706818;Majbritt Svendsen;FCAZ;FCAZ6818;majbritt.svendsen@rn.dk;30343647;N;20190620
-909;706818;Caroline Sindet-Pedersen;FCBR;FCBR6818;carolinesindet@gmail.com;24230883;N;20190620
-910;706818;Anne Merete Soja;FCFS;FCFS6818;doctor.soja@gmail.com;61266556;N;
-911;706818;Jawad Haider Butt;FCUG;FCUG6818;jawad_butt91@hotmail.com;;N;20190702
-912;706818;Liis Starkopf;FDAE;FDAE6818;list@sund.ku.dk;93919311;N;20190703
-913;706818;Carlo Alberto Barcella;FDBB;FDBB6818;carloalbertobarcella@libero.it;;N;20180129
-914;706818;Lasse Pedersen;FDRK;FDRK6818;lasse.pedersen@rn.dk;;N;20190510
-915;706818;Lauge Klement Moltke Østergaard;FDRX;FDRX6818;laugeoestergaard@gmail.com;;N;20190507
-916;706818;Nanna Vestergaard Jensen;FDWA;FDWA6818;nvje11@gmail.com;;N;20190702
-917;706818;Charlotte Glinge;FEFQ;FEFQ6818;cglinge@gmail.com;;N;20190521
-918;706818;Grimur Høgnason Mohr;FEIO;FEIO6818;hbz241@alumni.ku.dk;;N;20190703
-919;706818;Frederik Dalgaard;FEJC;FEJC6818;rendesten@gmail.com;;J;20190703
-920;706818;Thomas Hadberg Lynge;FEJJ;FEJJ6818;thomashadberglynge@gmail.com;;J;
-921;706818;Signe Riddersholm;FEKO;FEKO6818;signeriddersholm@gmail.com;;J;20190701
-922;706818;Torben Martinussen;FEVF;FEVF6818;tma@sund.ku.dk;;N;20190311
-923;706818;Anders Holt;FEWM;FEWM6818;holt.anders@gmail.com;;N;20190220
-924;706818;Anna Axelsson Raja;FEWR;FEWR6818;anna.axelsson@dadlnet.dk;;N;20190521
-925;706818;Zishan Yaqub;FFAF;FFAF6818;zishanyaqub@hotmail.com;;N;20181102
-926;706818;Anders Munch;FFLR;FFLR6818;amnudn@gmail.com;;N;20190221
-927;706818;Johan Skov Bundgaard;FGGU;FGGU6818;johan.bundgaard@gmail.com;;N;20180212
-928;706818;David Nikolai Thein Aagaard;FGGV;FGGV6818;davidaagaard@gmail.com;;N;20190628
-929;706818;Eva Borgersen;FGGW;FGGW6818;evaborgersen@gmail.com;;N;20190512
-930;706818;Mohamad Hassan El-Chouli;FGHW;FGHW6818;mohamad.hassan.el-chouli@regionh.dk;;N;20190624
-931;706818;Mia Ravn Jacobsen;FGIR;FGIR6818;Miaravn92@hotmail.com;;N;20190701
-932;706818;Reza Jabbari;FGIS;FGIS6818;Rezajabbari77@gmail.com;;N;20190519
-933;706818;Inger Lise Gade;FGSF;FGSF6818;inlg@rn.dk;;N;20190701
-934;706818;Louise Feldborg Lyckhage;FGSN;FGSN6818;llyckhage@hotmail.com;;N;20190701
-935;706818;Lucas Yixi Xing;FGUC;FGUC6818;pbf723@alumni.ku.dk;;N;20190304
-936;706818;Alexander Dukanovic;FGWR;FGWR6818;aco92d@outlook.com;;N;20180224
-937;706818;Daniel Modin;FGXK;FGXK6818;danielmodin@live.dk;;N;20190628
-938;706818;Jarl Emanuel Strange;FHAF;FHAF6818;lnk248@alumni.ku.dk;;N;20190605
-939;706818;Matthew Phelps;FHBB;FHBB6818;mphelps@hjerteforeningen.dk;;J;20190325
-940;706818;Niels Stampe;FHCM;FHCM6818;nkstampe@gmail.com;;N;
-941;706818;Peter Marstrand;FHDK;FHDK6818;pmarstrand@hotmail.com;;N;20190410
-942;706818;Nicola Bondonno;FHOC;FHOC6818;nicola.bondonno@uwa.edu.au;;N;20190702
-943;706818;Nertila Zylyftari;FHST;FHST6818;nertila.zylyftari@gmail.com;;N;20190701
-944;706818;Tina Ma;FHUZ;FHUZ6818;xpr633@alumni.ku.dk;;N;20190404
-945;706818;Martin Longhi Engelbrecht;FHZO;FHZO6818;martin_longhi@hotmail.com;;N;20181210
-946;706818;Marianne Frank Clausen;FIEF;FIEF6818;mariannefrankclausen@gmail.com;;N;20190624
-947;706818;Oliver Juul Olesen;FIEG;FIEG6818;Oliver.j.o@hotmail.com;;N;
-948;706818;Sarah Friedrich;FIER;FIER6818;sarah.friedrich@uni-ulm.de;;N;20190523
-949;706818;Philip Brainin;FIFH;FIFH6818;philip.henrik.brainin.jensen.02@regionh.dk;;N;20190702
-950;706818;Casper Binding;FIFJ;FIFJ6818;hnk546@alumni.ku.dk;;N;20190624
-951;706818;Deepthi Rajan;FIFU;FIFU6818;deraj2007@gmail.com;;N;20190626
-952;706818;Mads-Holger Bang Jacobsen;FIGX;FIGX6818;madsholger23@live.dk;;N;20190630
-953;706818;Louise Thorlacius-Ussing;FIGY;FIGY6818;louise.thorlacius-ussing@regionh.dk;;N;
-954;706818;Andreas Dalsgaard Jensen;FIJX;FIJX6818;cqh342@alumni.ku.dk;;N;20190626
-955;706818;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ6818;jehm@sund.ku.dk;;N;20190522
-956;706818;Johanna Krøll;FIYX;FIYX6818;johanna.kroell@hotmail.com;;N;
-957;706818;Andrea Kjellström Wagner;FJAV;FJAV6818;kjellstrom.andrea@gmail.com;;N;20190704
-958;706818;Jesper Andrew Dyhring Petersen;FJCY;FJCY6818;jesperadpetersen@gmail.com;;N;20190614
-959;706818;Adelina Karimovna Yafasova;FJDN;FJDN6818;adelinay@hotmail.com;;N;20190629
-960;706818;Oscar Westin;FJEO;FJEO6818;oscar.mikael.westin@regionh.dk;;N;20190617
-961;706818;Amna Alhakak;FJQC;FJQC6818;amnasaed@hotmail.com;;N;
-962;706818;Jeppe Kofoed Petersen;FJQD;FJQD6818;jeppekp3008@gmail.com;;N;
-963;706818;Jan Feifel;FJSY;FJSY6818;jan.feifel@uni-ulm.de;;N;
-964;706818;Morten Lamberts;WCI;WCI6818;mortenlamberts@gmail.com;;J;20190703
-965;706818;Thomas Alexander Gerds;WJA;WJA6818;tag@biostat.ku.dk;;J;20190702
-966;706818;Kristian Aasbjerg Andersen;WON;WON6818;kristian@aasbjerg.dk;40726210;J;20190612
-967;706818;Søren Lund Kristensen;WTV;WTV6818;soerenlk@gmail.com;28694385;J;20190508
-968;706818;Ulrik Madvig Mogensen;XZD;XZD6818;ulrik_mogensen@hotmail.com;29252637;J;
-969;706818;Rikke Sørensen;YBF;YBF6818;rs@heart.dk;;N;20190402
-970;706818;Emil Loldrup Fosbøl;YBI;YBI6818;elf@heart.dk;26845552;J;20190627
-971;706818;Peter Weeke;YET;YET6818;pw@heart.dk;;J;
-972;706818;Jonas Bjerring Olesen;YPI;YPI6818;jonasolesen@hotmail.com;;N;20190311
-973;706818;Christian Torp-Pedersen;ZYP;ZYP6818;CTP@HEART.DK;24453790;J;20190620
-974;706818;Gunnar H. Gislason;ZYQ;ZYQ6818;gg@heart.dk;;J;20190625
-975;706835;Mikkel Porsborg Andersen;FBXJ;FBXJ6835;mikkel.porsborg.andersen@regionh.dk;;J;20171025
-976;706835;Christoffer Polcwiartek;FCXB;FCXB6835;c.polcwiartek@gmail.com;30259831;N;20180614
-977;706835;Anders Jørgensen;FHVB;FHVB6835;Anders.01.Joergensen@regionh.dk;;N;20180622
-978;706835;Christine Benn Christiansen;QIT;QIT6835;christinebenn@hotmail.com;27179616;N;20181121
-979;706835;Henrik Enghusen Poulsen;YJD;YJD6835;hepo@rh.regionh.dk;40683911;N;
-980;706835;Christian Torp-Pedersen;ZYP;ZYP6835;CTP@HEART.DK;24453790;J;
-981;706931;Mikkel Porsborg Andersen;FBXJ;FBXJ6931;mikkel.porsborg.andersen@regionh.dk;;J;
-982;706931;Christian Hoffmann Jackowski;FISW;FISW6931;cjacko16@student.aau.dk;;N;20190609
-983;706931;Hendrik Kaasgaard;FISX;FISX6931;hkaasg06@student.aau.dk;;N;20190609
-984;706931;Henrik Bøggild;ZJV;ZJV6931;boggild@hst.aau.dk;51417858;J;20190615
-985;707089;Bjarke Risgaard;FBDM;FBDM7089;bjarkerisgaard@gmail.com;29264388;N;
-986;707089;Paul Blanche;FBVQ;FBVQ7089;pabl@sund.ku.dk;;N;20190606
-987;707089;Mikkel Porsborg Andersen;FBXJ;FBXJ7089;mikkel.porsborg.andersen@regionh.dk;;J;
-988;707089;Charlotte Glinge;FEFQ;FEFQ7089;cglinge@gmail.com;;N;
-989;707089;Thomas Hadberg Lynge;FEJJ;FEJJ7089;thomashadberglynge@gmail.com;;N;20190326
-990;707089;Reza Jabbari;FGIS;FGIS7089;Rezajabbari77@gmail.com;;N;
-991;707089;Jacob Tfelt Hansen;FGXP;FGXP7089;jacob.tfelt@regionh.dk;;N;
-992;707089;Niels Stampe;FHCM;FHCM7089;nkstampe@gmail.com;;N;
-993;707089;Frederik Nybye Ågesen;FHHT;FHHT7089;frederik.nybye.aagesen@regionh.dk;;N;20190625
-994;707089;Bo Gregers Winkel;FIPX;FIPX7089;bowinkel@dadlnet.dk;;N;
-995;707089;Jakob Lund Nielsen;FIPY;FIPY7089;jakoblundn@hotmail.com;;N;20190624
-996;707089;Jesper Svane;FIPZ;FIPZ7089;jespersvane@gmail.com;;N;
-997;707089;Sofie Louise Rygård;FIQA;FIQA7089;sofie.louise.rygaard@regionh.dk;;N;20190212
-998;707089;Marius Kløvgaard Sørensen;FIQB;FIQB7089;marius.kloevgaard.soerensen@regionh.dk;;N;20190624
-999;707089;Jeppe Ekstrand Halkjær Madsen;FIVJ;FIVJ7089;jehm@sund.ku.dk;;N;20190429
-1000;707089;Simon Mathis Kønig;FIVP;FIVP7089;simon.mathis.koenig@regionh.dk;;N;20190508
-1001;707089;Camilla Helene Bang Jespersen;FIVQ;FIVQ7089;camilla.helene.bang.jespersen@regionh.dk;;N;
-1002;707089;Vilde Waaler Loland;FJMT;FJMT7089;viwalo92@gmail.com;;N;
-1003;707089;Christian Torp-Pedersen;ZYP;ZYP7089;CTP@HEART.DK;24453790;J;
-1004;707089;Gunnar H. Gislason;ZYQ;ZYQ7089;gg@heart.dk;;J;
-1005;707246;Linda Ejlskov Jeppesen;FBJF;FBJF7246;lej@econ.au.dk;26116549;N;20190521
-1006;707246;Mikkel Porsborg Andersen;FBXJ;FBXJ7246;mikkel.porsborg.andersen@regionh.dk;;J;
-1007;707246;Liis Starkopf;FDAE;FDAE7246;list@sund.ku.dk;93919311;N;20190613
-1008;707246;Charlotte Laurmann;FIML;FIML7246;cl@storebox.com;;N;
-1009;707246;Frederik Trier Møller;FJBZ;FJBZ7246;frtm@ssi.dk;;N;20190613
-1010;707246;Uffe Christian Braae;FJCA;FJCA7246;UFCB@ssi.dk;;N;20190509
-1011;707246;Christian Torp-Pedersen;ZYP;ZYP7246;CTP@HEART.DK;24453790;J;20190607
-1012;707376;Elisabeth Helen Anna Mills;FBUS;FBUS7376;elisabeth.mills@gmail.com;20875651;N;20181205
-1013;707376;Mikkel Porsborg Andersen;FBXJ;FBXJ7376;mikkel.porsborg.andersen@regionh.dk;;J;
-1014;707376;Amalie Lykkemark Møller;FIAM;FIAM7376;amalielykkemark@live.dk;;N;
-1015;707376;Christian Torp-Pedersen;ZYP;ZYP7376;CTP@HEART.DK;24453790;J;20190607
+﻿Liste over hvem der har hjemsendelsesrettigheder;;;;
+;;;;
+Projektnummer;NAVN;FORSKER_IDENT;MAIL;MAA_HJEMSENDE
+702561;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+702831;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+702831;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+702911;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+702911;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+702969;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+702969;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703308;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703308;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703421;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703421;Jon Trærup Andersen;QAW;jon.thor.traerup.andersen@regionh.dk;J
+703421;Charlotte Andersson;QJP;ca@heart.dk;J
+703421;Ole Ahlehoff;QLQ;olahha01@geh.regionh.dk;N
+703421;Morten Lamberts;WCI;mortenlamberts@gmail.com;J
+703421;Aksel Karl Georg Jensen;WIZ;akje@sund.ku.dk;N
+703421;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703421;Mads Wissenberg Jørgensen;WKO;wissenberg@gmail.com;J
+703421;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+703421;Ulrik Madvig Mogensen;XZD;ulrik_mogensen@hotmail.com;J
+703421;Rikke Sørensen;YBF;rs@heart.dk;J
+703421;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+703421;Peter Weeke;YET;pw@heart.dk;J
+703421;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703421;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703421;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703573;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;N
+703573;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;N
+703573;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;N
+703657;Louise Bruun Østergaard;FAHX;l_bruun@hotmail.com;N
+703657;Anne Christine Huth Ruwald;FAHZ;annechristinehuth@hotmail.com;J
+703657;Nicholas Carlson;FAVM;doc.mumbles@gmail.com;N
+703657;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+703657;Anna Gundlund Lorentzen;FBAQ;annagundlund@gmail.com;N
+703657;Linda Ejlskov Jeppesen;FBJF;lej@econ.au.dk;N
+703657;Line Rosenkilde Berg Ullits Christensen;FBPP;line@mmid.dk;N
+703657;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703657;Alexander Egeberg;FBYN;alexander.egeberg@gmail.com;J
+703657;Caroline Sindet-Pedersen;FCBR;carolinesindet@gmail.com;N
+703657;Ann Banke;FCCU;Ann.Banke@rsyd.dk;N
+703657;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+703657;Maria D Souza;FCXZ;mari.dsouz@gmail.com;N
+703657;Liis Starkopf;FDAE;list@sund.ku.dk;N
+703657;Carlo Alberto Barcella;FDBB;carloalbertobarcella@libero.it;N
+703657;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+703657;Charlotte Glinge;FEFQ;cglinge@gmail.com;N
+703657;Anna Axelsson Raja;FEWR;anna.axelsson@dadlnet.dk;N
+703657;Jeanette Halskou Hesselvig;FFLA;jeanettehalskou@gmail.com;N
+703657;Amani Meaidi;FFPY;amani.meaidi@regionh.dk;N
+703657;Mathias Ottosen;FGAB;mathias.ottosen@gmail.com;N
+703657;Pia Egerup;FGTC;piaegerup@hotmail.com;N
+703657;Emilie Hjermitslev Jonsen;FHCO;emiliejonsen@gmail.com;N
+703657;Frederik Nybye Ågesen;FHHT;frederik.nybye.aagesen@regionh.dk;N
+703657;Marcella Broccia;FIOK;marcellabroccia@hotmail.com;N
+703657;Camilla Nordheim Solli;FISM;cnos@regionsjaelland.dk;N
+703657;Oliver S. Wennervaldt Larsen;FIXE;oswlarsen@gmail.com;N
+703657;Charlotte Helene Wichmand;FJCG;chwichmand@gmail.com;N
+703657;Magnus Ebbesen;FJII;magnus.niels.ebbesen@gmail.com;N
+703657;Jon Trærup Andersen;QAW;jon.thor.traerup.andersen@regionh.dk;J
+703657;Charlotte Andersson;QJP;ca@heart.dk;J
+703657;Michelle Schmiegelow;QNZ;mdschmiegelow@gmail.com;N
+703657;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;N
+703657;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+703657;Mia Nielsen;WTW;mia_nielsen7@hotmail.com;N
+703657;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+703657;Peter Weeke;YET;pw@heart.dk;J
+703657;Ane Lilleøre Rom;YKG;ane.lilleoere.rom@regionh.dk;N
+703657;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703657;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703657;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703661;Lena Karlsson;FAFZ;limkarlsson@gmail.com;N
+703661;Shahzleen Rajan;FALC;shahzleen@gmail.com;N
+703661;Rikke Nørmark Mortensen;FAVA;rnm@hst.aau.dk;J
+703661;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+703661;Kathrine Bach Søndergaard;FAXG;kbsondergaard@gmail.com;N
+703661;Steen Møller Hansen;FBCG;steen.hansen@rn.dk;J
+703661;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;N
+703661;Bjarke Risgaard;FBDM;bjarkerisgaard@gmail.com;N
+703661;Maria Lukacs;FBGH;maria.krogager@rn.dk;N
+703661;Rasmus Rørth;FBMR;rasmusroerth@hotmail.com;N
+703661;Sidsel Møller;FBPS;sidselgm@gmail.com;N
+703661;Paul Blanche;FBVQ;pabl@sund.ku.dk;N
+703661;Kristian Bundgaard;FBVZ;kristian.bundgaard@rn.dk;J
+703661;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703661;Nicolai Lohse;FCGB;niclohse@gmail.com;N
+703661;Asger Granfeldt;FCLM;granfeldt@gmail.com;N
+703661;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;N
+703661;Mathilde Winther-Jensen;FCZC;mwin0034@regionh.dk;N
+703661;Liis Starkopf;FDAE;list@sund.ku.dk;N
+703661;Carlo Alberto Barcella;FDBB;carloalbertobarcella@libero.it;N
+703661;Marianne Søndergaard Pape;FDRD;misspape@gmail.com;N
+703661;Grimur Høgnason Mohr;FEIO;hbz241@alumni.ku.dk;N
+703661;Signe Riddersholm;FEKO;signeriddersholm@gmail.com;J
+703661;Lucas Malta Westergaard;FGWB;lucaswestergaard@gmail.com;N
+703661;Daniel Ooi Christensen;FHAE;rwz992@alumni.ku.dk;N
+703661;Nertila Zylyftari;FHST;nertila.zylyftari@gmail.com;N
+703661;Harman Gailan Hassan Yonis;FIAI;harman@live.dk;N
+703661;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+703661;Shaun Theodor Sødergren;FJAZ;shaun@si-folkesundhed.dk;J
+703661;Anne Juul Jørgensen;FJIH;anne.j.juul@gmail.com;N
+703661;Christian Snitkjær;FJTQ;Christian_snit@hotmail.com;N
+703661;Annette Kjær Ersbøll;QVS;ake@si-folkesundhed.dk;N
+703661;Aksel Karl Georg Jensen;WIZ;akje@sund.ku.dk;N
+703661;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703661;Mads Wissenberg Jørgensen;WKO;wissenberg@gmail.com;J
+703661;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+703661;Peter Weeke;YET;pw@heart.dk;J
+703661;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703661;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703661;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703662;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+703662;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703662;Amalie Lykkemark Møller;FIAM;amalielykkemark@live.dk;N
+703662;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703662;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+703662;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703662;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703664;Sadaf Kamil;FALM;sadafkamil88@gmail.com;N
+703664;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703664;Alexander Egeberg;FBYN;alexander.egeberg@gmail.com;J
+703664;Yuri Maria Fukuda Andersen;FCRD;yuki.maria.fukuda.andersen.01@regionh.dk;J
+703664;Maria D Souza;FCXZ;mari.dsouz@gmail.com;J
+703664;Laura Kofoed Kjær;FDWH;laura.kofoed.kjaer@regionh.dk;N
+703664;Jeanette Halskou Hesselvig;FFLA;jeanettehalskou@gmail.com;N
+703664;Mathias Ottosen;FGAB;mathias.ottosen@gmail.com;N
+703664;Niklas Alexander Worm Andersson;FIYD;niklas.alexander.worm.andersson.01@regionh.dk;N
+703664;Jon Trærup Andersen;QAW;jon.thor.traerup.andersen@regionh.dk;J
+703664;Charlotte Andersson;QJP;ca@heart.dk;J
+703664;Espen Jimenez Solem;QKZ;espen.jimenez.solem@regionh.dk;N
+703664;Michelle Schmiegelow;QNZ;mdschmiegelow@gmail.com;N
+703664;Henrik Enghusen Poulsen;YJD;hepo@rh.regionh.dk;J
+703664;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703664;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703664;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703678;Usman Khalid;FADC;usman.khalid@regionh.dk;N
+703678;Louise Bruun Østergaard;FAHX;l_bruun@hotmail.com;N
+703678;Cengiz Özcan;FAKO;cengizoezcan@gmail.com;N
+703678;Mads Emil Jørgensen;FAKQ;mads.emil.joergensen@regionh.dk;N
+703678;Karl Emil Kristensen;FAPJ;karlemil@dadlnet.dk;N
+703678;Anders Nissen Bonde;FBAW;andersnissenbonde@gmail.com;N
+703678;Ida Biering-Sørensen;FBGG;idabs86@gmail.com;N
+703678;Christian Madelaire Rasmussen;FBLG;christian.madelaire.rasmussen@regionh.dk;N
+703678;Paul Blanche;FBVQ;pabl@sund.ku.dk;N
+703678;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703678;Thomas Steen Gyldenstierne Sehested;FBXS;tsg.sehested@gmail.com;N
+703678;Lærke Smedegaard Petersen;FCAS;laerkesmedegaard@gmail.com;N
+703678;Majbritt Svendsen;FCAZ;majbritt.svendsen@rn.dk;N
+703678;Maurizio Sessa;FCVB;maurizio.sessa@sund.ku.dk;N
+703678;Maria D Souza;FCXZ;mari.dsouz@gmail.com;J
+703678;Jesper Krogh;FEPB;jesper.krogh@dadlnet.dk;N
+703678;Hafsah Nabi;FEXM;hafsah.nabi@sund.ku.dk;N
+703678;Charlotte Andreasen;FEXT;andreasencharlotte7@gmail.com;N
+703678;Tor Biering-Sørensen;FFRN;tor.biering@gmail.com;N
+703678;Daniel Henrik Tajchman;FGHR;smf681@alumni.ku.dk;N
+703678;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+703678;Christine Benn Christiansen;QIT;christinebenn@hotmail.com;N
+703678;Charlotte Andersson;QJP;ca@heart.dk;J
+703678;Michelle Schmiegelow;QNZ;mdschmiegelow@gmail.com;N
+703678;Christian Selmer;QTB;cselmer@gmail.com;N
+703678;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703678;Rikke Sørensen;YBF;rs@heart.dk;J
+703678;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703678;Kristine Hommel;YYS;khommel@dadlnet.dk;N
+703678;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703678;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703679;Anders Mikkelsen;FAIV;andersmik87@gmail.com;N
+703679;Cengiz Özcan;FAKO;cengizoezcan@gmail.com;N
+703679;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+703679;Anders Nissen Bonde;FBAW;andersnissenbonde@gmail.com;N
+703679;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+703679;Laila Jensen stærk;FBGN;lailastaerk@gmail.com;N
+703679;Christian Madelaire Rasmussen;FBLG;christian.madelaire.rasmussen@regionh.dk;N
+703679;Peter Wæde Hansen;FBUB;waede.sci@gmail.com;N
+703679;Paul Blanche;FBVQ;pabl@sund.ku.dk;N
+703679;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703679;Louise Hagengaard;FCKJ;l.hagengaard@rn.dk;N
+703679;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+703679;Maurizio Sessa;FCVB;maurizio.sessa@sund.ku.dk;J
+703679;Frederik Dalgaard;FEJC;rendesten@gmail.com;N
+703679;Naja Emborg Vinding;FEMV;naja_vinding@msn.com;J
+703679;Zishan Yaqub;FFAF;zishanyaqub@hotmail.com;N
+703679;Bochra Zareini;FFGN;bochrazareini@gmail.com;N
+703679;Eva Borgersen;FGGW;evaborgersen@gmail.com;N
+703679;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+703679;Morten Lamberts;WCI;mortenlamberts@gmail.com;J
+703679;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703679;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+703679;Peter Weeke;YET;pw@heart.dk;J
+703679;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703679;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703679;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703716;Anne Christine Huth Ruwald;FAHZ;annechristinehuth@hotmail.com;J
+703716;Mads Emil Jørgensen;FAKQ;mads.emil.joergensen@regionh.dk;J
+703716;Rikke Nørmark Mortensen;FAVA;rnm@hst.aau.dk;N
+703716;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+703716;Mavish Safdar Chaudry;FAXS;mavish89@hotmail.com;N
+703716;Anna Gundlund Lorentzen;FBAQ;annagundlund@gmail.com;N
+703716;Steen Møller Hansen;FBCG;steen.hansen@rn.dk;J
+703716;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+703716;Maria Lukacs;FBGH;maria.krogager@rn.dk;N
+703716;Rasmus Rørth;FBMR;rasmusroerth@hotmail.com;N
+703716;Paul Blanche;FBVQ;pabl@sund.ku.dk;N
+703716;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703716;Morten Malmborg;FBXM;mortenmalmborg@gmail.com;J
+703716;Lærke Smedegaard Petersen;FCAS;laerkesmedegaard@gmail.com;N
+703716;Mette Aldahl Nielsen;FCKF;mani12@student.aau.dk;N
+703716;Line Davidsen;FCKI;ldavid12@student.aau.dk;N
+703716;Julie Andersen;FCUE;juliea@hjerteforeningen.dk;N
+703716;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+703716;Maurizio Sessa;FCVB;maurizio.sessa@sund.ku.dk;J
+703716;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;N
+703716;Maria D Souza;FCXZ;mari.dsouz@gmail.com;N
+703716;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+703716;Jenny Bjerre;FEBE;jennybjerre@gmail.com;N
+703716;Viinu Manoharan;FEGL;vmanoh12@student.aau.dk;N
+703716;Anne Mielke;FEID;anne_m_94@live.dk;N
+703716;Alexander Christian Falkentoft;FEWQ;a.falkentoft@gmail.com;N
+703716;Anna Axelsson Raja;FEWR;anna.axelsson@dadlnet.dk;N
+703716;Bochra Zareini;FFGN;bochrazareini@gmail.com;N
+703716;Johan Skov Bundgaard;FGGU;johan.bundgaard@gmail.com;N
+703716;David Nikolai Thein Aagaard;FGGV;davidaagaard@gmail.com;N
+703716;Eva Borgersen;FGGW;evaborgersen@gmail.com;J
+703716;Flora Sigvardt;FGJQ;flora.sigvardt@gmail.com;N
+703716;Daniel Modin;FGXK;danielmodin@live.dk;N
+703716;Henrik Hovgaard;FGZY;hnrkhvgrd@hotmail.com;N
+703716;Mads-Holger Bang Jacobsen;FIGX;madsholger23@live.dk;N
+703716;Marie Dam Lauridsen;FIIL;Mala_mdl@hotmail.com;N
+703716;Mads Odgaard Mæng;FINI;madsmaeng@gmail.com;N
+703716;Mikkel Kjeldgaard;FINJ;mikkel.kj@outlook.dk;N
+703716;Simone Hofman Rosenkranz;FIRP;simonemoerk@gmail.com;N
+703716;Sofie Nancy Glud Heiredal;FIRQ;sofie.g.heiredal@gmail.com;N
+703716;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+703716;Michael Thøgersen;FJOL;tthoegersen@gmail.com;N
+703716;Ali Asaad Turky Al Kahwa;FJSA;xwl764@alumni.ku.dk;N
+703716;Charlotte Andersson;QJP;ca@heart.dk;J
+703716;Michelle Schmiegelow;QNZ;mdschmiegelow@gmail.com;N
+703716;Christian Selmer;QTB;cselmer@gmail.com;N
+703716;Morten Lamberts;WCI;mortenlamberts@gmail.com;J
+703716;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703716;Søren Lund Kristensen;WTV;soerenlk@gmail.com;J
+703716;Mia Nielsen;WTW;mia_nielsen7@hotmail.com;N
+703716;Ulrik Madvig Mogensen;XZD;ulrik_mogensen@hotmail.com;J
+703716;Rikke Sørensen;YBF;rs@heart.dk;J
+703716;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+703716;Peter Weeke;YET;pw@heart.dk;J
+703716;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703716;Lene Mia von Kappelgaard;YYI;lmvk@si-folkesundhed.dk;N
+703716;Henrik Bøggild;ZJV;boggild@hst.aau.dk;J
+703716;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703716;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703740;Sadaf Kamil;FALM;sadafkamil88@gmail.com;N
+703740;Paul Blanche;FBVQ;pabl@sund.ku.dk;J
+703740;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703740;Morten Malmborg;FBXM;mortenmalmborg@gmail.com;N
+703740;Steffen U. Thorsen;FCSI;s.u.thorsen@gmail.com;N
+703740;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;J
+703740;Carlo Alberto Barcella;FDBB;carloalbertobarcella@libero.it;N
+703740;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+703740;Laura Kofoed Kjær;FDWH;laura.kofoed.kjaer@regionh.dk;N
+703740;Grimur Høgnason Mohr;FEIO;hbz241@alumni.ku.dk;N
+703740;Daniel Bech Rasmussen;FEOI;Daniel.rasmussen@live.dk;N
+703740;Casper Bang;FETA;casperbang@hotmail.com;N
+703740;Anders Munch;FFLR;amnudn@gmail.com;N
+703740;Mariam Elmegaard Malik;FFYY;rasmussen.mariam@gmail.com;N
+703740;David Nikolai Thein Aagaard;FGGV;davidaagaard@gmail.com;N
+703740;Mohamad Hassan El-Chouli;FGHW;mohamad.hassan.el-chouli@regionh.dk;N
+703740;Christina Ellervik;FGIE;christina@ellervik.dk;N
+703740;Martin Roest Christensen;FGSO;Martin.Christensen@sund.ku.dk;N
+703740;Matthew Phelps;FHBB;mphelps@hjerteforeningen.dk;J
+703740;Alisa Kjærgaard;FHMJ;alisa@devedzic.dk;N
+703740;Anders Jørgensen;FHVB;Anders.01.Joergensen@regionh.dk;N
+703740;Sarah Friedrich;FIER;sarah.friedrich@uni-ulm.de;N
+703740;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+703740;Emil List Larsen;FIYC;emil.list.larsen.01@regionh.dk;N
+703740;Mads Reinholdt;FJSQ;mads.rasmussen.02@regionh.dk;N
+703740;Jan Feifel;FJSY;jan.feifel@uni-ulm.de;N
+703740;Charlotte Andersson;QJP;ca@heart.dk;J
+703740;Michelle Schmiegelow;QNZ;mdschmiegelow@gmail.com;J
+703740;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703740;Søren Lund Kristensen;WTV;soerenlk@gmail.com;N
+703740;Tina Ken Schramm;XFY;tks@heart.dk;N
+703740;Ulrik Madvig Mogensen;XZD;ulrik_mogensen@hotmail.com;J
+703740;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+703740;Peter Weeke;YET;pw@heart.dk;J
+703740;Henrik Enghusen Poulsen;YJD;hepo@rh.regionh.dk;J
+703740;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703740;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703740;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703757;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703757;Jeanette Halskou Hesselvig;FFLA;jeanettehalskou@gmail.com;N
+703757;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703757;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703766;Usman Khalid;FADC;usman.khalid@regionh.dk;N
+703766;Louise Bruun Østergaard;FAHX;l_bruun@hotmail.com;N
+703766;Cengiz Özcan;FAKO;cengizoezcan@gmail.com;N
+703766;Sadaf Kamil;FALM;sadafkamil88@gmail.com;N
+703766;Anna-Karin Nume;FASQ;annakarin.nume@gmail.com;N
+703766;Rikke Nørmark Mortensen;FAVA;rnm@hst.aau.dk;N
+703766;Nicholas Carlson;FAVM;doc.mumbles@gmail.com;J
+703766;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+703766;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+703766;Mette Nygaard Andersen;FBDH;mette.nygaard.andersen@gmail.com;N
+703766;Bjarke Risgaard;FBDM;bjarkerisgaard@gmail.com;N
+703766;Anna Horwitz;FBEJ;horwitzen08@gmail.com;N
+703766;Rasmus Rørth;FBMR;rasmusroerth@hotmail.com;N
+703766;Sidsel Møller;FBPS;sidselgm@gmail.com;N
+703766;Elisabeth Helen Anna Mills;FBUS;elisabeth.mills@gmail.com;N
+703766;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703766;Morten Malmborg;FBXM;mortenmalmborg@gmail.com;N
+703766;Thomas Steen Gyldenstierne Sehested;FBXS;tsg.sehested@gmail.com;N
+703766;Alexander Egeberg;FBYN;alexander.egeberg@gmail.com;J
+703766;Anne Pernille Toft-Petersen;FCAA;aptp85@gmail.com;N
+703766;Majbritt Svendsen;FCAZ;majbritt.svendsen@rn.dk;N
+703766;Caroline Sindet-Pedersen;FCBR;carolinesindet@gmail.com;N
+703766;Ann Banke;FCCU;Ann.Banke@rsyd.dk;N
+703766;Christina Jacobsen;FCDM;christinaboeghj@gmail.com;N
+703766;Yuri Maria Fukuda Andersen;FCRD;yuki.maria.fukuda.andersen.01@regionh.dk;J
+703766;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+703766;Maurizio Sessa;FCVB;maurizio.sessa@sund.ku.dk;J
+703766;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;N
+703766;Maria D Souza;FCXZ;mari.dsouz@gmail.com;N
+703766;Carlo Alberto Barcella;FDBB;carloalbertobarcella@libero.it;N
+703766;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+703766;Nanna Vestergaard Jensen;FDWA;nvje11@gmail.com;N
+703766;Jesper Krogh;FEPB;jesper.krogh@dadlnet.dk;N
+703766;Annamaria Mascolo;FEQU;amaria_89@hotmail.it;N
+703766;Anders Holt;FEWM;holt.anders@gmail.com;N
+703766;Charlotte Andreasen;FEXT;andreasencharlotte7@gmail.com;N
+703766;Ann-Eva Christensen;FFAG;anneva.christensen@rn.dk;N
+703766;Peter Jacobsen;FFEM;peter.jacobsen@rn.dk;N
+703766;Jacob Bodilsen;FFKB;jacob.bodilsen@rn.dk;N
+703766;Jeanette Halskou Hesselvig;FFLA;jeanettehalskou@gmail.com;N
+703766;Anders Munch;FFLR;amnudn@gmail.com;N
+703766;Amani Meaidi;FFPY;amani.meaidi@regionh.dk;N
+703766;Mathias Ottosen;FGAB;mathias.ottosen@gmail.com;N
+703766;Ali Akil Al-Alak;FHEZ;ali.akil.al-alak.02@regionh.dk;N
+703766;Christine Benn Christiansen;QIT;christinebenn@hotmail.com;N
+703766;Charlotte Andersson;QJP;ca@heart.dk;J
+703766;Ole Ahlehoff;QLQ;olahha01@geh.regionh.dk;N
+703766;Jesper Lindhardsen;QNB;jesper.lindhardsen@regionh.dk;N
+703766;Michelle Schmiegelow;QNZ;mdschmiegelow@gmail.com;N
+703766;Sheraz Afzal Butt;QQP;sheraz.butt@regionh.dk;N
+703766;Christian Selmer;QTB;cselmer@gmail.com;N
+703766;Morten Lamberts;WCI;mortenlamberts@gmail.com;J
+703766;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703766;Mads Wissenberg Jørgensen;WKO;wissenberg@gmail.com;J
+703766;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+703766;Søren Lund Kristensen;WTV;soerenlk@gmail.com;N
+703766;Mia Nielsen;WTW;mia_nielsen7@hotmail.com;J
+703766;Emil Loldrup Fosbøl;YBI;elf@heart.dk;N
+703766;Lisbeth Bonde;YOC;lisbeth.bonde@dadlnet.dk;N
+703766;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703766;Lene Mia von Kappelgaard;YYI;lmvk@si-folkesundhed.dk;N
+703766;Kristine Hommel;YYS;khommel@dadlnet.dk;N
+703766;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703766;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703775;Anders Mikkelsen;FAIV;andersmik87@gmail.com;N
+703775;Henriette Strøm Kakr;FBER;hestje@rn.dk;N
+703775;Torill Rotevatn;FBTT;Torill_rot@hotmail.com;N
+703775;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703775;Annamaria Mascolo;FEQU;amaria_89@hotmail.it;N
+703775;Amani Meaidi;FFPY;amani.meaidi@regionh.dk;N
+703775;Ditte Nymark Hansen;FGID;ditte.h@rn.dk;N
+703775;Morten Herlin;FICW;m.herlin@clin.au.dk;N
+703775;Marcella Broccia;FIOK;marcellabroccia@hotmail.com;N
+703775;Jan Feifel;FJSY;jan.feifel@uni-ulm.de;N
+703775;Charlotte Andersson;QJP;ca@heart.dk;J
+703775;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;N
+703775;Ane Lilleøre Rom;YKG;ane.lilleoere.rom@regionh.dk;N
+703775;Henrik Bøggild;ZJV;boggild@hst.aau.dk;J
+703775;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703775;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703776;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703776;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+703776;Charlotte Andersson;QJP;ca@heart.dk;J
+703776;Emil Loldrup Fosbøl;YBI;elf@heart.dk;N
+703776;Peter Weeke;YET;pw@heart.dk;J
+703776;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703776;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703776;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703795;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703795;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703796;Nicholas Carlson;FAVM;doc.mumbles@gmail.com;J
+703796;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+703796;Anna Gundlund Lorentzen;FBAQ;annagundlund@gmail.com;N
+703796;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703796;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+703796;Naja Emborg Vinding;FEMV;naja_vinding@msn.com;N
+703796;Louise Feldborg Lyckhage;FGSN;llyckhage@hotmail.com;N
+703796;Line Haubjerg Nielsen;FHYP;linehaubjerg@hotmail.com;N
+703796;Adelina Karimovna Yafasova;FJDN;adelinay@hotmail.com;N
+703796;Christine Benn Christiansen;QIT;christinebenn@hotmail.com;N
+703796;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+703796;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703796;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703796;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703826;Mads Emil Jørgensen;FAKQ;mads.emil.joergensen@regionh.dk;J
+703826;Nicholas Carlson;FAVM;doc.mumbles@gmail.com;N
+703826;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+703826;Steen Møller Hansen;FBCG;steen.hansen@rn.dk;J
+703826;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+703826;Henriette Strøm Kakr;FBER;hestje@rn.dk;N
+703826;Maria Lukacs;FBGH;maria.krogager@rn.dk;N
+703826;Torill Rotevatn;FBTT;Torill_rot@hotmail.com;N
+703826;Peter Wæde Hansen;FBUB;waede.sci@gmail.com;N
+703826;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703826;Katja Leth-Møller;FCAH;Katja.biering.leth-moeller@regionh.dk;N
+703826;Lærke Smedegaard Petersen;FCAS;laerkesmedegaard@gmail.com;N
+703826;Dorthe Viemose Nielsen;FCLU;dorthe.viemose.nielsen@skejby.rm.dk;N
+703826;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;N
+703826;Carlo Alberto Barcella;FDBB;carloalbertobarcella@libero.it;N
+703826;Lasse Pedersen;FDRK;lasse.pedersen@rn.dk;J
+703826;Liv Riisager Wahlstén;FECN;liv.riisager.wahlsten@regionh.dk;N
+703826;Sanne Ørnfeldt Larsen;FEGE;sala11@student.aau.dk;N
+703826;Viinu Manoharan;FEGL;vmanoh12@student.aau.dk;N
+703826;Signe Riddersholm;FEKO;signeriddersholm@gmail.com;J
+703826;Charlotte Andreasen;FEXT;andreasencharlotte7@gmail.com;N
+703826;Jesper Nielsen;FFHP;jespernielsen1986@gmail.com;N
+703826;Bhupendar Tayal;FFOP;bhupendar.tayal@gmail.com;N
+703826;Maria Weinkouff Pedersen;FFRC;mwp@rn.dk;N
+703826;Melissa Hornbæk Pedersen;FGRC;melissa.hornbaek.pedersen@regionh.dk;N
+703826;Jacob Juel;FGRK;jacob.juel@rn.dk;N
+703826;Inger Lise Gade;FGSF;inlg@rn.dk;N
+703826;Hasan Göcker Tekin;FGUO;h.tekin@rn.dk;N
+703826;Daniel Modin;FGXK;danielmodin@live.dk;N
+703826;Jannie Bisgaard Staehr;FHAU;j.staehr@rn.dk;N
+703826;Jan Walter Dhillon Shanmuganathan;FIEH;jan.shanmuganathan@rn.dk;N
+703826;Line Thorgaard;FILU;linetp91@gmail.com;N
+703826;Marie Storebjerg Gissel;FINA;margis@rm.dk;N
+703826;Johan Heiberg;FINB;Johan.Heiberg@clin.au.dk;N
+703826;Hjördis Osk Atladottir;FINC;d017189@dadlnet.dk;N
+703826;Kasper Bonnesen;FIND;Kasperbonnesen@gmail.com;N
+703826;Nina Sørensen;FJJO;ns@rn.dk;N
+703826;Sissel Johanne Godtfredsen;FJOP;Sisselgodtfredsen@gmail.com;N
+703826;Camilla Lundahl;FJWC;camilla_lundahl@hotmail.com;N
+703826;Jon Trærup Andersen;QAW;jon.thor.traerup.andersen@regionh.dk;J
+703826;Charlotte Andersson;QJP;ca@heart.dk;J
+703826;Aksel Karl Georg Jensen;WIZ;akje@sund.ku.dk;N
+703826;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+703826;Mia Nielsen;WTW;mia_nielsen7@hotmail.com;N
+703826;Peter Weeke;YET;pw@heart.dk;J
+703826;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703826;Lene Mia von Kappelgaard;YYI;lmvk@si-folkesundhed.dk;N
+703826;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703826;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+703838;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+703838;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+703838;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+703838;Peter Weeke;YET;pw@heart.dk;J
+703838;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+703838;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+703838;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+704025;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704025;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;J
+704025;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704025;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+704189;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704189;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704189;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+704211;Rasmus Rørth;FBMR;rasmusroerth@hotmail.com;N
+704211;Sofie Nicoline Aagaard Rerup;FBSO;sofie_rerup@hotmail.com;N
+704211;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704211;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+704211;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+704211;Ulrik Madvig Mogensen;XZD;ulrik_mogensen@hotmail.com;J
+704211;Rikke Sørensen;YBF;rs@heart.dk;N
+704211;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+704211;Gunnar H. Gislason;ZYQ;gg@heart.dk;N
+704254;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+704254;Henrik Vardinghus-Nielsen;FBGW;hvn@hst.aau.dk;N
+704254;Linda Ejlskov Jeppesen;FBJF;lej@econ.au.dk;J
+704254;Line Rosenkilde Berg Ullits Christensen;FBPP;line@mmid.dk;N
+704254;Sofie Nicoline Aagaard Rerup;FBSO;sofie_rerup@hotmail.com;N
+704254;Torill Rotevatn;FBTT;Torill_rot@hotmail.com;N
+704254;Elisabeth Helen Anna Mills;FBUS;elisabeth.mills@gmail.com;N
+704254;Kristian Bundgaard;FBVZ;kristian.bundgaard@rn.dk;N
+704254;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704254;Anne Pernille Toft-Petersen;FCAA;aptp85@gmail.com;N
+704254;Katja Leth-Møller;FCAH;Katja.biering.leth-moeller@regionh.dk;N
+704254;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;J
+704254;Ulrik Deding;FDBW;Ulrikdeding@hotmail.com;N
+704254;Mathias Rothmann Pedersen;FEGD;mrpe13@student.aau.dk;N
+704254;Peter Jacobsen;FFEM;peter.jacobsen@rn.dk;N
+704254;Thomas Alexander Bjørnkær Vilhelmsen;FIFI;t.vilhelmsen@rn.dk;N
+704254;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;N
+704254;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+704254;Claus D. Hansen;XHZ;clausdh@socsci.aau.dk;N
+704254;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+704254;Henrik Bøggild;ZJV;boggild@hst.aau.dk;J
+704254;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704343;Bjarke Risgaard;FBDM;bjarkerisgaard@gmail.com;N
+704343;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704343;Thomas Hadberg Lynge;FEJJ;thomashadberglynge@gmail.com;N
+704343;Peter Weeke;YET;pw@heart.dk;J
+704343;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704343;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+704413;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+704413;Steen Møller Hansen;FBCG;steen.hansen@rn.dk;J
+704413;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+704413;Maria Lukacs;FBGH;maria.krogager@rn.dk;J
+704413;Peter Wæde Hansen;FBUB;waede.sci@gmail.com;N
+704413;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704413;Louise Hagengaard;FCKJ;l.hagengaard@rn.dk;N
+704413;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;N
+704413;Casper Bang;FETA;casperbang@hotmail.com;N
+704413;Johannes Riis Jensen;FFHO;jje14@student.aau.dk;N
+704413;Marc Meller Søndergaard;FFHQ;msande14@student.aau.dk;N
+704413;Karoline Willum Bødker;FFHR;k.boedker@rn.dk;N
+704413;Lecia Brøns Dixen;FFKA;ldixen14@student.aau.dk;N
+704413;Karoline Højbjerg Janniche;FHEG;kjanni15@student.aau.dk;N
+704413;Catharina Lyng Laustsen;FHEQ;clla15@student.aau.dk;N
+704413;Natasja Uldall;FHER;Nnun15@student.aau.dk;N
+704413;Mette Louise Merrild Karer;FHES;mettelouisemk@gmail.com;N
+704413;Lærke Riis Korup;FHFT;lkorup15@student.aau.dk;N
+704413;Saranda Haxha;FJIU;Saranda.Haxha@gmail.com;N
+704413;Camilla Gøtzsche Frederiksen;FJUL;Camillagfred@gmail.com;N
+704413;Christian Selmer;QTB;cselmer@gmail.com;N
+704413;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+704413;Jonas Bille Nielsen;WUN;jonasbillenielsen@gmail.com;N
+704413;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704413;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+704439;Kathrine Bach Søndergaard;FAXG;kbsondergaard@gmail.com;N
+704439;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704439;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+704439;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704550;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704550;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704791;Anders Mikkelsen;FAIV;andersmik87@gmail.com;N
+704791;Peter Vibe Rasmussen;FAJY;peter.vibe.rasmussen@gmail.com;N
+704791;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+704791;Anna Gundlund Lorentzen;FBAQ;annagundlund@gmail.com;N
+704791;Anders Nissen Bonde;FBAW;andersnissenbonde@gmail.com;N
+704791;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+704791;Christian Madelaire Rasmussen;FBLG;christian.madelaire.rasmussen@regionh.dk;N
+704791;Peter Wæde Hansen;FBUB;waede.sci@gmail.com;N
+704791;Paul Blanche;FBVQ;pabl@sund.ku.dk;N
+704791;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;N
+704791;Anne Pernille Toft-Petersen;FCAA;aptp85@gmail.com;N
+704791;Louise Hagengaard;FCKJ;l.hagengaard@rn.dk;N
+704791;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+704791;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;N
+704791;Frederik Dalgaard;FEJC;rendesten@gmail.com;J
+704791;Naja Emborg Vinding;FEMV;naja_vinding@msn.com;N
+704791;Anders Munch;FFLR;amnudn@gmail.com;N
+704791;Sanam Nusrat Tahir;FGHQ;xtg135@alumni.ku.dk;N
+704791;Mathias Aagaard Christensen;FGHS;mathiasac@gmail.com;N
+704791;Lucas Malta Westergaard;FGWB;lucaswestergaard@gmail.com;N
+704791;Matthew Phelps;FHBB;mphelps@hjerteforeningen.dk;N
+704791;Sarah Friedrich;FIER;sarah.friedrich@uni-ulm.de;N
+704791;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+704791;Charlotte Andersson;QJP;ca@heart.dk;J
+704791;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+704791;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+704791;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704855;Anne Christine Huth Ruwald;FAHZ;annechristinehuth@hotmail.com;J
+704855;Anna-Karin Nume;FASQ;annakarin.nume@gmail.com;N
+704855;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+704855;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704855;Lærke Smedegaard Petersen;FCAS;laerkesmedegaard@gmail.com;N
+704855;Magnus Thorsten Jensen;FCRI;magnustjensen@gmail.com;N
+704855;Ulrik Deding;FDBW;Ulrikdeding@hotmail.com;N
+704855;Jenny Bjerre;FEBE;jennybjerre@gmail.com;N
+704855;Anne Mielke;FEID;anne_m_94@live.dk;N
+704855;Charlotte Andersson;QJP;ca@heart.dk;N
+704855;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704855;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+704895;Usman Khalid;FADC;usman.khalid@regionh.dk;N
+704895;Cengiz Özcan;FAKO;cengizoezcan@gmail.com;J
+704895;Mads Emil Jørgensen;FAKQ;mads.emil.joergensen@regionh.dk;J
+704895;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704895;Lærke Smedegaard Petersen;FCAS;laerkesmedegaard@gmail.com;J
+704895;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+704907;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704907;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+704908;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+704908;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+705839;Line Rosenkilde Berg Ullits Christensen;FBPP;line@mmid.dk;N
+705839;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+705839;Henrik Bøggild;ZJV;boggild@hst.aau.dk;J
+705839;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706011;Sisse Buch Johnsen;FAYN;s.johnsen@rn.dk;N
+706011;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706011;Martin Mejlby;FIFK;m.mejlby@rn.dk;N
+706011;Anker Lund Vinding;ZEX;a.vinding@rn.dk;N
+706011;Henrik Bøggild;ZJV;boggild@hst.aau.dk;J
+706011;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706076;Lena Karlsson;FAFZ;limkarlsson@gmail.com;N
+706076;Shahzleen Rajan;FALC;shahzleen@gmail.com;N
+706076;Rikke Nørmark Mortensen;FAVA;rnm@hst.aau.dk;N
+706076;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+706076;Kathrine Bach Søndergaard;FAXG;kbsondergaard@gmail.com;N
+706076;Steen Møller Hansen;FBCG;steen.hansen@rn.dk;J
+706076;Sidsel Møller;FBPS;sidselgm@gmail.com;N
+706076;Kristian Bundgaard;FBVZ;kristian.bundgaard@rn.dk;N
+706076;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706076;Nicolai Lohse;FCGB;niclohse@gmail.com;N
+706076;Mathilde Winther-Jensen;FCZC;mwin0034@regionh.dk;N
+706076;Signe Riddersholm;FEKO;signeriddersholm@gmail.com;N
+706076;Ole Møller Hansen;FFGP;o.hansen@rn.dk;N
+706076;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;N
+706076;Mads Wissenberg Jørgensen;WKO;wissenberg@gmail.com;N
+706076;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706076;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706103;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706103;Caroline Sindet-Pedersen;FCBR;carolinesindet@gmail.com;J
+706103;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706103;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706104;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+706104;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706104;Charlotte Andersson;QJP;ca@heart.dk;N
+706104;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706104;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706130;Peter Vibe Rasmussen;FAJY;peter.vibe.rasmussen@gmail.com;J
+706130;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+706130;Steen Møller Hansen;FBCG;steen.hansen@rn.dk;N
+706130;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+706130;Henriette Strøm Kakr;FBER;hestje@rn.dk;N
+706130;Line Rosenkilde Berg Ullits Christensen;FBPP;line@mmid.dk;N
+706130;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706130;Ann Banke;FCCU;Ann.Banke@rsyd.dk;N
+706130;Lasse Jakobsen;FCUF;lasse.j@rn.dk;N
+706130;Maria D Souza;FCXZ;mari.dsouz@gmail.com;J
+706130;Ulrik Deding;FDBW;Ulrikdeding@hotmail.com;N
+706130;Signe Riddersholm;FEKO;signeriddersholm@gmail.com;N
+706130;Joachim Bæch;FEWN;j.baech@rn.dk;N
+706130;Inger Lise Gade;FGSF;inlg@rn.dk;N
+706130;Andreas Kisbye Øvlisen;FHIH;a.oevlisen@rn.dk;N
+706130;Anna Winther Pedersen;FIIV;anna.w@rn.dk;N
+706130;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+706130;Henrik Bøggild;ZJV;boggild@hst.aau.dk;J
+706130;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706130;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706131;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706131;Jon Bjarke Rasmussen;FFIG;jon.bjarke.rasmussen@regionh.dk;N
+706131;Christian Selmer;QTB;cselmer@gmail.com;N
+706131;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706131;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706132;Line Rosenkilde Berg Ullits Christensen;FBPP;line@mmid.dk;N
+706132;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706132;Nanna Vestergaard Jensen;FDWA;nvje11@gmail.com;N
+706132;Charlotte Glinge;FEFQ;cglinge@gmail.com;N
+706132;Thomas Hadberg Lynge;FEJJ;thomashadberglynge@gmail.com;N
+706132;Jacob Tfelt Hansen;FGXP;jacob.tfelt@regionh.dk;N
+706132;Michelle Schmiegelow;QNZ;mdschmiegelow@gmail.com;N
+706132;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+706132;Mia Nielsen;WTW;mia_nielsen7@hotmail.com;N
+706132;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706132;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706306;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706306;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706319;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706319;Martin Schultz;FFCN;martin.schultz@regionh.dk;N
+706319;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706322;Nicholas Carlson;FAVM;doc.mumbles@gmail.com;J
+706322;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706322;Majbritt Svendsen;FCAZ;majbritt.svendsen@rn.dk;N
+706322;Julie Andersen;FCUE;juliea@hjerteforeningen.dk;N
+706322;Matthew Phelps;FHBB;mphelps@hjerteforeningen.dk;J
+706322;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+706322;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+706322;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706322;Gunnar H. Gislason;ZYQ;gg@heart.dk;N
+706336;Louise Bruun Østergaard;FAHX;l_bruun@hotmail.com;N
+706336;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+706336;Anna Gundlund Lorentzen;FBAQ;annagundlund@gmail.com;N
+706336;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706336;Thomas Steen Gyldenstierne Sehested;FBXS;tsg.sehested@gmail.com;N
+706336;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+706336;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+706336;Naja Emborg Vinding;FEMV;naja_vinding@msn.com;N
+706336;David Nikolai Thein Aagaard;FGGV;davidaagaard@gmail.com;N
+706336;Eva Borgersen;FGGW;evaborgersen@gmail.com;N
+706336;Mohsin Aslam;FGGX;mohsinasl@gmail.com;N
+706336;Mathias Aagaard Christensen;FGHS;mathiasac@gmail.com;N
+706336;Oliver Juul Olesen;FIEG;Oliver.j.o@hotmail.com;N
+706336;Sandra Chamat;FIPF;sangeeta.sandra.chamat@regionh.dk;N
+706336;Mia Marie Pries-Heje;FJVU;mia.marie.pries-heje@regionh.dk;N
+706336;Søren Lund Kristensen;WTV;soerenlk@gmail.com;N
+706336;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+706336;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706336;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706338;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+706338;Steen Møller Hansen;FBCG;steen.hansen@rn.dk;J
+706338;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+706338;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706338;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;J
+706338;Johannes Riis Jensen;FFHO;jje14@student.aau.dk;N
+706338;Benjamin Nyholm;FGBT;benjaminnyholm@gmail.com;N
+706338;Lucas Malta Westergaard;FGWB;lucaswestergaard@gmail.com;N
+706338;Henrik Hovgaard;FGZY;hnrkhvgrd@hotmail.com;N
+706338;Catharina Lyng Laustsen;FHEQ;clla15@student.aau.dk;N
+706338;Natasja Uldall;FHER;Nnun15@student.aau.dk;N
+706338;Mette Louise Merrild Karer;FHES;mettelouisemk@gmail.com;N
+706338;Dennis Christian Andersen;FILT;dennisandersen90@me.com;N
+706338;Jonas Bille Nielsen;WUN;jonasbillenielsen@gmail.com;N
+706338;Peter Weeke;YET;pw@heart.dk;J
+706338;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706359;Uffe Gang;FBMY;dr.gang@dadlnet.dk;N
+706359;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706359;Thomas Steen Gyldenstierne Sehested;FBXS;tsg.sehested@gmail.com;N
+706359;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+706359;Mathilde Winther-Jensen;FCZC;mwin0034@regionh.dk;N
+706359;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+706359;Eva Borgersen;FGGW;evaborgersen@gmail.com;N
+706359;Daniel Henrik Tajchman;FGHR;smf681@alumni.ku.dk;N
+706359;Marie Dam Lauridsen;FIIL;Mala_mdl@hotmail.com;N
+706359;Martina Chantal de Knegt;FJSL;martina.chantal.de.knegt.01@regionh.dk;N
+706359;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+706359;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706469;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706469;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+706469;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+706469;Lisbeth Bonde;YOC;lisbeth.bonde@dadlnet.dk;N
+706469;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706470;Mavish Safdar Chaudry;FAXS;mavish89@hotmail.com;N
+706470;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706470;Kristine Hommel;YYS;khommel@dadlnet.dk;N
+706470;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706502;Rikke Nørmark Mortensen;FAVA;rnm@hst.aau.dk;J
+706502;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+706502;Christian Madelaire Rasmussen;FBLG;christian.madelaire.rasmussen@regionh.dk;N
+706502;Rasmus Rørth;FBMR;rasmusroerth@hotmail.com;N
+706502;Paul Blanche;FBVQ;pabl@sund.ku.dk;J
+706502;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706502;Thomas Steen Gyldenstierne Sehested;FBXS;tsg.sehested@gmail.com;N
+706502;Lærke Smedegaard Petersen;FCAS;laerkesmedegaard@gmail.com;N
+706502;Louise Hagengaard;FCKJ;l.hagengaard@rn.dk;N
+706502;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+706502;Thomas Hadberg Lynge;FEJJ;thomashadberglynge@gmail.com;N
+706502;Charlotte Andreasen;FEXT;andreasencharlotte7@gmail.com;N
+706502;Maria Weinkouff Pedersen;FFRC;mwp@rn.dk;N
+706502;Eva Borgersen;FGGW;evaborgersen@gmail.com;N
+706502;Lucas Malta Westergaard;FGWB;lucaswestergaard@gmail.com;N
+706502;Martin Longhi Engelbrecht;FHZO;martin_longhi@hotmail.com;N
+706502;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+706502;Camilla Helene Bang Jespersen;FIVQ;camilla.helene.bang.jespersen@regionh.dk;N
+706502;Johanna Krøll;FIYX;johanna.kroell@hotmail.com;N
+706502;Asbjørn Ettrup-Christensen;FJBJ;bjorn@sir-vince.dk;N
+706502;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;N
+706502;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+706502;Søren Lund Kristensen;WTV;soerenlk@gmail.com;J
+706502;Peter Weeke;YET;pw@heart.dk;J
+706502;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706502;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706543;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706550;Mavish Safdar Chaudry;FAXS;mavish89@hotmail.com;N
+706550;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706550;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+706550;Emil Loldrup Fosbøl;YBI;elf@heart.dk;N
+706550;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706550;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706555;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706555;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;N
+706555;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706567;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706567;Majbritt Svendsen;FCAZ;majbritt.svendsen@rn.dk;N
+706567;Ulrik Deding;FDBW;Ulrikdeding@hotmail.com;N
+706567;Signe Riddersholm;FEKO;signeriddersholm@gmail.com;N
+706567;Gabrielle Berg-Beckhoff;WMD;gbergbeckhoff@health.sdu.dk;N
+706567;Mette Jørgine Kirkeby;WMT;joergine@hotmail.com;N
+706567;Therese Koops Grønborg;YUI;therese@ph.au.dk;N
+706567;Henrik Bøggild;ZJV;boggild@hst.aau.dk;J
+706567;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706582;Usman Khalid;FADC;usman.khalid@regionh.dk;N
+706582;Peter Vibe Rasmussen;FAJY;peter.vibe.rasmussen@gmail.com;J
+706582;Karl Emil Kristensen;FAPJ;karlemil@dadlnet.dk;N
+706582;Rikke Nørmark Mortensen;FAVA;rnm@hst.aau.dk;J
+706582;Nicholas Carlson;FAVM;doc.mumbles@gmail.com;J
+706582;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+706582;Kathrine Bach Søndergaard;FAXG;kbsondergaard@gmail.com;N
+706582;Mavish Safdar Chaudry;FAXS;mavish89@hotmail.com;N
+706582;Gowsini Joseph;FAYE;g.joseph@rn.dk;N
+706582;Anders Nissen Bonde;FBAW;andersnissenbonde@gmail.com;N
+706582;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+706582;Anna Horwitz;FBEJ;horwitzen08@gmail.com;N
+706582;Maria Lukacs;FBGH;maria.krogager@rn.dk;N
+706582;Rasmus Rørth;FBMR;rasmusroerth@hotmail.com;N
+706582;Peter Wæde Hansen;FBUB;waede.sci@gmail.com;N
+706582;Elisabeth Helen Anna Mills;FBUS;elisabeth.mills@gmail.com;N
+706582;Paul Blanche;FBVQ;pabl@sund.ku.dk;J
+706582;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706582;Morten Malmborg;FBXM;mortenmalmborg@gmail.com;N
+706582;Thomas Steen Gyldenstierne Sehested;FBXS;tsg.sehested@gmail.com;N
+706582;Alexander Egeberg;FBYN;alexander.egeberg@gmail.com;J
+706582;Anne Pernille Toft-Petersen;FCAA;aptp85@gmail.com;N
+706582;Yuri Maria Fukuda Andersen;FCRD;yuki.maria.fukuda.andersen.01@regionh.dk;J
+706582;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+706582;Maurizio Sessa;FCVB;maurizio.sessa@sund.ku.dk;N
+706582;Jesper Qvist Thomassen;FCVI;jesper.qvist.thomassen@regionh.dk;N
+706582;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;J
+706582;Mathilde Winther-Jensen;FCZC;mwin0034@regionh.dk;N
+706582;Liis Starkopf;FDAE;list@sund.ku.dk;N
+706582;Carlo Alberto Barcella;FDBB;carloalbertobarcella@libero.it;N
+706582;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+706582;Grimur Høgnason Mohr;FEIO;hbz241@alumni.ku.dk;N
+706582;Signe Riddersholm;FEKO;signeriddersholm@gmail.com;N
+706582;Naja Emborg Vinding;FEMV;naja_vinding@msn.com;N
+706582;Philip Andreas Schytz;FERL;philip_schytz@hotmail.com;N
+706582;Carsten Simonsen;FEUI;carsten.simonsen@rn.dk;N
+706582;Charlotte Andreasen;FEXT;andreasencharlotte7@gmail.com;N
+706582;Ann-Eva Christensen;FFAG;anneva.christensen@rn.dk;N
+706582;Martin Schultz;FFCN;martin.schultz@regionh.dk;N
+706582;Johannes Riis Jensen;FFHO;jje14@student.aau.dk;N
+706582;Jeanette Halskou Hesselvig;FFLA;jeanettehalskou@gmail.com;N
+706582;Tor Biering-Sørensen;FFRN;tor.biering@gmail.com;N
+706582;Mathias Ottosen;FGAB;mathias.ottosen@gmail.com;N
+706582;He Zhang;FGAF;he.zhang04@gmail.com;N
+706582;Flora Sigvardt;FGJQ;flora.sigvardt@gmail.com;N
+706582;Caroline Holm Nørgaard;FGVZ;caroline.noergaard@rn.dk;N
+706582;Muzhda Ghanizada;FGWL;muzhda.ghanizada@regionh.dk;N
+706582;Daniel Modin;FGXK;danielmodin@live.dk;N
+706582;Henrik Hovgaard;FGZY;hnrkhvgrd@hotmail.com;N
+706582;Daniel Ooi Christensen;FHAE;rwz992@alumni.ku.dk;N
+706582;Ali Akil Al-Alak;FHEZ;ali.akil.al-alak.02@regionh.dk;N
+706582;Lene Dreyer;FHFM;l.dreyer@rn.dk;N
+706582;René Cordtz;FHFN;rcordtz@gmail.com;N
+706582;Kristian Zobbe;FHFO;kristian.zobbe.01@regionh.dk;N
+706582;Jonathan Vela;FHFQ;j.vela@rn.dk;N
+706582;Salome Kristensen;FHFR;sakr@rn.dk;N
+706582;Rubina Attar;FHRZ;r.attar@rn.dk;N
+706582;Tobias Nissen;FHSS;tphnissen@outlook.dk;N
+706582;Nertila Zylyftari;FHST;nertila.zylyftari@gmail.com;N
+706582;Line Haubjerg Nielsen;FHYP;linehaubjerg@hotmail.com;N
+706582;Ruby Charak;FHZD;charakruby@gmail.com;N
+706582;Amalie Lykkemark Møller;FIAM;amalielykkemark@live.dk;N
+706582;Philip Brainin;FIFH;philip.henrik.brainin.jensen.02@regionh.dk;N
+706582;Anna Sekkelund;FIKD;anna.kathrine.moelvig.sekkelund.01@regionh.dk;N
+706582;Dennis Christian Andersen;FILT;dennisandersen90@me.com;N
+706582;Mads Odgaard Mæng;FINI;madsmaeng@gmail.com;N
+706582;Mikkel Kjeldgaard;FINJ;mikkel.kj@outlook.dk;N
+706582;Helle Collatz Christensen;FINY;helle.collatz.christensen.02@regionh.dk;N
+706582;Bolette Gylden Soussi;FIPK;b.soussi@rn.dk;N
+706582;Rasmus Westermann;FIPL;westermann2@live.dk;N
+706582;Erik Sören Halvard Hansen;FIQY;erik.soeren.halvard.hansen@regionh.dk;N
+706582;Niklas Alexander Worm Andersson;FIYD;niklas.alexander.worm.andersson.01@regionh.dk;N
+706582;Martin Steen Frydland;FJCZ;martin.frydland@me.com;N
+706582;Helle Søholm;FJDA;Helle.soholm@gmail.com;N
+706582;Emily Beaman;FJDK;emily.beaman@nru.dk;N
+706582;Sebastian Holst;FJDL;holst@nru.dk;N
+706582;Adelina Karimovna Yafasova;FJDN;adelinay@hotmail.com;N
+706582;Manan Pareek;FJIT;mananpareek@dadlnet.dk;N
+706582;Kamal Preet Kaur;FJOO;kapk@regionsjaelland.dk;N
+706582;Filip Gnesin;FJQW;filip.gnesin@gmail.com;N
+706582;Marianna Meaidi;FJUJ;marianna-meaidi@hotmail.com;N
+706582;Kamilla Steensig;FJWK;steensig@gmail.com;N
+706582;Sam Kafai;FJWU;sam.kafai.yahyavi@regionh.dk;N
+706582;Jon Trærup Andersen;QAW;jon.thor.traerup.andersen@regionh.dk;N
+706582;Charlotte Andersson;QJP;ca@heart.dk;N
+706582;Jesper Lindhardsen;QNB;jesper.lindhardsen@regionh.dk;N
+706582;Sheraz Afzal Butt;QQP;sheraz.butt@regionh.dk;N
+706582;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;N
+706582;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+706582;Søren Lund Kristensen;WTV;soerenlk@gmail.com;J
+706582;Mia Nielsen;WTW;mia_nielsen7@hotmail.com;N
+706582;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+706582;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706582;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706673;Kristian Hay Kragholm;FAWN;kdks@rn.dk;N
+706673;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706673;Daniel Bech Rasmussen;FEOI;Daniel.rasmussen@live.dk;N
+706673;Peter Jacobsen;FFEM;peter.jacobsen@rn.dk;N
+706673;Morten Lamberts;WCI;mortenlamberts@gmail.com;N
+706673;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706734;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+706734;Maria Lukacs;FBGH;maria.krogager@rn.dk;N
+706734;Peter Wæde Hansen;FBUB;waede.sci@gmail.com;N
+706734;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706734;Line Engelbrechtsen;FCTG;line@sund.ku.dk;N
+706734;Maria D Souza;FCXZ;mari.dsouz@gmail.com;J
+706734;Regitze Kuhr Skals;FDWK;r.skals@rn.dk;N
+706734;Grimur Høgnason Mohr;FEIO;hbz241@alumni.ku.dk;N
+706734;Frederik Dalgaard;FEJC;rendesten@gmail.com;N
+706734;Morten Petersen;FGNB;Morten.petersen@regionh.dk;N
+706734;Mathies Braun Jepsen;FIEL;mathies.braun.jepsen@dadlnet.dk;N
+706734;Magnus Ebbesen;FJII;magnus.niels.ebbesen@gmail.com;N
+706734;Charlotte Andersson;QJP;ca@heart.dk;N
+706734;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+706734;Peter Weeke;YET;pw@heart.dk;N
+706734;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706734;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706815;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706815;Simon Ladefoged Rasmussen;FGTK;simon.rasmussen@rn.dk;N
+706815;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706816;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;N
+706816;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706816;Maurizio Sessa;FCVB;maurizio.sessa@sund.ku.dk;N
+706816;Caroline Holm Nørgaard;FGVZ;caroline.noergaard@rn.dk;N
+706816;Jesper Lindhardsen;QNB;jesper.lindhardsen@regionh.dk;N
+706816;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706817;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706817;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706818;Jannik Pallisgaard;FAFG;jannikjannik@gmail.com;J
+706818;Peter Vibe Rasmussen;FAJY;peter.vibe.rasmussen@gmail.com;N
+706818;Mads Emil Jørgensen;FAKQ;mads.emil.joergensen@regionh.dk;N
+706818;Sadaf Kamil;FALM;sadafkamil88@gmail.com;N
+706818;Nicholas Carlson;FAVM;doc.mumbles@gmail.com;J
+706818;Kristian Hay Kragholm;FAWN;kdks@rn.dk;J
+706818;Anna Gundlund Lorentzen;FBAQ;annagundlund@gmail.com;N
+706818;Anders Nissen Bonde;FBAW;andersnissenbonde@gmail.com;N
+706818;Christina Ji-Young Lee;FBDE;cjilee@outlook.com;J
+706818;Laila Jensen stærk;FBGN;lailastaerk@gmail.com;N
+706818;Rasmus Rørth;FBMR;rasmusroerth@hotmail.com;N
+706818;Sidsel Møller;FBPS;sidselgm@gmail.com;N
+706818;Peter Wæde Hansen;FBUB;waede.sci@gmail.com;N
+706818;Paul Blanche;FBVQ;pabl@sund.ku.dk;N
+706818;Kristian Bundgaard;FBVZ;kristian.bundgaard@rn.dk;N
+706818;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706818;Thomas Steen Gyldenstierne Sehested;FBXS;tsg.sehested@gmail.com;J
+706818;Majbritt Svendsen;FCAZ;majbritt.svendsen@rn.dk;N
+706818;Caroline Sindet-Pedersen;FCBR;carolinesindet@gmail.com;N
+706818;Anne Merete Soja;FCFS;doctor.soja@gmail.com;N
+706818;Jawad Haider Butt;FCUG;jawad_butt91@hotmail.com;N
+706818;Liis Starkopf;FDAE;list@sund.ku.dk;N
+706818;Carlo Alberto Barcella;FDBB;carloalbertobarcella@libero.it;N
+706818;Lasse Pedersen;FDRK;lasse.pedersen@rn.dk;N
+706818;Lauge Klement Moltke Østergaard;FDRX;laugeoestergaard@gmail.com;N
+706818;Nanna Vestergaard Jensen;FDWA;nvje11@gmail.com;N
+706818;Charlotte Glinge;FEFQ;cglinge@gmail.com;N
+706818;Grimur Høgnason Mohr;FEIO;hbz241@alumni.ku.dk;N
+706818;Frederik Dalgaard;FEJC;rendesten@gmail.com;J
+706818;Thomas Hadberg Lynge;FEJJ;thomashadberglynge@gmail.com;J
+706818;Signe Riddersholm;FEKO;signeriddersholm@gmail.com;J
+706818;Torben Martinussen;FEVF;tma@sund.ku.dk;N
+706818;Anders Holt;FEWM;holt.anders@gmail.com;N
+706818;Anna Axelsson Raja;FEWR;anna.axelsson@dadlnet.dk;N
+706818;Zishan Yaqub;FFAF;zishanyaqub@hotmail.com;N
+706818;Anders Munch;FFLR;amnudn@gmail.com;N
+706818;Johan Skov Bundgaard;FGGU;johan.bundgaard@gmail.com;N
+706818;David Nikolai Thein Aagaard;FGGV;davidaagaard@gmail.com;N
+706818;Eva Borgersen;FGGW;evaborgersen@gmail.com;N
+706818;Mohamad Hassan El-Chouli;FGHW;mohamad.hassan.el-chouli@regionh.dk;N
+706818;Mia Ravn Jacobsen;FGIR;Miaravn92@hotmail.com;N
+706818;Reza Jabbari;FGIS;Rezajabbari77@gmail.com;N
+706818;Inger Lise Gade;FGSF;inlg@rn.dk;N
+706818;Louise Feldborg Lyckhage;FGSN;llyckhage@hotmail.com;N
+706818;Lucas Yixi Xing;FGUC;pbf723@alumni.ku.dk;N
+706818;Alexander Dukanovic;FGWR;aco92d@outlook.com;N
+706818;Daniel Modin;FGXK;danielmodin@live.dk;N
+706818;Jarl Emanuel Strange;FHAF;lnk248@alumni.ku.dk;N
+706818;Matthew Phelps;FHBB;mphelps@hjerteforeningen.dk;J
+706818;Niels Stampe;FHCM;nkstampe@gmail.com;N
+706818;Peter Marstrand;FHDK;pmarstrand@hotmail.com;N
+706818;Nicola Bondonno;FHOC;nicola.bondonno@uwa.edu.au;N
+706818;Nertila Zylyftari;FHST;nertila.zylyftari@gmail.com;N
+706818;Tina Ma;FHUZ;xpr633@alumni.ku.dk;N
+706818;Martin Longhi Engelbrecht;FHZO;martin_longhi@hotmail.com;N
+706818;Marianne Frank Clausen;FIEF;mariannefrankclausen@gmail.com;N
+706818;Oliver Juul Olesen;FIEG;Oliver.j.o@hotmail.com;N
+706818;Sarah Friedrich;FIER;sarah.friedrich@uni-ulm.de;N
+706818;Philip Brainin;FIFH;philip.henrik.brainin.jensen.02@regionh.dk;N
+706818;Casper Binding;FIFJ;hnk546@alumni.ku.dk;N
+706818;Deepthi Rajan;FIFU;deraj2007@gmail.com;N
+706818;Mads-Holger Bang Jacobsen;FIGX;madsholger23@live.dk;N
+706818;Louise Thorlacius-Ussing;FIGY;louise.thorlacius-ussing@regionh.dk;N
+706818;Andreas Dalsgaard Jensen;FIJX;cqh342@alumni.ku.dk;N
+706818;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+706818;Johanna Krøll;FIYX;johanna.kroell@hotmail.com;N
+706818;Andrea Kjellström Wagner;FJAV;kjellstrom.andrea@gmail.com;N
+706818;Jesper Andrew Dyhring Petersen;FJCY;jesperadpetersen@gmail.com;N
+706818;Adelina Karimovna Yafasova;FJDN;adelinay@hotmail.com;N
+706818;Oscar Westin;FJEO;oscar.mikael.westin@regionh.dk;N
+706818;Amna Alhakak;FJQC;amnasaed@hotmail.com;N
+706818;Jeppe Kofoed Petersen;FJQD;jeppekp3008@gmail.com;N
+706818;Jan Feifel;FJSY;jan.feifel@uni-ulm.de;N
+706818;Morten Lamberts;WCI;mortenlamberts@gmail.com;J
+706818;Thomas Alexander Gerds;WJA;tag@biostat.ku.dk;J
+706818;Kristian Aasbjerg Andersen;WON;kristian@aasbjerg.dk;J
+706818;Søren Lund Kristensen;WTV;soerenlk@gmail.com;J
+706818;Ulrik Madvig Mogensen;XZD;ulrik_mogensen@hotmail.com;J
+706818;Rikke Sørensen;YBF;rs@heart.dk;N
+706818;Emil Loldrup Fosbøl;YBI;elf@heart.dk;J
+706818;Peter Weeke;YET;pw@heart.dk;J
+706818;Jonas Bjerring Olesen;YPI;jonasolesen@hotmail.com;N
+706818;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706818;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+706835;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706835;Christoffer Polcwiartek;FCXB;c.polcwiartek@gmail.com;N
+706835;Anders Jørgensen;FHVB;Anders.01.Joergensen@regionh.dk;N
+706835;Christine Benn Christiansen;QIT;christinebenn@hotmail.com;N
+706835;Henrik Enghusen Poulsen;YJD;hepo@rh.regionh.dk;N
+706835;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+706931;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+706931;Christian Hoffmann Jackowski;FISW;cjacko16@student.aau.dk;N
+706931;Hendrik Kaasgaard;FISX;hkaasg06@student.aau.dk;N
+706931;Henrik Bøggild;ZJV;boggild@hst.aau.dk;J
+707089;Bjarke Risgaard;FBDM;bjarkerisgaard@gmail.com;N
+707089;Paul Blanche;FBVQ;pabl@sund.ku.dk;N
+707089;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+707089;Charlotte Glinge;FEFQ;cglinge@gmail.com;N
+707089;Thomas Hadberg Lynge;FEJJ;thomashadberglynge@gmail.com;N
+707089;Reza Jabbari;FGIS;Rezajabbari77@gmail.com;N
+707089;Jacob Tfelt Hansen;FGXP;jacob.tfelt@regionh.dk;N
+707089;Niels Stampe;FHCM;nkstampe@gmail.com;N
+707089;Frederik Nybye Ågesen;FHHT;frederik.nybye.aagesen@regionh.dk;N
+707089;Bo Gregers Winkel;FIPX;bowinkel@dadlnet.dk;N
+707089;Jakob Lund Nielsen;FIPY;jakoblundn@hotmail.com;N
+707089;Jesper Svane;FIPZ;jespersvane@gmail.com;N
+707089;Sofie Louise Rygård;FIQA;sofie.louise.rygaard@regionh.dk;N
+707089;Marius Kløvgaard Sørensen;FIQB;marius.kloevgaard.soerensen@regionh.dk;N
+707089;Jeppe Ekstrand Halkjær Madsen;FIVJ;jehm@sund.ku.dk;N
+707089;Simon Mathis Kønig;FIVP;simon.mathis.koenig@regionh.dk;N
+707089;Camilla Helene Bang Jespersen;FIVQ;camilla.helene.bang.jespersen@regionh.dk;N
+707089;Vilde Waaler Loland;FJMT;viwalo92@gmail.com;N
+707089;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+707089;Gunnar H. Gislason;ZYQ;gg@heart.dk;J
+707246;Linda Ejlskov Jeppesen;FBJF;lej@econ.au.dk;N
+707246;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+707246;Liis Starkopf;FDAE;list@sund.ku.dk;N
+707246;Charlotte Laurmann;FIML;cl@storebox.com;N
+707246;Frederik Trier Møller;FJBZ;frtm@ssi.dk;N
+707246;Uffe Christian Braae;FJCA;UFCB@ssi.dk;N
+707246;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
+707376;Elisabeth Helen Anna Mills;FBUS;elisabeth.mills@gmail.com;N
+707376;Mikkel Porsborg Andersen;FBXJ;mikkel.porsborg.andersen@regionh.dk;J
+707376;Amalie Lykkemark Møller;FIAM;amalielykkemark@live.dk;N
+707376;Christian Torp-Pedersen;ZYP;CTP@HEART.DK;J
