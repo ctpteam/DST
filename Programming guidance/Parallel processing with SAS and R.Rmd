@@ -15,6 +15,8 @@ Basic information for people in Statistics Denmark is kept in BEF once yearly an
 
 Whether parallellisation is achived with SAS or R it is important to realize that each of the jobs defined to be run in parallel function independently.  Therefore additional information has to be passed to the process. SAS libnames will be unknown to the new process unless it has specifically been provided.  Similarly all packages needed for each proces has to be provided in R.
 
+Note further that our main servers have about 90 cores available - and if you block a large amount of these are blocked then all user will work slowly. It is probably OK to be greedy sunday evening, but on normal working days it is worthwhile to check the total load on the server before using many cores.  The examples are with 10 cores which should be a good compromise for many tasks.
+
 # Using R
 
 ```{r eval=FALSE}
