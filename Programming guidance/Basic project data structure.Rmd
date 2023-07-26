@@ -81,3 +81,10 @@ The table **dreamXXXXXX** is an updated version of dream that for each week has 
 
 # SSS
 **SYSI** and **SSSY** are data from practitioners to many types representing different time periods.
+
+# Other data
+For all projects there is a folder named **External Data**.  The data in this folder can be found in the description files for the project - named variables and datasets.  Further explanations can be found in the approvals from DST and SDS
+
+# V path Alle
+On the V-path subfolder "alle" is a number of moderately organised folders for a variety of anonymous and useful data.  Not in particular details of medication in LMDBdata, text versions of diagnoses in ICD8 and ICD10
+
