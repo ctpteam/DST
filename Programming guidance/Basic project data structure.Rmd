@@ -80,4 +80,4 @@ The tables **uddaXXXX** has maximal education for all individuals.  There are SA
 The table **dreamXXXXXX** is an updated version of dream that for each week has codes indicating public support and for each month indication of association to particular working areas.
 
 # SSS
-**SSSI** and **SSSY** are data from practitioners to many types representing different time periods.
+**SYSI** and **SSSY** are data from practitioners to many types representing different time periods.
