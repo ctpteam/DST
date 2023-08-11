@@ -27,11 +27,11 @@ library(foreach)
 # Create a filelist with those of interest. In this case a regular
 # expression is used to select file starting with 'bef200' and followed
 # by 4-6
-filelist <- list.files('X:/..relevant direc..','^bef2000[6-8].*',full.names = TRUE)
+filelist <- list.files('X:/..relevant direc..','^bef200[6-8].*',full.names = TRUE)
 #Made a cluster for calculationt, this one with 10 cores:
 cl <- makeCluster(10)
 birthSex <- rbindlist(#combines the results to a single dataset
-  foreach(x=1:length(filelist),.packages("heaven","data.table")) %dopar% {
+  foreach(x=1:length(filelist),.packages=c("heaven","data.table")) %dopar% {
     dat <- importSAS(filelist[x],keep("pnr","koen","foed_dag"))
   })
 stopCluster(cl)
