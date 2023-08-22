@@ -11,7 +11,11 @@ systematically placed in a folder named **Grunddata**.
 
 Data supplied from other sources are placed in other folders according to permissions for that project.
 
+Therefore the general structure of all projects will be a folder names "population" which has the populationk of the study when relevant, a folder names "external data" with data develivered from other sources than DST and SDS.
+
 This document provides an overview of the structure of **Grunddata**.  An important principle for the structure of data has been to change as little as possible to the orginal data supplied.  The reason for this is that it allows all users to interrogate DST and SDS for description of registers and definitions of variables.
+
+Data management with the new structure will result in changes of many programs. To ease this process we have written a SAS and R program to read data in a structured way.  These programs are found in V:/Alle/skeleton and are also visible on www.heart.dk/github/programming guidance/skeleton.
 
 One very important change for many users is that we provide multiple files for each register according to the DST habit of having one file per year.  This change is made to ease data organisation as many users only need to interrogate data from selected years.  It further can help to increase speed of data processing by parallising calculations - the document **Parallel processing with SAS and R** describes this.
 
