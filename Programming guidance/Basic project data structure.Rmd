@@ -73,6 +73,7 @@ The main population register is the **bef** tables for each year since 1985 and 
 Prior to 1985 the **fain** tables provide some of the data found in **bef**.
 
 In addition the dataset **sexBirth** provides all sex definitions (0=female,1=male) available from the cpr-register (t_person)
+Projects may or may not directly have the **t_person** register
 
 Country of origin is found in the **iepe** dataset and all immigrations into and away from Denmark are found in the **vnds** table.
 
