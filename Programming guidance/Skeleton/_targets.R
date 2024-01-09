@@ -1,6 +1,6 @@
 # *************************************************************************************
 # This sample program provides necessary codes to collect data from Statistics Denmark
-# to a project in the framwork of The Aalborg/Hillerød/Gentofte/Rigshospitalet group and
+# to a project in the framwork of The Aalborg/Hiller?d/Gentofte/Rigshospitalet group and
 # using data as provided from project 3573 to individual projects.
 #
 # The example is shaped as a targets pipeline
@@ -44,40 +44,70 @@
 library(targets)
 tar_option_set(packages = c("heaven","data.table","foreach","doParallel","haven"))
 list(
-tar_target(pop,{ # Define a population that enters at year 2015 and exits when
-                 # they exit bef, immigrate or die or end of 2022
-    filelist <- list.files('Z:/Workdata/703573/3740 Diabetes/Grunddata/Population/',
-                           '^bef20(1412|1[5-9]|2[0-2]).*',full.names=TRUE) # bef files last 2014 and then 2015-22
-    cl <- makeCluster(10) # Define cluster with 10 cores
-    registerDoParallel(cl)
-    dat <- rbindlist(
-       foreach(x=1:length(filelist),.packages=c("haven","heaven","data.table")) %dopar% {
-         dat <- read_sas(filelist[x],col_select = c("PNR","FOED_DAG","KOEN","REFERENCETID"),n_max=1000,skip=100) 
-         #dat <- importSAS(filelist[x],keep=c("pnr","foed_dag","koen","referencetid"),where="pnr ne ''", obs=5)
-       }
-     )
-    stopCluster(cl)
-    registerDoSEQ()
-    gc() # Garbage collecter, should be used whenever there is risk of memoryleak
-    names(dat) <- tolower(names(dat))
-    setkeyv(dat,c("pnr","referencetid"))
-    dat[pnr==shift(pnr) & (referencetid-shift(referencetid)>100),pause:=1]
-    dat[,pause:=nafill(pause, type="locf"),by="pnr"] # Mark all after break
-    dat <- dat[is.na(pause)] #keep until first pause
-    setkeyv(dat,c("pnr","referencetid"))
-    dat <- dat[,.(foed_dag=foed_dag, koen=koen,inn=referencetid[1],out=referencetid[.N]+91),by="pnr"] 
-    dat <- dat[,.SD[1],by="pnr"]
-    # Fixing the out to perfectly match next quarter is complicated and for most purposes unnecessarym thus 91 days
-    # Get immigrations out of country:
-    vnds <- importSAS('Z:/Workdata/703573/3740 Diabetes/Grunddata/Population/vnds2022.sas7bdat',
-                      where="indud_kode='U'",)
-    temp <- merge(dat,vnds[,.(pnr,haend_dato)],all.x=TRUE,by="pnr")# extra copy since there may be multiple immigrations
-    temp <- temp[!is.na(haend_dato) & haend_dato>out-91 & haend_dato<=out] # those that immigrated during last period
-    death <- importSAS('Z:/Workdata/703573/3740 Diabetes/Grunddata/Death/dod.sas7bdat')
-    dat <- Reduce(function(x,y){merge(x,y,all.x=TRUE,by="pnr")},list(dat,temp[,.(pnr,haend_dato)],death[,.(pnr,doddato)]))
-    dat[,out:=pmin(out,doddato,haend_dato)] 
-    gc()
-    dat <- dat[,.(pnr,foed_dag,koen,inn,out)]
+tar_target(pop,{
+  # ****************************************************************************
+  # Population 1980-2022
+  # Takes all people from their first presence in DST (fain/bef) between 1980 and 2022
+  # Terminates people when they die, immigrate or time ends
+  # From 1980-1984 FAIN is used, thereafter BEF
+  # ****************************************************************************
+  fainlist <- list.files('X:/Data/Rawdata_Hurtig/703775/Grunddata/Population',
+                         '^fain',full.names=TRUE)
+  fain <- rbindlist(
+    lapply(fainlist,function(x){
+      #browser()
+      dat <- importSAS(x,keep=c("pnr","koen"))
+      dat[,referencetid:=as.Date(paste0(substr(x,56,59),"-12-31"))]
+      dat
+    })
+  )
+  t_person <- importSAS('X:/Data/Rawdata_Hurtig/703775/Grunddata/Population/t_person.sas7bdat',
+                        keep = c("pnr","d_foddato"))
+  setnames(t_person,"d_foddato","foed_dag") #align with bef
+  fain <- merge(fain,t_person,all.x = TRUE,by="pnr")
+  
+  beflist <- list.files('X:/Data/Rawdata_Hurtig/703775/Grunddata/Population',
+                        '^bef',full.names=TRUE)
+  # Another Example going from 1997-2022. Use ChatGPT to generate your own regular expression
+  # beflist <- list.files('X:/Data/Rawdata_Hurtig/703775/Grunddata/Population',
+  #                        '^bef(199[7-9]|200[0-9]|201[0-9]|202[0-2]).*',full.names = TRUE)
+  cl <- makeCluster(10)
+  registerDoParallel(cl)
+  dat <- rbindlist(
+    foreach(x=1:length(beflist),.packages=c("haven","heaven","data.table")) %dopar% {
+      dat <- setDT(read_sas(beflist[x],col_select = c("PNR","FOED_DAG","KOEN", "REFERENCETID")))
+    }           
+  )
+  stopCluster(cl)
+  registerDoSEQ()
+  gc()
+  
+  names(dat) <- tolower(names(dat)) #fjerner upper case
+  dat <- rbind(fain,dat)
+  dat <- dat[pnr != ""]
+  setkeyv(dat,c("pnr","referencetid"))
+  dat[,dist:=fifelse(year(referencetid)>2007,95,370)]
+  
+  dat[pnr==shift(pnr) & (referencetid-shift(referencetid)>dist),pause:=1] 
+  dat[,pause:=nafill(pause, type="locf"),by="pnr"] #mark all after break
+  dat <- dat[is.na(pause)] #keep until first pause
+  setkeyv(dat,c("pnr","referencetid"))
+  dat <- dat[,.(foed_dag=foed_dag[1], koen=koen[1],inn=referencetid[1],out=referencetid[.N]),by="pnr"] 
+  dat <- dat[,.SD[1],by="pnr"]
+  
+  vnds <- importSAS('X:/Data/Rawdata_Hurtig/703775/Grunddata/Population/vnds2022.sas7bdat',
+                    where="indud_kode='U'",)
+  vnds <- merge(vnds,dat,all.x=TRUE,by="pnr")
+  vnds <- vnds[haend_dato>out,.(pnr,haend_dato)]
+  setkeyv(vnds,c("pnr","haend_dato"))
+  vnds <- vnds[,.SD[1],by="pnr"]
+  death <- importSAS('X:/Data/Rawdata_Hurtig/703775/Grunddata/Death/dod.sas7bdat')
+  dat <- Reduce(function(x,y){merge(x,y,all.x=TRUE,by="pnr")},list(dat,vnds,death[,.(pnr,doddato)]))
+  dat[year(out)>2007,out:=out+91]
+  dat[year(out)<2008,out:=out+365]
+  dat[doddato<inn,doddato:=NA] # To m?rkelige d?dsfald
+  dat[,out:=pmin(out,doddato,haend_dato,na.rm=TRUE)] 
+  dat
   }),
 
 # Often useful to limit subsequent data to population of interest
@@ -112,7 +142,7 @@ tar_target(death,{importSAS("Z:/Workdata/703573/3740 Diabetes/Grunddata/death/do
 # 
 # The example shows how to extract a couple of simple values 
 #
-# A table of NPU-codes is available at: V:/Data/Alle/Blodprøver/npu_definition_270918.sas7bdat
+# A table of NPU-codes is available at: V:/Data/Alle/Blodpr?ver/npu_definition_270918.sas7bdat
 # ******************************************************************************
 # Data with NPU-codes for laboratory values
 
@@ -132,14 +162,14 @@ tar_target(lab, {
 # Using hospital register data is challenging.  The register was originally organized
 # in 1978 as LPR1, extended with more data in 1994 as LPR2.
 # 
-# LPR 1/2 has a record for each "forløb" (course) - one record for each hospital department
+# LPR 1/2 has a record for each "forl?b" (course) - one record for each hospital department
 # that have handled the case and one for a series of related outpatient visits. LPR2/3
 # has a pattype which is zero for inpatient treatment and greater numbers for other
 # situations. Take particular care with emergency room visits which have changed 
 # recording over time.
 # 
 # In accordance with previous habits of our environemnt we have maintained to produce
-# diag_indl which has diagnoses and start/ned of "forløb"
+# diag_indl which has diagnoses and start/ned of "forl?b"
 # opr - which has procedures and examinations
 # as well as separate files for psychiatric hospital contacts whens requested for projects
 # 
